@@ -45,13 +45,14 @@ To uninstall, remove PzCraft from Project Zomboid's `mods` folder and remove its
 | T or / | Open Minecraft chat or commands |
 | F5 | Change Minecraft camera perspective |
 
-## Weather commands
+## Commands
 
 | Command | Action |
 |---|---|
 | `/weather clear\|rain\|thunder [duration]` | Minecraft's weather command; PZ's weather follows (PZ draws the sky) |
 | `/weather drizzle\|showers\|heavy\|storm\|tropical\|blizzard\|snow [duration]` | PZ's weather variations |
 | `/weather fog [0..1]` | PZ fog density until `/weather clear` or `/weather fog 0` |
+| `/pzgive <item> [count]` | Give Steve an item exported from PZ; tab-complete item IDs |
 
 ## What is included
 
