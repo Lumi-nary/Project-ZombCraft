@@ -54,6 +54,14 @@ To uninstall, remove PzCraft from Project Zomboid's `mods` folder and remove its
 
 The bridge currently covers movement and terrain collision, native-world rendering, blocks, survival/HUD, interactions, selected combat, weather/time, entities and vehicles. This is an active project; inventory capacity/overflow, crafting, clothing appearance, several gun types and some edge cases remain incomplete. The M9 visual model/assets are not bundled; M9 rendering requires separately obtained compatible assets and GeckoLib.
 
+## Planned features
+
+- Support more Project Zomboid guns and weapon types.
+- Expand Project Zomboid vehicle support.
+- Integrate more items from both games, including cross-game crafting.
+- Add multiplayer support.
+- Improve performance and optimize the bridge.
+
 ## Build source
 
 The repository contains the mod source and minimal Gradle project files. Build tools and developer automation are intentionally omitted. The Project Zomboid module compiles against local Project Zomboid and ZombieBuddy APIs supplied by the player; it does not bundle those APIs. The Fabric build uses Minecraft/Fabric dependencies and may require a local GeckoLib jar for optional M9 code. The published release jars are the ready-to-install artifacts.
