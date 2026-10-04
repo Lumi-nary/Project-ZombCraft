@@ -9,20 +9,24 @@ This release is an experimental **single-player** integration. It does not inclu
 - Project Zomboid **Build 42.21**
 - **ZombieBuddy 2.3.4** and **Viewpoint**, installed separately in Project Zomboid
 - **Prism Launcher** with a Minecraft **26.3** instance
-- Fabric Loader **0.19.5** and Fabric API **0.161.0+26.3** in that Prism instance
+- Fabric Loader **0.19.5**, Fabric API **0.161.0+26.3**, and GeckoLib **5.5.7** for Fabric/Minecraft 26.3 in that Prism instance
 - Java **25**
 - Windows, for the current shared-memory bridge implementation
+
+**Better Combat is optional.** Install a version compatible with Minecraft 26.3 and Fabric Loader 0.19.5 if you want its melee animations. PzCraft still supports vanilla combat without it.
 
 These versions describe the release build. Multiplayer and other game/loader versions are not verified.
 
 ## Install
 
-1. In Prism Launcher, create a Minecraft 26.3 instance and install Fabric Loader 0.19.5 and Fabric API 0.161.0+26.3.
+1. In Prism Launcher, create a Minecraft 26.3 instance and install Fabric Loader 0.19.5, Fabric API 0.161.0+26.3, and GeckoLib 5.5.7 for Fabric/Minecraft 26.3. Better Combat is optional.
 2. Copy `Project-ZombCraft-Fabric-0.13.0.jar` from the release into that instance's `mods` folder. Keep Prism's Java runtime set to Java 25.
 3. Extract `Project-ZombCraft-Zomboid-0.13.0.zip` into your Project Zomboid user `mods` folder. It should create `PzCraft/42/mod.info` and `PzCraft/42/media/java/PzCraft.jar`.
 4. Enable **ZombieBuddy**, **Viewpoint**, and **PzCraft** in the Project Zomboid mod list.
 5. Start the Prism instance, then start Project Zomboid and load a single-player world. If PzCraft tries to launch a locally configured Minecraft command, set `autolaunch=false` in `Zomboid/Lua/pzcraft.properties` and start Minecraft from Prism first.
 6. In Viewpoint's 3D view, press **O** to enter first person and capture the mouse. Minecraft's HUD and Steve should appear in the Project Zomboid scene.
+
+If Minecraft crashes or closes, launch it again from the same Prism instance. Once it has loaded, return to the Project Zomboid world and re-enter Viewpoint's 3D view to reconnect. If the link does not recover, reload the single-player world after Minecraft is running.
 
 To uninstall, remove PzCraft from Project Zomboid's `mods` folder and remove its Fabric jar from the Prism instance's `mods` folder. Keep or back up both games' saves before changing mod setups.
 
