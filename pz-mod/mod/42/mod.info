@@ -1,0 +1,9 @@
+name=PzCraft
+id=PzCraft
+description=Minecraft mechanics inside Project Zomboid.
+modversion=0.13.0
+versionMin=42.21
+require=\ZombieBuddy,\Viewpoint
+javaJarFile=media/java/PzCraft.jar
+javaPkgName=pzcraft.pz
+

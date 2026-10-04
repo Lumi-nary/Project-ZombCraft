@@ -66,4 +66,3 @@ Project ZombCraft is an independent community project and is not affiliated with
 ## License
 
 The Project ZombCraft code in this repository is licensed under the MIT License. This does not grant rights to third-party game files, mods, trademarks, or assets.
-

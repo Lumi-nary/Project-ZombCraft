@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "pzcraft",
+	"version": "${version}",
+	"name": "PzCraft",
+	"description": "Minecraft client component for Project ZombCraft.",
+	"authors": ["Lumi-nary"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"pzcraft.mc.PzCraftMain"
+		],
+		"client": [
+			"pzcraft.mc.PzCraftClient"
+		]
+	},
+	"mixins": [
+		"pzcraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
+

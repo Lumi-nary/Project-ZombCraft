@@ -1,0 +1,68 @@
+plugins {
+	id 'net.fabricmc.fabric-loom' version "${loom_version}"
+}
+
+repositories {
+}
+
+// The wire protocol is shared with the PZ side as plain sources, so both jars carry the same code.
+sourceSets.main.java.srcDir '../protocol/src/main/java'
+
+loom {
+	runs {
+		client {
+			// A stable offline profile retains inventory and bed spawn across development launches.
+			programArgs '--username', 'ZombCraftPlayer'
+		}
+	}
+	mods {
+		"pzcraft" {
+			sourceSet sourceSets.main
+		}
+	}
+}
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+	// Owner-provided runtime, compiled locally without downloading or bundling the library.
+	compileOnly files('run/mods/geckolib-fabric-26.3-5.5.7.jar')
+}
+
+processResources {
+	def version = project.version
+	inputs.property "version", version
+	filesMatching("fabric.mod.json") {
+		expand "version": version
+	}
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_25
+	targetCompatibility = JavaVersion.VERSION_25
+}
+
+// Resolve Loom's own launch settings at build time. Normal play then needs only the game JVM.
+tasks.register('prepareDirectLaunch') {
+	dependsOn 'classes', 'configureLaunch', 'downloadAssets'
+	notCompatibleWithConfigurationCache('Reads the configured Loom run task once to export its launch arguments')
+	doLast {
+		def run = tasks.named('runClient').get()
+		def args = run.allJvmArgs.findAll { !it.startsWith('-Xmx') && !it.startsWith('-Xms') && !it.startsWith('@') }
+		args += ['-Xms256m', '-Xmx2g', '-classpath', run.classpath.asPath, run.mainClass.get()]
+		args += run.args ?: []
+		run.argumentProviders.each { args += it.asArguments() }
+		// Java argument files use their own escaping, not cmd.exe quoting.
+		def quote = { String value -> '"' + value.replace('\\', '\\\\').replace('"', '\\"') + '"' }
+		def target = layout.buildDirectory.file('pzcraft-direct.args').get().asFile
+		target.parentFile.mkdirs()
+		target.text = args.collect { quote(it.toString()) }.join('\n') + '\n'
+		println "Prepared direct Minecraft launch: ${target}"
+	}
+}
+

@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+sourceSets.main.java.srcDir '../protocol/src/main/java'
+
+dependencies {
+    compileOnly files("${pzDir}/ZombieBuddy.jar")
+    compileOnly files("${pzDir}/projectzomboid.jar")
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 25
+}
+
+jar {
+    archiveFileName = 'PzCraft.jar'
+}

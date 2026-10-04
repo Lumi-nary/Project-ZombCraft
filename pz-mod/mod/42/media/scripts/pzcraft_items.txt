@@ -1,0 +1,16 @@
+module PzCraft
+{
+    /*
+     * One stack of something only Minecraft has (TNT, gravel, an elytra...), carried in the hidden PZ copy of Steve's
+     * inventory. The Minecraft item itself is kept in the item's mod data; this is only its stand-in on the PZ side, so PZ
+     * can show it, weigh it a little and carry it. Hidden: it is never offered to Minecraft as an item type of its own.
+     */
+    item MCItem
+    {
+        DisplayCategory = Junk,
+        ItemType = base:normal,
+        Weight = 0.01,
+        Icon = RubberBand,
+        hidden = true,
+    }
+}
