@@ -67,13 +67,19 @@ public class PzCraftClient implements ClientModInitializer {
 		ClientTickEvents.END_CLIENT_TICK.register(PzCraftClient::onTick);
 	}
 
+	/** Minecraft closes with PZ unless told otherwise: -Dpzcraft.autoexit=false, or PZCRAFT_AUTOEXIT=0 in the environment. */
+	private static boolean autoExit() {
+		String v = System.getProperty("pzcraft.autoexit", System.getenv("PZCRAFT_AUTOEXIT"));
+		return v == null || !(v.equals("0") || v.equalsIgnoreCase("false") || v.equalsIgnoreCase("off"));
+	}
+
 	/** Heartbeat + event pump, independent of the game tick so the link stays alive on loading screens. */
 	private static void linkLoop() {
 		SharedLink l = Session.link;
 		boolean wasAlive = false;
 		boolean everConnected = false;
-		long lastAlive = System.currentTimeMillis();
-		boolean autoExit = System.getenv("PZCRAFT_AUTOEXIT") != null;
+		long goneSince = 0;
+		boolean autoExit = autoExit();
 		long lastBeat = 0;
 		while (true) {
 			try {
@@ -91,13 +97,19 @@ public class PzCraftClient implements ClientModInitializer {
 						MaterialField.reset();
 						if (!alive) CollisionField.vehicles(java.util.List.of());
 						if (alive) everConnected = true;
+						else goneSince = now;
 					}
-				}
-				if (wasAlive) lastAlive = now;
-				else if (autoExit && everConnected && now - lastAlive > 20_000) {
-					LOG.info("PZ has been gone for 20 s; closing Minecraft");
-					Minecraft.getInstance().execute(() -> Minecraft.getInstance().stop());
-					return;
+					if (autoExit && everConnected && !alive) {
+						// PZ quit, crashed or was killed: follow it out; Minecraft saves the world as it stops. A PZ that
+						// still runs but stopped beating gets longer. Counted from when it was missed, so a PC waking
+						// from sleep is not taken for a quit.
+						boolean quit = !l.peerProcessAlive();
+						if (now - goneSince > (quit ? 3_000 : 20_000)) {
+							LOG.info(quit ? "PZ has quit; closing Minecraft" : "PZ has been silent for 20 s; closing Minecraft");
+							Minecraft.getInstance().execute(() -> Minecraft.getInstance().stop());
+							return;
+						}
+					}
 				}
 				if (Session.needPlacement) {
 					Session.needPlacement = false;
@@ -173,11 +185,14 @@ public class PzCraftClient implements ClientModInitializer {
 			mc.options.framerateLimit().set(90); // PZ shares this GPU; the overlay needs ~70 fps at most
 			mc.options.renderDistance().set(3);
 			mc.options.cloudStatus().set(net.minecraft.client.CloudStatus.OFF); // PZ draws the sky
+			// PZ plays its own soundtrack; jukeboxes and note blocks are a separate slider and still sound.
+			mc.options.getSoundSourceOptionInstance(net.minecraft.sounds.SoundSource.MUSIC).set(0.0);
 			mc.options.chatVisibility().set(net.minecraft.world.entity.player.ChatVisiblity.FULL);
 			mc.options.gamma().set(0.8); // placed blocks sit in a dark void world; keep them readable
 			mc.options.tutorialStep = net.minecraft.client.tutorial.TutorialSteps.NONE; // no "Move with WASD" toast over PZ
 			// The overlay is drawn at a fixed size over PZ's picture: render Minecraft at 1280x720 whatever the window was.
 			mc.getWindow().setWindowed(1280, 720);
+			LOG.info("Session options applied (Minecraft music volume {})", mc.options.getSoundSourceVolume(net.minecraft.sounds.SoundSource.MUSIC));
 		}
 		WorldBootstrap.tick(mc);
         BlockSceneExporter.tick(mc);

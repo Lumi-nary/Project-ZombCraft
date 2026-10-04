@@ -121,11 +121,15 @@ public final class SharedLink implements AutoCloseable {
 
     /** Peer has beaten recently and its process still exists. */
     public boolean peerAlive() {
+        return peerProcessAlive() && System.currentTimeMillis() - peerBeat() < HEARTBEAT_TIMEOUT_MS;
+    }
+
+    /** The peer's process still exists, whatever its heartbeat says: tells a stalled peer from one that has quit. */
+    public boolean peerProcessAlive() {
         long pid = peerPid();
         if (pid == 0) return false;
         Optional<ProcessHandle> ph = ProcessHandle.of(pid);
-        if (ph.isEmpty() || !ph.get().isAlive()) return false;
-        return System.currentTimeMillis() - peerBeat() < HEARTBEAT_TIMEOUT_MS;
+        return ph.isPresent() && ph.get().isAlive();
     }
 
     public long peerPidOrZero() { return peerPid(); }
