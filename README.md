@@ -1,5 +1,7 @@
 # Project ZombCraft
 
+> **This project is discontinued.** The last release is v0.13.1. For a more complete project of this kind, see https://www.youtube.com/watch?v=uLQqniyj14g
+
 Project ZombCraft connects **Project Zomboid Build 42** with a real **Minecraft Fabric client**. Project Zomboid remains the world and zombie simulation; Minecraft supplies Steve, movement, blocks, inventory, survival and the HUD. The two clients communicate through a local shared-memory link.
 
 This release is an experimental **single-player** integration. It does not include Project Zomboid, Minecraft, Viewpoint, ZombieBuddy, GeckoLib, private reference files, or licensed model and audio assets.
