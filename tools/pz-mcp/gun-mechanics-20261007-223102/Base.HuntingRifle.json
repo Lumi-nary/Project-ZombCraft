@@ -1,0 +1,237 @@
+{
+  "gun": "Base.HuntingRifle",
+  "catalogue": {
+    "reloadType": "boltactionnomag",
+    "magazine": null,
+    "ammoKey": "Base.308Bullets",
+    "maxAmmo": 4,
+    "rackAfterShoot": true,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 23,
+    "projectiles": 1,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.HuntingRifle whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "c14"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 4.19,
+      "state": {
+        "clip": false,
+        "ammo": 3,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 4
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 3,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 3,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": true,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 racked",
+      "state": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 4,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 19,
+        "itemId": 936235167,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 4,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 8.47,
+      "step": "fixture",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 9.72,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 10.43,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 11.24,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 11.94,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 12.54,
+      "step": "fixture",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 16.24,
+      "step": "1 rounds loaded",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 21.15,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 23.71,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 26.29,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 31.23,
+      "step": "3 dry click",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 32.48,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 33.28,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 33.99,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.55,
+      "plays": 1
+    },
+    {
+      "t": 34.49,
+      "step": "4 rounds taken out",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 35.75,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 37.55,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [
+    "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\gun-mechanics-20261007-223102\\Base.HuntingRifle-reload.png",
+    "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\gun-mechanics-20261007-223102\\Base.HuntingRifle-shot.png"
+  ],
+  "cleanupErrors": []
+}

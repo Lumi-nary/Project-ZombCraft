@@ -1,0 +1,10 @@
+name=Project-ZombCraft
+id=Project-ZombCraft
+description=Minecraft mechanics inside Project Zomboid (personal build).
+modversion=0.17.0
+versionMin=42.21
+require=\ZombieBuddy,\Viewpoint
+javaJarFile=media/java/Project-ZombCraft.jar
+javaPkgName=pzcraft.pz
+author=Lumi-nary
+url=https://github.com/Lumi-nary/Project-ZombCraft

@@ -1,0 +1,16 @@
+# blender-mcp
+> AI-powered 3D creation and automation via FastMCP — Blender modeling, animation, rendering, and scene management.
+
+## Core Reference
+- [llms-full.txt](llms-full.txt): Full tool reference, API docs, architecture, env vars, and installation.
+
+## Docs
+- [Readme](README.md): Project overview, architecture, and quality stack.
+- [Changelog](CHANGELOG.md): Release history and transitions.
+- [Development](docs/development/README.md): Best practices for AI-assisted development.
+- [MCP Technical](docs/mcp-technical/README.md): Blender-MCP bridge and session management.
+
+## Configuration
+- [Pyproject](pyproject.toml): Python project configuration.
+- [Cargo](Cargo.toml): Rust project configuration.
+- [Package](webapp/frontend/package.json): Node.js webapp configuration.

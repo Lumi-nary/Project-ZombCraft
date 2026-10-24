@@ -1,0 +1,13 @@
+{
+  "stage": "moving",
+  "fallingTriangles": 12,
+  "shotFalling": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-falling.png",
+  "tntTriangles": 12,
+  "shotTnt": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-tnt.png",
+  "pistonExtendingTriangles": 32,
+  "shotPistonExtending": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-piston-extending.png",
+  "shotPistonExtended": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-piston-extended.png",
+  "pistonRetractingTriangles": 32,
+  "shotPistonRetracting": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-piston-retracting.png",
+  "pass": true
+}

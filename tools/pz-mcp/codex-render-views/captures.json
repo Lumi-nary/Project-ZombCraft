@@ -1,0 +1,182 @@
+[
+  {
+    "name": "sword",
+    "native": {
+      "failed": false,
+      "triangles": 532,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 3.1268
+    }
+  },
+  {
+    "name": "pickaxe",
+    "native": {
+      "failed": false,
+      "triangles": 500,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 11.5022
+    }
+  },
+  {
+    "name": "planks",
+    "native": {
+      "failed": false,
+      "triangles": 228,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 1.451
+    }
+  },
+  {
+    "name": "glass",
+    "native": {
+      "failed": false,
+      "triangles": 228,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 13.2913
+    }
+  },
+  {
+    "name": "beef",
+    "native": {
+      "failed": false,
+      "triangles": 412,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 12.6264
+    }
+  },
+  {
+    "name": "pz-magazine",
+    "native": {
+      "failed": false,
+      "triangles": 660,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 22.0525
+    }
+  },
+  {
+    "name": "katana-camera0",
+    "native": {
+      "failed": false,
+      "triangles": 700,
+      "batches": 6,
+      "drawnBatches": 3,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 6,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 10.5601
+    },
+    "steve": {
+      "x": 2164.5,
+      "y": 0,
+      "z": 6126.5,
+      "yaw": 45.00001525878906,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    }
+  },
+  {
+    "name": "katana-camera2",
+    "native": {
+      "failed": false,
+      "triangles": 458,
+      "batches": 5,
+      "drawnBatches": 5,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 6,
+      "handBatches": 0,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 2,
+      "frameAgeMs": 113.3915
+    },
+    "steve": {
+      "x": 2164.5,
+      "y": 0,
+      "z": 6126.5,
+      "yaw": 45.00001525878906,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    }
+  },
+  {
+    "name": "katana-camera1",
+    "native": {
+      "failed": false,
+      "triangles": 450,
+      "batches": 5,
+      "drawnBatches": 5,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 6,
+      "handBatches": 0,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 2,
+      "frameAgeMs": 9.6153
+    },
+    "steve": {
+      "x": 2164.5,
+      "y": 0,
+      "z": 6126.5,
+      "yaw": 45.00001525878906,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    }
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pzcraft.protocol.VehicleHullTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-08T14:30:13.440Z" hostname="MAPLE" time="0.003">
+  <properties/>
+  <testcase name="carCanMoveWithoutLeavingOldShapesAndHasRealHeight()" classname="pzcraft.protocol.VehicleHullTest" time="0.001"/>
+  <testcase name="snapshotRoundTripAndRemoval()" classname="pzcraft.protocol.VehicleHullTest" time="0.001"/>
+  <testcase name="diagonalCarHasNoCollisionInEmptyBoundingBoxCorners()" classname="pzcraft.protocol.VehicleHullTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

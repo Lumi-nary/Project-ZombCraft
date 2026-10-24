@@ -1,0 +1,181 @@
+{
+  "gun": "Base.DoubleBarrelShotgunSawnoff",
+  "catalogue": {
+    "reloadType": "doublebarrelshotgunsawn",
+    "magazine": null,
+    "ammoKey": "Base.ShotgunShells",
+    "maxAmmo": 2,
+    "rackAfterShoot": false,
+    "haveChamber": false,
+    "insertAll": true,
+    "needsClose": true,
+    "manualSpent": false,
+    "recoilDelay": 34,
+    "projectiles": 9,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.DoubleBarrelShotgunSawnoff whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "citorisawn"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 3.23,
+      "state": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 2
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 1,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 2,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 253,
+        "itemId": 1131023547,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 2,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 2
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 8.28,
+      "step": "fixture",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 10.18,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 11.42,
+      "step": "fixture",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 12.93,
+      "step": "1 rounds loaded",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 14.7,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 19.22,
+      "step": "3 dry click",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 21.08,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 24.22,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 25.77,
+      "step": "3 dry click",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 27.07,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 28.52,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [],
+  "cleanupErrors": []
+}

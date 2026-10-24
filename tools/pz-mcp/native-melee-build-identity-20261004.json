@@ -1,0 +1,14 @@
+{
+  "pz-mod/build/libs/PzCraft.jar": {
+    "bytes": 312081,
+    "sha256": "7376e19a93aeb975ce949817dd871c13e31f9f0a761bedf635cd1dadfc424fe9"
+  },
+  "fabric-mod/build/libs/pzcraft-fabric-0.13.0.jar": {
+    "bytes": 337949,
+    "sha256": "fbd28719c91a14332fcd0a207d8c80c8954d08cfc703331855d078c8fa3b977b"
+  },
+  "E:/Zomboid/mods/PzCraft/42/media/java/PzCraft.jar": {
+    "bytes": 312081,
+    "sha256": "7376e19a93aeb975ce949817dd871c13e31f9f0a761bedf635cd1dadfc424fe9"
+  }
+}

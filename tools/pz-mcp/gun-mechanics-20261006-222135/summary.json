@@ -1,0 +1,17 @@
+{
+  "Base.DoubleBarrelShotgun": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.DoubleBarrelShotgunSawnoff": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.AssaultRifle": {
+    "passed": false,
+    "error": "AssertionError()",
+    "cleanupErrors": []
+  }
+}

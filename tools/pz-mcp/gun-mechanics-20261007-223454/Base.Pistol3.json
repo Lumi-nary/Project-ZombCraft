@@ -1,0 +1,179 @@
+{
+  "gun": "Base.Pistol3",
+  "catalogue": {
+    "reloadType": "handgun",
+    "magazine": "Base.44Clip",
+    "ammoKey": "Base.Bullets44",
+    "maxAmmo": 8,
+    "rackAfterShoot": false,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 17,
+    "projectiles": 1,
+    "fireMode": null
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.Pistol3 whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "deserteagle"
+    },
+    {
+      "name": "1 magazine reload",
+      "seconds": 2.04,
+      "state": {
+        "clip": true,
+        "ammo": 7,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": true,
+        "ammo": 7,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": true,
+        "ammo": 6,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 8,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 104,
+        "itemId": 162563390,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 8,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 magazine ejected",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspect",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 7.83,
+      "step": "fixture",
+      "clip": "reloadempty",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 10.8,
+      "step": "1 magazine reload",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 11.84,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 13.17,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 14.38,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 15.67,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 16.93,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 18.22,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 19.54,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 24.05,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 26.52,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [],
+  "cleanupErrors": []
+}

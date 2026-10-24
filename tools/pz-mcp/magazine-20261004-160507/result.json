@@ -1,0 +1,139 @@
+{
+  "passed": false,
+  "before": {
+    "inventory": [
+      "1 minecraft:iron_sword",
+      "1 minecraft:iron_pickaxe",
+      "64 minecraft:oak_planks",
+      "64 minecraft:stone",
+      "32 minecraft:glass",
+      "15 minecraft:cooked_beef",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Sledgehammer whole",
+      "1 pz:Base.Katana whole",
+      "1 pz:Base.TinOpener whole",
+      "1 pz:Base.CannedCornedBeef whole",
+      "0 minecraft:air",
+      "1 pz:Base.9mmClip whole r=0",
+      "1 pz:Base.Pistol whole r=0",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Bag_AmmoBox_9mm whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "slot": 6,
+    "look": {
+      "yaw": 45.00001525878906,
+      "pitch": 0
+    }
+  },
+  "steps": [
+    {
+      "name": "right-click loads",
+      "status": {
+        "sequence": 1,
+        "itemId": 1466082799,
+        "status": "loaded (15 rounds in)",
+        "ammo": 15,
+        "capacity": 15
+      },
+      "loaded": 15,
+      "magazine": 15,
+      "loose": 5
+    },
+    {
+      "name": "minecraft shows the rounds",
+      "stack": "1 pz:Base.9mmClip whole r=15",
+      "loose_stack": "5 pz:Base.Bullets9mm"
+    }
+  ],
+  "looseBefore": 0,
+  "error": "timed out after 6s waiting for unloading to start",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-magazine.py\", line 105, in run\n    p.wait_for(lambda: p.state()['pzGuns']['loading'] or None, 6, .1, 'unloading to start')\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\pzcore.py\", line 293, in wait_for\n    raise PzError(f\"timed out after {timeout:.0f}s waiting for {what}\")\npzcore.PzError: timed out after 6s waiting for unloading to start\n",
+  "after": {
+    "inventory": [
+      "1 minecraft:iron_sword",
+      "1 minecraft:iron_pickaxe",
+      "64 minecraft:oak_planks",
+      "64 minecraft:stone",
+      "32 minecraft:glass",
+      "15 minecraft:cooked_beef",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Sledgehammer whole",
+      "1 pz:Base.Katana whole",
+      "1 pz:Base.TinOpener whole",
+      "1 pz:Base.CannedCornedBeef whole",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Pistol whole r=0",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Bag_AmmoBox_9mm whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "slot": 6,
+    "paused": true,
+    "mirror": "in step",
+    "pzGuns": {
+      "shots": 0,
+      "dry": 0,
+      "hits": 0,
+      "noise": 0,
+      "reloads": 0,
+      "cancelled": 0,
+      "rejected": 1,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 2,
+        "itemId": 1466082799,
+        "status": "magazine full",
+        "ammo": 15,
+        "capacity": 15
+      },
+      "loading": false,
+      "roundsLoaded": 15,
+      "roundsUnloaded": 0
+    }
+  },
+  "cleanupErrors": [
+    "inventory: timed out after 30s waiting for the inventory to be restored"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "version": "0.10.0",
+  "maintainers": [
+    "sandraschi"
+  ],
+  "name": "blender-mcp",
+  "description": "Professional MCP server built with FastMCP 3.4.2. Blender 3D automation — modeling, animation, rendering, and scene management.",
+  "type": "mcp_server",
+  "status": "production",
+  "framework": "FastMCP 3.4.2",
+  "transport": [
+    "stdio",
+    "http"
+  ],
+  "keywords": [
+    "blender",
+    "3d-modeling",
+    "animation",
+    "rendering",
+    "mcp-server",
+    "fastmcp"
+  ]
+}

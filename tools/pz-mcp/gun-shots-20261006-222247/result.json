@@ -1,0 +1,108 @@
+{
+  "gun": "Base.Shotgun",
+  "catalogue": {
+    "projectiles": 9,
+    "spread": 1.0,
+    "piercing": false,
+    "maxHitCount": 9,
+    "maxRange": 12.0,
+    "rackAfterShoot": true,
+    "haveChamber": true
+  },
+  "steps": [
+    {
+      "name": "probe 0",
+      "end": [
+        2135.847165315817,
+        1.6200000047683716,
+        6154.498242175579
+      ],
+      "distance": 15.644124204239233,
+      "block": null,
+      "impacts": 5,
+      "pellets": 4
+    },
+    {
+      "name": "probe 90",
+      "end": [
+        2119.628466808796,
+        1.6200000047683716,
+        6138.85411797134
+      ],
+      "distance": 16.218698507021145,
+      "block": null,
+      "impacts": 3,
+      "pellets": 4
+    },
+    {
+      "name": "probe 180",
+      "end": [
+        2135.8460559026817,
+        1.6200000047683716,
+        6127.282519543171
+      ],
+      "distance": 11.571598481351463,
+      "block": null,
+      "impacts": 8,
+      "pellets": 4
+    },
+    {
+      "name": "probe 270",
+      "end": [
+        2136.747753894329,
+        1.6200000047683716,
+        6138.8542043141915
+      ],
+      "distance": 0.9005885826508241,
+      "block": null,
+      "impacts": 9,
+      "pellets": 4
+    },
+    {
+      "name": "probe 45",
+      "end": [
+        2123.118633305505,
+        1.6200000047683716,
+        6151.581430054513
+      ],
+      "distance": 18.000000000000025,
+      "block": null,
+      "impacts": 0,
+      "pellets": 4
+    },
+    {
+      "name": "pellets: three zombies side by side",
+      "rows": [
+        {
+          "hits": 1,
+          "impacts": 9,
+          "pellets": 4,
+          "hit": true
+        },
+        {
+          "hits": 1,
+          "impacts": 9,
+          "pellets": 4,
+          "hit": true
+        },
+        {
+          "hits": 2,
+          "impacts": 9,
+          "pellets": 4,
+          "hit": true
+        }
+      ],
+      "best": 2,
+      "impacts": {
+        "sprites": 25,
+        "blood": 78,
+        "mist": 18,
+        "debris": 0,
+        "smoke": 9,
+        "chips": 10
+      }
+    }
+  ],
+  "passed": true,
+  "cleanupErrors": []
+}

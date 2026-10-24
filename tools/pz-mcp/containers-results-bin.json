@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "container": {
+    "x": 2149,
+    "y": 6105,
+    "index": 1,
+    "containers": 1,
+    "items": 3,
+    "name": ""
+  },
+  "before": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1,
+    "Base.TinCanEmpty": 1
+  },
+  "screen": {
+    "rows": 1,
+    "shown": {
+      "Base.BeerCanEmpty": 1,
+      "Base.PlasticCup": 1,
+      "Base.TinCanEmpty": 1
+    },
+    "hidden": 0
+  },
+  "taken": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1
+  },
+  "gained": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1
+  },
+  "stoneStayed": true,
+  "afterTake": {
+    "Base.TinCanEmpty": 1
+  },
+  "pzStats": {
+    "opened": 1,
+    "committed": 1,
+    "itemsTaken": 2,
+    "itemsAdded": 0,
+    "failures": 0,
+    "last": "committed"
+  },
+  "restored": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1,
+    "Base.TinCanEmpty": 1
+  },
+  "inventoryRestored": true,
+  "mcStats": {
+    "opened": 2,
+    "committed": 2,
+    "itemsTaken": 2,
+    "itemsAdded": 2,
+    "hiddenStacks": 0,
+    "last": "committed 0 taken, 2 added"
+  }
+}

@@ -1,0 +1,3213 @@
+{
+  "source": "fabric-run-live.log",
+  "window": [
+    "18:00:00",
+    "18:13:59"
+  ],
+  "shots": [
+    {
+      "sequence": 50,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106337,
+      "time": "18:03:17"
+    },
+    {
+      "sequence": 52,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106341,
+      "time": "18:03:17"
+    },
+    {
+      "sequence": 53,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106346,
+      "time": "18:03:18"
+    },
+    {
+      "sequence": 55,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106352,
+      "time": "18:03:19"
+    },
+    {
+      "sequence": 56,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106358,
+      "time": "18:03:21"
+    },
+    {
+      "sequence": 58,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106363,
+      "time": "18:03:22"
+    },
+    {
+      "sequence": 59,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106366,
+      "time": "18:03:22"
+    },
+    {
+      "sequence": 60,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106372,
+      "time": "18:03:23"
+    },
+    {
+      "sequence": 61,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106376,
+      "time": "18:03:24"
+    },
+    {
+      "sequence": 63,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106381,
+      "time": "18:03:25"
+    },
+    {
+      "sequence": 64,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106386,
+      "time": "18:03:26"
+    },
+    {
+      "sequence": 65,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106392,
+      "time": "18:03:28"
+    },
+    {
+      "sequence": 66,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106396,
+      "time": "18:03:28"
+    },
+    {
+      "sequence": 67,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106402,
+      "time": "18:03:30"
+    },
+    {
+      "sequence": 125,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106513,
+      "time": "18:03:52"
+    },
+    {
+      "sequence": 128,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106519,
+      "time": "18:03:52"
+    },
+    {
+      "sequence": 130,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106525,
+      "time": "18:03:52"
+    },
+    {
+      "sequence": 132,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106531,
+      "time": "18:03:53"
+    },
+    {
+      "sequence": 133,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106535,
+      "time": "18:03:54"
+    },
+    {
+      "sequence": 134,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106539,
+      "time": "18:03:54"
+    },
+    {
+      "sequence": 135,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106543,
+      "time": "18:03:55"
+    },
+    {
+      "sequence": 136,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106549,
+      "time": "18:03:55"
+    },
+    {
+      "sequence": 137,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106553,
+      "time": "18:03:56"
+    },
+    {
+      "sequence": 138,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106557,
+      "time": "18:03:57"
+    },
+    {
+      "sequence": 139,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106561,
+      "time": "18:03:57"
+    },
+    {
+      "sequence": 140,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106566,
+      "time": "18:03:58"
+    },
+    {
+      "sequence": 141,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106572,
+      "time": "18:03:59"
+    },
+    {
+      "sequence": 142,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106576,
+      "time": "18:04:00"
+    },
+    {
+      "sequence": 143,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106580,
+      "time": "18:04:01"
+    },
+    {
+      "sequence": 144,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106585,
+      "time": "18:04:02"
+    },
+    {
+      "sequence": 201,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106692,
+      "time": "18:04:21"
+    },
+    {
+      "sequence": 203,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106697,
+      "time": "18:04:22"
+    },
+    {
+      "sequence": 204,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106703,
+      "time": "18:04:23"
+    },
+    {
+      "sequence": 205,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106707,
+      "time": "18:04:23"
+    },
+    {
+      "sequence": 206,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106711,
+      "time": "18:04:24"
+    },
+    {
+      "sequence": 207,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106715,
+      "time": "18:04:24"
+    },
+    {
+      "sequence": 208,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106720,
+      "time": "18:04:25"
+    },
+    {
+      "sequence": 209,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106725,
+      "time": "18:04:25"
+    },
+    {
+      "sequence": 210,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106729,
+      "time": "18:04:26"
+    },
+    {
+      "sequence": 211,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106733,
+      "time": "18:04:27"
+    },
+    {
+      "sequence": 212,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106737,
+      "time": "18:04:27"
+    },
+    {
+      "sequence": 214,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106743,
+      "time": "18:04:28"
+    },
+    {
+      "sequence": 217,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106751,
+      "time": "18:04:29"
+    },
+    {
+      "sequence": 219,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106756,
+      "time": "18:04:29"
+    },
+    {
+      "sequence": 220,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106760,
+      "time": "18:04:31"
+    },
+    {
+      "sequence": 238,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106801,
+      "time": "18:04:42"
+    },
+    {
+      "sequence": 241,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106807,
+      "time": "18:04:42"
+    },
+    {
+      "sequence": 244,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106814,
+      "time": "18:04:43"
+    },
+    {
+      "sequence": 247,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106820,
+      "time": "18:04:43"
+    },
+    {
+      "sequence": 336,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107071,
+      "time": "18:06:20"
+    },
+    {
+      "sequence": 337,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107075,
+      "time": "18:06:20"
+    },
+    {
+      "sequence": 338,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107080,
+      "time": "18:06:21"
+    },
+    {
+      "sequence": 339,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107085,
+      "time": "18:06:22"
+    },
+    {
+      "sequence": 341,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107091,
+      "time": "18:06:23"
+    },
+    {
+      "sequence": 342,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107096,
+      "time": "18:06:23"
+    },
+    {
+      "sequence": 343,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107100,
+      "time": "18:06:24"
+    },
+    {
+      "sequence": 344,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107104,
+      "time": "18:06:24"
+    },
+    {
+      "sequence": 345,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107109,
+      "time": "18:06:26"
+    },
+    {
+      "sequence": 346,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107113,
+      "time": "18:06:27"
+    },
+    {
+      "sequence": 347,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107118,
+      "time": "18:06:28"
+    },
+    {
+      "sequence": 348,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107124,
+      "time": "18:06:28"
+    },
+    {
+      "sequence": 349,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107128,
+      "time": "18:06:29"
+    },
+    {
+      "sequence": 350,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107132,
+      "time": "18:06:29"
+    },
+    {
+      "sequence": 351,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107136,
+      "time": "18:06:30"
+    },
+    {
+      "sequence": 418,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107278,
+      "time": "18:07:04"
+    },
+    {
+      "sequence": 420,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107284,
+      "time": "18:07:04"
+    },
+    {
+      "sequence": 422,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107288,
+      "time": "18:07:05"
+    },
+    {
+      "sequence": 425,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107294,
+      "time": "18:07:05"
+    },
+    {
+      "sequence": 428,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107300,
+      "time": "18:07:06"
+    },
+    {
+      "sequence": 430,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107305,
+      "time": "18:07:06"
+    },
+    {
+      "sequence": 432,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107310,
+      "time": "18:07:07"
+    },
+    {
+      "sequence": 433,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107316,
+      "time": "18:07:08"
+    },
+    {
+      "sequence": 434,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107320,
+      "time": "18:07:09"
+    },
+    {
+      "sequence": 435,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107324,
+      "time": "18:07:09"
+    },
+    {
+      "sequence": 436,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107328,
+      "time": "18:07:10"
+    },
+    {
+      "sequence": 437,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107333,
+      "time": "18:07:10"
+    },
+    {
+      "sequence": 439,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107339,
+      "time": "18:07:13"
+    },
+    {
+      "sequence": 441,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107386,
+      "time": "18:08:06"
+    },
+    {
+      "sequence": 442,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107390,
+      "time": "18:08:07"
+    },
+    {
+      "sequence": 505,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107544,
+      "time": "18:08:37"
+    },
+    {
+      "sequence": 508,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107551,
+      "time": "18:08:38"
+    },
+    {
+      "sequence": 511,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107558,
+      "time": "18:08:38"
+    },
+    {
+      "sequence": 513,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107563,
+      "time": "18:08:39"
+    },
+    {
+      "sequence": 515,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107568,
+      "time": "18:08:39"
+    },
+    {
+      "sequence": 517,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107573,
+      "time": "18:08:40"
+    },
+    {
+      "sequence": 519,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107578,
+      "time": "18:08:40"
+    },
+    {
+      "sequence": 521,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107584,
+      "time": "18:08:41"
+    },
+    {
+      "sequence": 523,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107589,
+      "time": "18:08:41"
+    },
+    {
+      "sequence": 525,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107594,
+      "time": "18:08:42"
+    },
+    {
+      "sequence": 527,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107599,
+      "time": "18:08:42"
+    },
+    {
+      "sequence": 528,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107603,
+      "time": "18:08:43"
+    },
+    {
+      "sequence": 529,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107609,
+      "time": "18:08:43"
+    },
+    {
+      "sequence": 530,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107613,
+      "time": "18:08:44"
+    },
+    {
+      "sequence": 531,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107617,
+      "time": "18:08:44"
+    },
+    {
+      "sequence": 554,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107680,
+      "time": "18:09:11"
+    },
+    {
+      "sequence": 557,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107686,
+      "time": "18:09:11"
+    },
+    {
+      "sequence": 560,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": true,
+      "line": 107692,
+      "time": "18:09:12"
+    },
+    {
+      "sequence": 583,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107726,
+      "time": "18:09:18"
+    },
+    {
+      "sequence": 656,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 13,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107863,
+      "time": "18:09:52"
+    },
+    {
+      "sequence": 659,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 12,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107869,
+      "time": "18:09:53"
+    },
+    {
+      "sequence": 662,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 11,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107877,
+      "time": "18:09:53"
+    },
+    {
+      "sequence": 665,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 10,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107883,
+      "time": "18:09:54"
+    },
+    {
+      "sequence": 668,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 9,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107889,
+      "time": "18:09:54"
+    },
+    {
+      "sequence": 671,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 8,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107895,
+      "time": "18:09:55"
+    },
+    {
+      "sequence": 674,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 7,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107902,
+      "time": "18:09:56"
+    },
+    {
+      "sequence": 677,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 6,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107908,
+      "time": "18:09:56"
+    },
+    {
+      "sequence": 679,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 5,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107913,
+      "time": "18:09:57"
+    },
+    {
+      "sequence": 681,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 4,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107917,
+      "time": "18:09:57"
+    },
+    {
+      "sequence": 683,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": true,
+      "line": 107923,
+      "time": "18:09:58"
+    },
+    {
+      "sequence": 698,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107946,
+      "time": "18:10:04"
+    },
+    {
+      "sequence": 699,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 1,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107951,
+      "time": "18:10:05"
+    },
+    {
+      "sequence": 700,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107955,
+      "time": "18:10:05"
+    },
+    {
+      "sequence": 702,
+      "itemId": 1942351916,
+      "status": "fired",
+      "clip": "fire",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107960,
+      "time": "18:10:06"
+    }
+  ],
+  "ammoMirror": [
+    {
+      "line": 106214,
+      "time": "18:02:10",
+      "text": "[18:02:10] [Server thread/INFO] (pzcraft) inventory mirror: applied 678808560132533: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106215,
+      "time": "18:02:10",
+      "text": "[18:02:10] [Server thread/INFO] (pzcraft) inventory mirror: applied 438196222394568: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106217,
+      "time": "18:02:11",
+      "text": "[18:02:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 57535454492569: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106218,
+      "time": "18:02:12",
+      "text": "[18:02:12] [Server thread/INFO] (pzcraft) inventory mirror: applied 429293783675374: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106220,
+      "time": "18:02:12",
+      "text": "[18:02:12] [Server thread/INFO] (pzcraft) inventory mirror: applied 991386053067628: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106222,
+      "time": "18:02:13",
+      "text": "[18:02:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 379274222640384: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106227,
+      "time": "18:02:14",
+      "text": "[18:02:14] [Server thread/INFO] (pzcraft) inventory mirror: applied 376571660731170: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106233,
+      "time": "18:02:17",
+      "text": "[18:02:17] [Server thread/INFO] (pzcraft) inventory mirror: applied 533800092379117: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106238,
+      "time": "18:02:19",
+      "text": "[18:02:19] [Server thread/INFO] (pzcraft) inventory mirror: applied 573867435154609: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106245,
+      "time": "18:02:20",
+      "text": "[18:02:20] [Server thread/INFO] (pzcraft) inventory mirror: applied 466113765959992: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106252,
+      "time": "18:02:21",
+      "text": "[18:02:21] [Server thread/INFO] (pzcraft) inventory mirror: applied 110133237639103: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106257,
+      "time": "18:02:22",
+      "text": "[18:02:22] [Server thread/INFO] (pzcraft) inventory mirror: applied 99092532357272: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106265,
+      "time": "18:02:23",
+      "text": "[18:02:23] [Server thread/INFO] (pzcraft) inventory mirror: applied 732924798286927: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106271,
+      "time": "18:02:23",
+      "text": "[18:02:23] [Server thread/INFO] (pzcraft) inventory mirror: applied 459764149980334: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106275,
+      "time": "18:02:24",
+      "text": "[18:02:24] [Server thread/INFO] (pzcraft) inventory mirror: applied 309002473875773: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||890887562])"
+    },
+    {
+      "line": 106419,
+      "time": "18:03:36",
+      "text": "[18:03:36] [Server thread/INFO] (pzcraft) inventory mirror: applied 658581354106737: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106422,
+      "time": "18:03:37",
+      "text": "[18:03:37] [Server thread/INFO] (pzcraft) inventory mirror: applied 783672214272871: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106432,
+      "time": "18:03:38",
+      "text": "[18:03:38] [Server thread/INFO] (pzcraft) inventory mirror: applied 863019468939214: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106438,
+      "time": "18:03:38",
+      "text": "[18:03:38] [Server thread/INFO] (pzcraft) inventory mirror: applied 681954096795647: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106445,
+      "time": "18:03:40",
+      "text": "[18:03:40] [Server thread/INFO] (pzcraft) inventory mirror: applied 1019362998481675: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106450,
+      "time": "18:03:40",
+      "text": "[18:03:40] [Server thread/INFO] (pzcraft) inventory mirror: applied 11774151113252: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106458,
+      "time": "18:03:41",
+      "text": "[18:03:41] [Server thread/INFO] (pzcraft) inventory mirror: applied 975333881244615: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106462,
+      "time": "18:03:42",
+      "text": "[18:03:42] [Server thread/INFO] (pzcraft) inventory mirror: applied 884741119185058: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106467,
+      "time": "18:03:42",
+      "text": "[18:03:42] [Server thread/INFO] (pzcraft) inventory mirror: applied 498537764946434: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106475,
+      "time": "18:03:43",
+      "text": "[18:03:43] [Server thread/INFO] (pzcraft) inventory mirror: applied 574913323650457: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106480,
+      "time": "18:03:44",
+      "text": "[18:03:44] [Server thread/INFO] (pzcraft) inventory mirror: applied 640521760131666: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106487,
+      "time": "18:03:45",
+      "text": "[18:03:45] [Server thread/INFO] (pzcraft) inventory mirror: applied 733461445334927: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106491,
+      "time": "18:03:45",
+      "text": "[18:03:45] [Server thread/INFO] (pzcraft) inventory mirror: applied 688598840590950: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106494,
+      "time": "18:03:46",
+      "text": "[18:03:46] [Server thread/INFO] (pzcraft) inventory mirror: applied 673690117539420: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106502,
+      "time": "18:03:47",
+      "text": "[18:03:47] [Server thread/INFO] (pzcraft) inventory mirror: applied 650243343889875: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||393586929])"
+    },
+    {
+      "line": 106601,
+      "time": "18:04:06",
+      "text": "[18:04:06] [Server thread/INFO] (pzcraft) inventory mirror: applied 734438899115778: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106608,
+      "time": "18:04:07",
+      "text": "[18:04:07] [Server thread/INFO] (pzcraft) inventory mirror: applied 592099112497663: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106612,
+      "time": "18:04:07",
+      "text": "[18:04:07] [Server thread/INFO] (pzcraft) inventory mirror: applied 765024440199855: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106618,
+      "time": "18:04:08",
+      "text": "[18:04:08] [Server thread/INFO] (pzcraft) inventory mirror: applied 398255656350168: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106622,
+      "time": "18:04:08",
+      "text": "[18:04:08] [Server thread/INFO] (pzcraft) inventory mirror: applied 439634202974330: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106629,
+      "time": "18:04:09",
+      "text": "[18:04:09] [Server thread/INFO] (pzcraft) inventory mirror: applied 225159935489436: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106634,
+      "time": "18:04:10",
+      "text": "[18:04:10] [Server thread/INFO] (pzcraft) inventory mirror: applied 592319440946257: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106642,
+      "time": "18:04:11",
+      "text": "[18:04:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 832058370572423: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106646,
+      "time": "18:04:12",
+      "text": "[18:04:12] [Server thread/INFO] (pzcraft) inventory mirror: applied 429816713016115: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106654,
+      "time": "18:04:13",
+      "text": "[18:04:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 61807544446419: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106658,
+      "time": "18:04:13",
+      "text": "[18:04:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 494776968918045: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106663,
+      "time": "18:04:14",
+      "text": "[18:04:14] [Server thread/INFO] (pzcraft) inventory mirror: applied 229216255581143: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106667,
+      "time": "18:04:15",
+      "text": "[18:04:15] [Server thread/INFO] (pzcraft) inventory mirror: applied 96552699394659: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106672,
+      "time": "18:04:15",
+      "text": "[18:04:15] [Server thread/INFO] (pzcraft) inventory mirror: applied 116657880113804: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106679,
+      "time": "18:04:16",
+      "text": "[18:04:16] [Server thread/INFO] (pzcraft) inventory mirror: applied 1021704173163362: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1915282508])"
+    },
+    {
+      "line": 106774,
+      "time": "18:04:35",
+      "text": "[18:04:35] [Server thread/INFO] (pzcraft) inventory mirror: applied 1024211834111662: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1678991098])"
+    },
+    {
+      "line": 106781,
+      "time": "18:04:36",
+      "text": "[18:04:36] [Server thread/INFO] (pzcraft) inventory mirror: applied 826043678704940: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1678991098])"
+    },
+    {
+      "line": 106785,
+      "time": "18:04:37",
+      "text": "[18:04:37] [Server thread/INFO] (pzcraft) inventory mirror: applied 972950236173743: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1678991098])"
+    },
+    {
+      "line": 106791,
+      "time": "18:04:37",
+      "text": "[18:04:37] [Server thread/INFO] (pzcraft) inventory mirror: applied 632506235553372: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1678991098])"
+    },
+    {
+      "line": 106968,
+      "time": "18:06:03",
+      "text": "[18:06:03] [Server thread/INFO] (pzcraft) inventory mirror: applied 683122828835805: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 106973,
+      "time": "18:06:04",
+      "text": "[18:06:04] [Server thread/INFO] (pzcraft) inventory mirror: applied 45395413397820: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 106982,
+      "time": "18:06:05",
+      "text": "[18:06:05] [Server thread/INFO] (pzcraft) inventory mirror: applied 65463000508218: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 106986,
+      "time": "18:06:05",
+      "text": "[18:06:05] [Server thread/INFO] (pzcraft) inventory mirror: applied 276093329210492: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 106991,
+      "time": "18:06:06",
+      "text": "[18:06:06] [Server thread/INFO] (pzcraft) inventory mirror: applied 402165758536596: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 106999,
+      "time": "18:06:07",
+      "text": "[18:06:07] [Server thread/INFO] (pzcraft) inventory mirror: applied 677128966274954: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107006,
+      "time": "18:06:08",
+      "text": "[18:06:08] [Server thread/INFO] (pzcraft) inventory mirror: applied 911085634264482: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107016,
+      "time": "18:06:09",
+      "text": "[18:06:09] [Server thread/INFO] (pzcraft) inventory mirror: applied 359454065322411: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107021,
+      "time": "18:06:09",
+      "text": "[18:06:09] [Server thread/INFO] (pzcraft) inventory mirror: applied 199548674199448: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107028,
+      "time": "18:06:10",
+      "text": "[18:06:10] [Server thread/INFO] (pzcraft) inventory mirror: applied 948586650482032: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107034,
+      "time": "18:06:11",
+      "text": "[18:06:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 222592126112372: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107038,
+      "time": "18:06:11",
+      "text": "[18:06:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 627079100335534: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107046,
+      "time": "18:06:12",
+      "text": "[18:06:12] [Server thread/INFO] (pzcraft) inventory mirror: applied 757468918630443: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107051,
+      "time": "18:06:13",
+      "text": "[18:06:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 363131994788979: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107057,
+      "time": "18:06:13",
+      "text": "[18:06:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 883562948769913: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||624777428])"
+    },
+    {
+      "line": 107152,
+      "time": "18:06:33",
+      "text": "[18:06:33] [Server thread/INFO] (pzcraft) inventory mirror: applied 26274148272005: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107157,
+      "time": "18:06:34",
+      "text": "[18:06:34] [Server thread/INFO] (pzcraft) inventory mirror: applied 846933943840776: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107174,
+      "time": "18:06:48",
+      "text": "[18:06:48] [Server thread/INFO] (pzcraft) inventory mirror: applied 358848525127617: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107198,
+      "time": "18:06:51",
+      "text": "[18:06:51] [Server thread/INFO] (pzcraft) inventory mirror: applied 183279659466369: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107203,
+      "time": "18:06:52",
+      "text": "[18:06:52] [Server thread/INFO] (pzcraft) inventory mirror: applied 681302423528965: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107208,
+      "time": "18:06:52",
+      "text": "[18:06:52] [Server thread/INFO] (pzcraft) inventory mirror: applied 216399046337372: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107217,
+      "time": "18:06:53",
+      "text": "[18:06:53] [Server thread/INFO] (pzcraft) inventory mirror: applied 874459800097990: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107223,
+      "time": "18:06:54",
+      "text": "[18:06:54] [Server thread/INFO] (pzcraft) inventory mirror: applied 793127025519145: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107228,
+      "time": "18:06:54",
+      "text": "[18:06:54] [Server thread/INFO] (pzcraft) inventory mirror: applied 973683121642027: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107236,
+      "time": "18:06:56",
+      "text": "[18:06:56] [Server thread/INFO] (pzcraft) inventory mirror: applied 190310716754175: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107240,
+      "time": "18:06:56",
+      "text": "[18:06:56] [Server thread/INFO] (pzcraft) inventory mirror: applied 1013811269034547: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107247,
+      "time": "18:06:58",
+      "text": "[18:06:58] [Server thread/INFO] (pzcraft) inventory mirror: applied 430842991142742: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107252,
+      "time": "18:06:58",
+      "text": "[18:06:58] [Server thread/INFO] (pzcraft) inventory mirror: applied 46465500393555: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107261,
+      "time": "18:06:59",
+      "text": "[18:06:59] [Server thread/INFO] (pzcraft) inventory mirror: applied 1106188460676881: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107265,
+      "time": "18:07:00",
+      "text": "[18:07:00] [Server thread/INFO] (pzcraft) inventory mirror: applied 873207459461817: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1955765743])"
+    },
+    {
+      "line": 107406,
+      "time": "18:08:09",
+      "text": "[18:08:09] [Server thread/INFO] (pzcraft) inventory mirror: applied 264422658869330: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107411,
+      "time": "18:08:10",
+      "text": "[18:08:10] [Server thread/INFO] (pzcraft) inventory mirror: applied 798778228121770: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107419,
+      "time": "18:08:11",
+      "text": "[18:08:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 265792153248295: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107423,
+      "time": "18:08:11",
+      "text": "[18:08:11] [Server thread/INFO] (pzcraft) inventory mirror: applied 380416576902080: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107429,
+      "time": "18:08:13",
+      "text": "[18:08:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 183352796247664: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107435,
+      "time": "18:08:13",
+      "text": "[18:08:13] [Server thread/INFO] (pzcraft) inventory mirror: applied 645296928724923: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107440,
+      "time": "18:08:14",
+      "text": "[18:08:14] [Server thread/INFO] (pzcraft) inventory mirror: applied 957297951547668: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107447,
+      "time": "18:08:15",
+      "text": "[18:08:15] [Server thread/INFO] (pzcraft) inventory mirror: applied 686731247197748: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107451,
+      "time": "18:08:15",
+      "text": "[18:08:15] [Server thread/INFO] (pzcraft) inventory mirror: applied 234182405043674: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107459,
+      "time": "18:08:16",
+      "text": "[18:08:16] [Server thread/INFO] (pzcraft) inventory mirror: applied 936745899222992: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107462,
+      "time": "18:08:17",
+      "text": "[18:08:17] [Server thread/INFO] (pzcraft) inventory mirror: applied 410087804123226: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107472,
+      "time": "18:08:18",
+      "text": "[18:08:18] [Server thread/INFO] (pzcraft) inventory mirror: applied 378115815610760: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107479,
+      "time": "18:08:18",
+      "text": "[18:08:18] [Server thread/INFO] (pzcraft) inventory mirror: applied 199374413719881: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107529,
+      "time": "18:08:33",
+      "text": "[18:08:33] [Server thread/INFO] (pzcraft) inventory mirror: applied 121852693896165: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107535,
+      "time": "18:08:33",
+      "text": "[18:08:33] [Server thread/INFO] (pzcraft) inventory mirror: applied 527397212684045: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1526584243])"
+    },
+    {
+      "line": 107635,
+      "time": "18:08:49",
+      "text": "[18:08:49] [Server thread/INFO] (pzcraft) inventory mirror: applied 752394844166944: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1211029336])"
+    },
+    {
+      "line": 107641,
+      "time": "18:08:49",
+      "text": "[18:08:49] [Server thread/INFO] (pzcraft) inventory mirror: applied 955293497592189: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1211029336])"
+    },
+    {
+      "line": 107647,
+      "time": "18:08:50",
+      "text": "[18:08:50] [Server thread/INFO] (pzcraft) inventory mirror: applied 512784143734862: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1211029336])"
+    },
+    {
+      "line": 107650,
+      "time": "18:08:51",
+      "text": "[18:08:51] [Server thread/INFO] (pzcraft) inventory mirror: applied 852388697718864: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1211029336])"
+    },
+    {
+      "line": 107771,
+      "time": "18:09:38",
+      "text": "[18:09:38] [Server thread/INFO] (pzcraft) inventory mirror: applied 802213285644641: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107775,
+      "time": "18:09:39",
+      "text": "[18:09:39] [Server thread/INFO] (pzcraft) inventory mirror: applied 1110958595665298: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107783,
+      "time": "18:09:40",
+      "text": "[18:09:40] [Server thread/INFO] (pzcraft) inventory mirror: applied 528760309149165: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107788,
+      "time": "18:09:40",
+      "text": "[18:09:40] [Server thread/INFO] (pzcraft) inventory mirror: applied 449600236245975: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107793,
+      "time": "18:09:41",
+      "text": "[18:09:41] [Server thread/INFO] (pzcraft) inventory mirror: applied 601606425643774: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107799,
+      "time": "18:09:42",
+      "text": "[18:09:42] [Server thread/INFO] (pzcraft) inventory mirror: applied 1026633001536092: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107804,
+      "time": "18:09:43",
+      "text": "[18:09:43] [Server thread/INFO] (pzcraft) inventory mirror: applied 876150661216514: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107809,
+      "time": "18:09:43",
+      "text": "[18:09:43] [Server thread/INFO] (pzcraft) inventory mirror: applied 724294370639634: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107817,
+      "time": "18:09:44",
+      "text": "[18:09:44] [Server thread/INFO] (pzcraft) inventory mirror: applied 913815395386588: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107824,
+      "time": "18:09:45",
+      "text": "[18:09:45] [Server thread/INFO] (pzcraft) inventory mirror: applied 846669781297119: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107832,
+      "time": "18:09:46",
+      "text": "[18:09:46] [Server thread/INFO] (pzcraft) inventory mirror: applied 851952951061518: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107836,
+      "time": "18:09:47",
+      "text": "[18:09:47] [Server thread/INFO] (pzcraft) inventory mirror: applied 685698022954406: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107841,
+      "time": "18:09:47",
+      "text": "[18:09:47] [Server thread/INFO] (pzcraft) inventory mirror: applied 125860521228354: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107846,
+      "time": "18:09:48",
+      "text": "[18:09:48] [Server thread/INFO] (pzcraft) inventory mirror: applied 1080220816775178: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    },
+    {
+      "line": 107854,
+      "time": "18:09:49",
+      "text": "[18:09:49] [Server thread/INFO] (pzcraft) inventory mirror: applied 368944840064137: 0 added, 1 removed, 1 changed (rem [{\"key\":\"Base.Bullets9mm|||||\",\"n\":1}], add [], rep [Base.9mmClip|||||1258019060])"
+    }
+  ],
+  "actions": [
+    {
+      "sequence": 16,
+      "itemId": 890887562,
+      "status": "stopped (7 rounds in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 106228,
+      "time": "18:02:14"
+    },
+    {
+      "sequence": 18,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 106232,
+      "time": "18:02:17"
+    },
+    {
+      "sequence": 19,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 106237,
+      "time": "18:02:19"
+    },
+    {
+      "sequence": 20,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 106243,
+      "time": "18:02:20"
+    },
+    {
+      "sequence": 23,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 106249,
+      "time": "18:02:21"
+    },
+    {
+      "sequence": 27,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 106255,
+      "time": "18:02:22"
+    },
+    {
+      "sequence": 31,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 106260,
+      "time": "18:02:22"
+    },
+    {
+      "sequence": 34,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 106268,
+      "time": "18:02:23"
+    },
+    {
+      "sequence": 37,
+      "itemId": 890887562,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 106274,
+      "time": "18:02:24"
+    },
+    {
+      "sequence": 46,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106293,
+      "time": "18:02:32"
+    },
+    {
+      "sequence": 46,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106296,
+      "time": "18:02:34"
+    },
+    {
+      "sequence": 68,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106406,
+      "time": "18:03:31"
+    },
+    {
+      "sequence": 70,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 106417,
+      "time": "18:03:36"
+    },
+    {
+      "sequence": 73,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 106423,
+      "time": "18:03:37"
+    },
+    {
+      "sequence": 76,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 106430,
+      "time": "18:03:38"
+    },
+    {
+      "sequence": 80,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 106437,
+      "time": "18:03:38"
+    },
+    {
+      "sequence": 84,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 106443,
+      "time": "18:03:39"
+    },
+    {
+      "sequence": 88,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 106448,
+      "time": "18:03:40"
+    },
+    {
+      "sequence": 91,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 106455,
+      "time": "18:03:41"
+    },
+    {
+      "sequence": 94,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 106460,
+      "time": "18:03:41"
+    },
+    {
+      "sequence": 97,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 106465,
+      "time": "18:03:42"
+    },
+    {
+      "sequence": 100,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 106472,
+      "time": "18:03:43"
+    },
+    {
+      "sequence": 104,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 106479,
+      "time": "18:03:44"
+    },
+    {
+      "sequence": 108,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 106484,
+      "time": "18:03:45"
+    },
+    {
+      "sequence": 111,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 106489,
+      "time": "18:03:45"
+    },
+    {
+      "sequence": 114,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 106493,
+      "time": "18:03:46"
+    },
+    {
+      "sequence": 116,
+      "itemId": 393586929,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 106499,
+      "time": "18:03:47"
+    },
+    {
+      "sequence": 124,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106509,
+      "time": "18:03:49"
+    },
+    {
+      "sequence": 124,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 15,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106511,
+      "time": "18:03:51"
+    },
+    {
+      "sequence": 146,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106592,
+      "time": "18:04:03"
+    },
+    {
+      "sequence": 148,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 106599,
+      "time": "18:04:05"
+    },
+    {
+      "sequence": 152,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 106604,
+      "time": "18:04:06"
+    },
+    {
+      "sequence": 155,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 106609,
+      "time": "18:04:07"
+    },
+    {
+      "sequence": 158,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 106616,
+      "time": "18:04:08"
+    },
+    {
+      "sequence": 161,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 106621,
+      "time": "18:04:08"
+    },
+    {
+      "sequence": 164,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 106627,
+      "time": "18:04:09"
+    },
+    {
+      "sequence": 167,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 106633,
+      "time": "18:04:10"
+    },
+    {
+      "sequence": 170,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 106640,
+      "time": "18:04:11"
+    },
+    {
+      "sequence": 174,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 106645,
+      "time": "18:04:11"
+    },
+    {
+      "sequence": 177,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 106650,
+      "time": "18:04:12"
+    },
+    {
+      "sequence": 180,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 106656,
+      "time": "18:04:13"
+    },
+    {
+      "sequence": 183,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 106660,
+      "time": "18:04:14"
+    },
+    {
+      "sequence": 184,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 106665,
+      "time": "18:04:14"
+    },
+    {
+      "sequence": 187,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 106670,
+      "time": "18:04:15"
+    },
+    {
+      "sequence": 190,
+      "itemId": 1915282508,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 106675,
+      "time": "18:04:16"
+    },
+    {
+      "sequence": 200,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106688,
+      "time": "18:04:19"
+    },
+    {
+      "sequence": 200,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106690,
+      "time": "18:04:20"
+    },
+    {
+      "sequence": 222,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106768,
+      "time": "18:04:33"
+    },
+    {
+      "sequence": 224,
+      "itemId": 1678991098,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 106772,
+      "time": "18:04:35"
+    },
+    {
+      "sequence": 225,
+      "itemId": 1678991098,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 106778,
+      "time": "18:04:36"
+    },
+    {
+      "sequence": 229,
+      "itemId": 1678991098,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 106783,
+      "time": "18:04:37"
+    },
+    {
+      "sequence": 232,
+      "itemId": 1678991098,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 106789,
+      "time": "18:04:37"
+    },
+    {
+      "sequence": 235,
+      "itemId": 1678991098,
+      "status": "no rounds",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 106790,
+      "time": "18:04:37"
+    },
+    {
+      "sequence": 237,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106796,
+      "time": "18:04:39"
+    },
+    {
+      "sequence": 237,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 106799,
+      "time": "18:04:41"
+    },
+    {
+      "sequence": 263,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 106932,
+      "time": "18:05:48"
+    },
+    {
+      "sequence": 273,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 106965,
+      "time": "18:06:03"
+    },
+    {
+      "sequence": 277,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 106971,
+      "time": "18:06:04"
+    },
+    {
+      "sequence": 281,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 106978,
+      "time": "18:06:04"
+    },
+    {
+      "sequence": 285,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 106984,
+      "time": "18:06:05"
+    },
+    {
+      "sequence": 289,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 106990,
+      "time": "18:06:06"
+    },
+    {
+      "sequence": 293,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 106997,
+      "time": "18:06:07"
+    },
+    {
+      "sequence": 297,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 107003,
+      "time": "18:06:07"
+    },
+    {
+      "sequence": 300,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 107013,
+      "time": "18:06:08"
+    },
+    {
+      "sequence": 304,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 107019,
+      "time": "18:06:09"
+    },
+    {
+      "sequence": 308,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 107025,
+      "time": "18:06:10"
+    },
+    {
+      "sequence": 312,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 107031,
+      "time": "18:06:11"
+    },
+    {
+      "sequence": 315,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 107037,
+      "time": "18:06:11"
+    },
+    {
+      "sequence": 319,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 107043,
+      "time": "18:06:12"
+    },
+    {
+      "sequence": 322,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 107049,
+      "time": "18:06:13"
+    },
+    {
+      "sequence": 325,
+      "itemId": 624777428,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 107056,
+      "time": "18:06:13"
+    },
+    {
+      "sequence": 335,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107065,
+      "time": "18:06:15"
+    },
+    {
+      "sequence": 335,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107067,
+      "time": "18:06:17"
+    },
+    {
+      "sequence": 352,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107142,
+      "time": "18:06:32"
+    },
+    {
+      "sequence": 354,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 107149,
+      "time": "18:06:33"
+    },
+    {
+      "sequence": 358,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 107155,
+      "time": "18:06:34"
+    },
+    {
+      "sequence": 362,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 107161,
+      "time": "18:06:35"
+    },
+    {
+      "sequence": 367,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 107195,
+      "time": "18:06:51"
+    },
+    {
+      "sequence": 371,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 107201,
+      "time": "18:06:52"
+    },
+    {
+      "sequence": 375,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 107206,
+      "time": "18:06:52"
+    },
+    {
+      "sequence": 378,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 107214,
+      "time": "18:06:53"
+    },
+    {
+      "sequence": 382,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 107220,
+      "time": "18:06:54"
+    },
+    {
+      "sequence": 386,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 107227,
+      "time": "18:06:54"
+    },
+    {
+      "sequence": 390,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 107233,
+      "time": "18:06:55"
+    },
+    {
+      "sequence": 394,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 107239,
+      "time": "18:06:56"
+    },
+    {
+      "sequence": 397,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 107245,
+      "time": "18:06:57"
+    },
+    {
+      "sequence": 400,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 107251,
+      "time": "18:06:58"
+    },
+    {
+      "sequence": 403,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 107258,
+      "time": "18:06:59"
+    },
+    {
+      "sequence": 407,
+      "itemId": 1955765743,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 107264,
+      "time": "18:07:00"
+    },
+    {
+      "sequence": 417,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107274,
+      "time": "18:07:02"
+    },
+    {
+      "sequence": 417,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107277,
+      "time": "18:07:04"
+    },
+    {
+      "sequence": 438,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 2,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107337,
+      "time": "18:07:11"
+    },
+    {
+      "sequence": 446,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 107404,
+      "time": "18:08:09"
+    },
+    {
+      "sequence": 450,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 107410,
+      "time": "18:08:10"
+    },
+    {
+      "sequence": 454,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 107416,
+      "time": "18:08:11"
+    },
+    {
+      "sequence": 457,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 107421,
+      "time": "18:08:11"
+    },
+    {
+      "sequence": 460,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 107426,
+      "time": "18:08:12"
+    },
+    {
+      "sequence": 463,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 107432,
+      "time": "18:08:13"
+    },
+    {
+      "sequence": 467,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 107439,
+      "time": "18:08:14"
+    },
+    {
+      "sequence": 470,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 107445,
+      "time": "18:08:14"
+    },
+    {
+      "sequence": 474,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 107450,
+      "time": "18:08:15"
+    },
+    {
+      "sequence": 477,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 107455,
+      "time": "18:08:16"
+    },
+    {
+      "sequence": 480,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 107460,
+      "time": "18:08:17"
+    },
+    {
+      "sequence": 482,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 107467,
+      "time": "18:08:17"
+    },
+    {
+      "sequence": 486,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 107475,
+      "time": "18:08:18"
+    },
+    {
+      "sequence": 493,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 107527,
+      "time": "18:08:33"
+    },
+    {
+      "sequence": 496,
+      "itemId": 1526584243,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 107534,
+      "time": "18:08:33"
+    },
+    {
+      "sequence": 504,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107541,
+      "time": "18:08:35"
+    },
+    {
+      "sequence": 504,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107542,
+      "time": "18:08:37"
+    },
+    {
+      "sequence": 533,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107623,
+      "time": "18:08:46"
+    },
+    {
+      "sequence": 534,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107625,
+      "time": "18:08:47"
+    },
+    {
+      "sequence": 536,
+      "itemId": 1211029336,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 107633,
+      "time": "18:08:49"
+    },
+    {
+      "sequence": 540,
+      "itemId": 1211029336,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 107639,
+      "time": "18:08:49"
+    },
+    {
+      "sequence": 544,
+      "itemId": 1211029336,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 107645,
+      "time": "18:08:50"
+    },
+    {
+      "sequence": 547,
+      "itemId": 1211029336,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 107649,
+      "time": "18:08:51"
+    },
+    {
+      "sequence": 553,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107676,
+      "time": "18:09:09"
+    },
+    {
+      "sequence": 553,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 3,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107678,
+      "time": "18:09:11"
+    },
+    {
+      "sequence": 599,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 1,
+      "capacity": 15,
+      "line": 107767,
+      "time": "18:09:38"
+    },
+    {
+      "sequence": 603,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 2,
+      "capacity": 15,
+      "line": 107774,
+      "time": "18:09:39"
+    },
+    {
+      "sequence": 607,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 3,
+      "capacity": 15,
+      "line": 107780,
+      "time": "18:09:40"
+    },
+    {
+      "sequence": 610,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 4,
+      "capacity": 15,
+      "line": 107785,
+      "time": "18:09:40"
+    },
+    {
+      "sequence": 613,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 5,
+      "capacity": 15,
+      "line": 107791,
+      "time": "18:09:41"
+    },
+    {
+      "sequence": 616,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 6,
+      "capacity": 15,
+      "line": 107796,
+      "time": "18:09:42"
+    },
+    {
+      "sequence": 619,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 7,
+      "capacity": 15,
+      "line": 107802,
+      "time": "18:09:42"
+    },
+    {
+      "sequence": 623,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 8,
+      "capacity": 15,
+      "line": 107810,
+      "time": "18:09:43"
+    },
+    {
+      "sequence": 627,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 9,
+      "capacity": 15,
+      "line": 107816,
+      "time": "18:09:44"
+    },
+    {
+      "sequence": 631,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 10,
+      "capacity": 15,
+      "line": 107822,
+      "time": "18:09:45"
+    },
+    {
+      "sequence": 635,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 11,
+      "capacity": 15,
+      "line": 107827,
+      "time": "18:09:46"
+    },
+    {
+      "sequence": 638,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 12,
+      "capacity": 15,
+      "line": 107833,
+      "time": "18:09:47"
+    },
+    {
+      "sequence": 641,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 13,
+      "capacity": 15,
+      "line": 107838,
+      "time": "18:09:47"
+    },
+    {
+      "sequence": 644,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 14,
+      "capacity": 15,
+      "line": 107845,
+      "time": "18:09:48"
+    },
+    {
+      "sequence": 648,
+      "itemId": 1258019060,
+      "status": "loaded (1 round in)",
+      "ammo": 15,
+      "capacity": 15,
+      "line": 107851,
+      "time": "18:09:49"
+    },
+    {
+      "sequence": 655,
+      "itemId": 1942351916,
+      "status": "reload started",
+      "clip": "reload",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107859,
+      "time": "18:09:50"
+    },
+    {
+      "sequence": 655,
+      "itemId": 1942351916,
+      "status": "reloaded",
+      "ammo": 14,
+      "capacity": 15,
+      "chamber": true,
+      "jammed": false,
+      "line": 107860,
+      "time": "18:09:52"
+    },
+    {
+      "sequence": 705,
+      "itemId": 1942351916,
+      "status": "no loaded magazine",
+      "ammo": 0,
+      "capacity": 15,
+      "chamber": false,
+      "jammed": false,
+      "line": 107966,
+      "time": "18:10:07"
+    }
+  ],
+  "conclusion": "113 loose-round removals, each n=1 paired with a magazine replacement, match 113 native fired results. First 49 loaded 18:02:10-18:04:37 (15+15+15+4); no bulk 49-round mirror removal. No ammo restored."
+}

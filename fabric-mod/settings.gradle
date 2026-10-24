@@ -1,0 +1,24 @@
+pluginManagement {
+	repositories {
+		maven {
+			name = 'Fabric'
+			url = 'https://maven.fabricmc.net/'
+		}
+		mavenCentral()
+		gradlePluginPortal()
+	}
+}
+
+// Should match your modid
+rootProject.name = 'Project-ZombCraft-Fabric'
+
+// The same mod built for Minecraft 26.1.2 from the shared sources (see versions/26.1.2/build.gradle).
+include 'mc26.1.2'
+project(':mc26.1.2').projectDir = file('versions/26.1.2')
+
+// The same mod built for Minecraft 1.20.1 (obfuscated; see versions/1.20.1/build.gradle). Work in progress, so only
+// with -Pmc1201 (gradlew -Pmc1201 :mc1.20.1:build): a plain gradlew build neither configures nor compiles it yet.
+if (providers.gradleProperty('mc1201').isPresent()) {
+	include 'mc1.20.1'
+	project(':mc1.20.1').projectDir = file('versions/1.20.1')
+}

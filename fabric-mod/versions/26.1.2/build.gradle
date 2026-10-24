@@ -1,0 +1,82 @@
+plugins {
+	id 'net.fabricmc.fabric-loom'
+}
+
+// The same mod for Minecraft 26.1.2 (for mods that stop at 26.1.2, such as Vic's Point Blank 2.2.0). The root project
+// stays the 26.3 build and compiles ../../src as written. This project compiles a preprocessed copy (//#if MC_26_1
+// blocks, overrides in this folder's src/main/{java,resources}): see ../../gradle/preprocess.gradle.
+
+ext.preprocessFlags = ['MC_26_1']
+apply from: rootProject.file('gradle/preprocess.gradle')
+
+loom {
+	runs {
+		client {
+			programArgs '--username', 'PzCraftSteve'
+		}
+		// runMixinAudit: start the client (window hidden), apply every mod's mixins at once, log, quit (PzCraftClient).
+		// Mods to check against go into run/mods (e.g. Point Blank 2.2.0 and GeckoLib for 26.1.2).
+		mixinAudit {
+			inherit client
+			configName = 'Mixin audit (26.1.2)'
+			property 'pzcraft.mixinAudit', 'true'
+			property 'pzcraft.mixinAuditExit', 'true'
+		}
+	}
+	mods {
+		"project-zombcraft" {
+			sourceSet sourceSets.main
+		}
+	}
+}
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+	compileOnly "com.geckolib:geckolib-fabric-${project.minecraft_version}:${project.geckolib_version}"
+}
+
+repositories {
+	maven {
+		name = 'GeckoLib'
+		url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+		content { includeGroup 'com.geckolib' }
+	}
+}
+
+def apacheLicense = findProperty('releaseLicense') == 'apache'
+
+base.archivesName = rootProject.name
+version = "${rootProject.version}+mc${project.minecraft_version}"
+
+processResources {
+	// Overrides (this folder) come first; the shared copy of the same path is dropped.
+	duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+	def modVersion = version
+	def license = apacheLicense ? 'Apache-2.0' : 'All-Rights-Reserved'
+	def mcDep = project.minecraft_dependency
+	inputs.property "version", modVersion
+	inputs.property "license", license
+	inputs.property "minecraft", mcDep
+	filesMatching("fabric.mod.json") {
+		expand "version": modVersion, "license": license, "minecraft": mcDep
+	}
+}
+
+jar {
+	metaInf {
+		if (apacheLicense) from rootProject.file('../LICENSE'), rootProject.file('../NOTICE')
+		else from(rootProject.file('../LICENSE-ARR')) { rename { 'LICENSE' } }
+	}
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+	it.options.compilerArgs += ['-Xmaxerrs', '5000']
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_25
+	targetCompatibility = JavaVersion.VERSION_25
+}

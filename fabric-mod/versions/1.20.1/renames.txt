@@ -1,0 +1,67 @@
+# 26.x name => 1.20.1 name, applied in order to every shared .java file (Java regex => replacement; $1 for groups).
+# Only plain renames belong here; anything that changes behaviour or arguments gets an //#if MC_1_20 block.
+# Identifier (26.x) is ResourceLocation; its factories are constructors (the static calls first, also fully qualified)
+(?:net\.minecraft\.resources\.)?\bIdentifier\.(fromNamespaceAndPath|withDefaultNamespace|parse)\( => new net.minecraft.resources.ResourceLocation(
+(?:net\.minecraft\.resources\.)?\bIdentifier\.tryParse\( => net.minecraft.resources.ResourceLocation.tryParse(
+net\.minecraft\.resources\.Identifier\b => net.minecraft.resources.ResourceLocation
+\bIdentifier\b => ResourceLocation
+# Camera getters (26.x records-style accessors)
+\bcamera\.yRot\(\) => camera.getYRot()
+\bcamera\.xRot\(\) => camera.getXRot()
+\bcamera\.entity\(\) => camera.getEntity()
+\bcamera\.position\(\) => camera.getPosition()
+# Inventory.selected is a public field on 1.20.1
+\.getInventory\(\)\.getSelectedSlot\(\) => .getInventory().selected
+\.getInventory\(\)\.setSelectedSlot\(([^;]*)\); => .getInventory().selected = $1;
+# GLFW window handle, frame partial tick
+\.getWindow\(\)\.handle\(\) => .getWindow().getWindow()
+\.getDeltaTracker\(\)\.getGameTimeDeltaPartialTick\(false\) => .getFrameTime()
+# List.getFirst() is Java 21 (on a Deque, get(0) does not compile, so a wrong match cannot pass silently)
+\.getFirst\(\) => .get(0)
+# LWJGL 3.3.1 User32 has no leading "last error" buffer argument
+User32\.(GetWindowPlacement|SetWindowPlacement|SetWindowLongPtr|SetWindowPos)\(null, ?+ => User32.$1(
+# 1.20.1 screens take plain ints: KeyEvent / MouseButtonInfo are small records here (pzcraft.mc.compat)
+net\.minecraft\.client\.input\.KeyEvent\b => pzcraft.mc.compat.KeyEvent
+net\.minecraft\.client\.input\.MouseButtonInfo\b => pzcraft.mc.compat.MouseButtonInfo
+# MouseHandler: 1.20.1 applies mouse look in turnPlayer
+"onMove", "handleAccumulatedMovement" => "onMove", "turnPlayer"
+# Command permission levels
+Commands\.hasPermission\(Commands\.LEVEL_OWNERS\) => s -> s.hasPermission(4)
+Commands\.hasPermission\(Commands\.LEVEL_GAMEMASTERS\) => s -> s.hasPermission(2)
+# Reach: 1.20.1 has no interaction range attribute (4.5 survival, 5 creative, as the game mode reports)
+\bmc\.player\.blockInteractionRange\(\) => mc.gameMode.getPickRange()
+# Action-bar message
+\.sendOverlayMessage\(([^;]*)\); => .displayClientMessage($1, true);
+# Leaving a world: 1.20.1 has no disconnectFromWorld (pzcraft.mc.compat.Worlds does what its pause screen does)
+\bmc\.disconnectFromWorld\(([^;]*)\); => pzcraft.mc.compat.Worlds.leave(mc, $1);
+# Weather lives on the overworld's level data
+\bserver\.setWeatherParameters\( => server.overworld().setWeatherParameters(
+\bserver\.getWeatherData\(\) => server.getWorldData().overworldData()
+# startRiding(vehicle, force, sendEvent) is startRiding(vehicle, force)
+\.startRiding\(([^,()]+), true, true\) => .startRiding($1, true)
+# Packages and names that moved after 1.20.1
+net\.minecraft\.world\.level\.gamerules\.GameRules\b => net.minecraft.world.level.GameRules
+net\.minecraft\.world\.entity\.monster\.zombie\. => net.minecraft.world.entity.monster.
+import net\.minecraft\.world\.entity\.EntitySpawnReason; => 
+\.create\((\w+), EntitySpawnReason\.\w+\) => .create($1)
+\.withPermission\(net\.minecraft\.server\.permissions\.LevelBasedPermissionSet\.OWNER\) => .withPermission(4)
+\.setAllowCommandsForAllPlayers\( => .setAllowCheatsForAllPlayers(
+BuiltInRegistries\.(\w+)\.getValue\( => BuiltInRegistries.$1.get(
+\.entityTags\(\) => .getTags()
+(\w+)\.getEffect\(\)\.getRegisteredName\(\) => String.valueOf(net.minecraft.core.registries.BuiltInRegistries.MOB_EFFECT.getKey($1.getEffect()))
+\bChunkPos\.pack\( => ChunkPos.asLong(
+\.snapTo\( => .moveTo(
+\.doHurtTarget\(\w+, ?+ => .doHurtTarget(
+\.hurtServer\(\w+, ?+ => .hurt(
+ServerLevel (\w+) ?= ?(\w+)\.level\(\); => ServerLevel $1 = (ServerLevel) $2.level();
+# 1.20.1 has no "skip onPlace" update flag (setBlock always calls onPlace), and chunks are marked with setUnsaved
+\bBlock\.UPDATE_SKIP_ON_PLACE\b => 0
+\.markUnsaved\(\) => .setUnsaved(true)
+# Toasts, placement collision context, proxy eye heights (1.20.1 EntityDimensions has no eye height; the mob type sets it)
+\bToastManager\b => ToastComponent
+\bCollisionContext\.placementContext\( => pzcraft.mc.compat.Worlds.placementContext(
+\.withEyeHeight\([^)]*\) => 
+# LevelChunk.setBlockState(pos, state, boolean moved) on 1.20.1 (26.x: int flags); ChunkBlockMixin does not use it
+BlockState state, int flags, CallbackInfoReturnable<BlockState> cir => BlockState state, boolean moved, CallbackInfoReturnable<BlockState> cir
+# LivingEntity.hasLineOfSight takes only the entity on 1.20.1 (same Level.clip inside)
+method = "hasLineOfSight\(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/level/ClipContext\$Block;Lnet/minecraft/world/level/ClipContext\$Fluid;D\)Z" => method = "hasLineOfSight(Lnet/minecraft/world/entity/Entity;)Z"

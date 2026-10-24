@@ -1,0 +1,68 @@
+[
+  {
+    "time": 1.6689300537109375e-06,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": false,
+      "sprinting": false,
+      "kickPitch": 0,
+      "swaySpeed": 0
+    }
+  },
+  {
+    "time": 0.10913681983947754,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": true,
+      "sprinting": false,
+      "kickPitch": -1.7050248,
+      "swaySpeed": 0
+    }
+  },
+  {
+    "time": 0.24262213706970215,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": false,
+      "sprinting": false,
+      "kickPitch": -0.6891778,
+      "swaySpeed": 0
+    }
+  },
+  {
+    "time": 0.35256052017211914,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": false,
+      "sprinting": false,
+      "kickPitch": -0.2741223,
+      "swaySpeed": 0
+    }
+  },
+  {
+    "time": 0.482043981552124,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": false,
+      "sprinting": false,
+      "kickPitch": -0.045311667,
+      "swaySpeed": 0
+    }
+  },
+  {
+    "time": 0.6315391063690186,
+    "feel": {
+      "aim": 0,
+      "gunHeld": true,
+      "flashing": false,
+      "sprinting": false,
+      "kickPitch": -0.017780187,
+      "swaySpeed": 0
+    }
+  }
+]

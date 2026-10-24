@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pzcraft.protocol.EntityLinkTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-08T14:30:10.049Z" hostname="MAPLE" time="0.053">
+  <properties/>
+  <testcase name="geometryCameraAndHandProjectionShareOneSnapshot()" classname="pzcraft.protocol.EntityLinkTest" time="0.004"/>
+  <testcase name="catalogueItemAtlasFitsAlongsideExistingEntityAtlases()" classname="pzcraft.protocol.EntityLinkTest" time="0.047"/>
+  <testcase name="texturesAndFramesRoundTrip()" classname="pzcraft.protocol.EntityLinkTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

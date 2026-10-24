@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gun-viewer",
+      "runtimeExecutable": "C:\\Users\\Maple\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "8766", "--bind", "127.0.0.1", "--directory", "tools/vic-guns/viewer"],
+      "port": 8766
+    }
+  ]
+}

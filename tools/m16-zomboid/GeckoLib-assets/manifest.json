@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "source": "owner-edited-vic-m16-pz-style",
+  "kinds": {
+    "m16a1": {
+      "source": "owner-edited-vic-m16-pz-style",
+      "recipe": "magazine",
+      "hide": [
+        "rightarm",
+        "leftarm",
+        "scope",
+        "muzzleflash",
+        "_cb_suppressor",
+        "_cb_m16a3kit",
+        "launcher",
+        "lasercannon",
+        "shotgun"
+      ],
+      "clips": {
+        "idle": 3,
+        "draw": 1.05,
+        "fire": 0.45,
+        "reload": 2.65,
+        "reloadempty": 3.1833,
+        "inspect": 4.2667,
+        "running": 0.55,
+        "runningstart": 0.35,
+        "runningend": 0.5167,
+        "rack": 1.3167,
+        "idleempty": 3,
+        "drawempty": 1.05,
+        "unload": 1.4034,
+        "runningempty": 0.55,
+        "runningstartempty": 0.35,
+        "runningendempty": 0.5167,
+        "reloadnomag": 2.4333,
+        "reloademptynomag": 3.0533,
+        "idlenomag": 3,
+        "drawnomag": 1.05,
+        "inspectnomag": 4.2667,
+        "runningnomag": 0.55,
+        "racknomag": 1.3167
+      },
+      "bones": {
+        "magazine": true,
+        "magazine2": false,
+        "_shelleject_": true,
+        "scope": true,
+        "muzzleflash": true,
+        "rightarm": true,
+        "leftarm": true
+      },
+      "shell": "rifle",
+      "reloadEmptyPhase": 2.9,
+      "reloadPhase": 1.82,
+      "unloadPhase": 1.2534,
+      "cues": {
+        "reload": [
+          [
+            0.15,
+            0
+          ],
+          [
+            0.6667,
+            1
+          ],
+          [
+            1.1,
+            3
+          ]
+        ],
+        "reloadempty": [
+          [
+            0.7,
+            3
+          ],
+          [
+            0.8667,
+            0
+          ],
+          [
+            1.3833,
+            1
+          ],
+          [
+            2.15,
+            2
+          ],
+          [
+            2.2667,
+            3
+          ]
+        ],
+        "inspect": [
+          [
+            3.1,
+            3
+          ]
+        ],
+        "unload": [
+          [
+            0.3333,
+            0
+          ]
+        ],
+        "reloadnomag": [
+          [
+            0.45,
+            1
+          ],
+          [
+            0.8833,
+            3
+          ]
+        ],
+        "reloademptynomag": [
+          [
+            0.7,
+            3
+          ],
+          [
+            1.1666,
+            1
+          ],
+          [
+            1.9333,
+            2
+          ],
+          [
+            2.05,
+            3
+          ]
+        ]
+      },
+      "reloadNoMagPhase": 1.6033,
+      "reloadEmptyNoMagPhase": 2.6833
+    }
+  },
+  "types": {
+    "Base.AssaultRifle": {
+      "kind": "m16a1"
+    }
+  },
+  "files": {
+    "geckolib/models/item/gun_m16a1.geo.json": "2dd5661de9f3c61e46ddd78d272d214db3840363fb1c954ebb4e61de120d9995",
+    "geckolib/animations/item/gun_m16a1.animation.json": "923550141bfdb3fb851e9ef9b747232f6a84e2d26b3bf138b40497ec767e11e9",
+    "textures/item/gun_m16a1.png": "5be0048810e42cb8bcf4a61bcc8d3d7ef217eca9675e7fc7e7ff45a392386f1a",
+    "models/item/gun_m16a1_base.json": "35ca9960ff8778498f0b86d2eb283d23f651fb77e4abd3f29c01118c3d06d406"
+  }
+}

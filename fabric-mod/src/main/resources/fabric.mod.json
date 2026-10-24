@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "project-zombcraft",
+	"version": "${version}",
+	"name": "Project-ZombCraft",
+	"description": "Minecraft half of Project-ZombCraft: play Project Zomboid as Steve. Needs the Project-ZombCraft Project Zomboid mod.",
+	"authors": ["Lumi-nary"],
+	"contact": {
+		"homepage": "https://github.com/Lumi-nary/Project-ZombCraft",
+		"sources": "https://github.com/Lumi-nary/Project-ZombCraft",
+		"issues": "https://github.com/Lumi-nary/Project-ZombCraft/issues"
+	},
+	"license": "${license}",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"pzcraft.mc.PzCraftMain"
+		],
+		"client": [
+			"pzcraft.mc.PzCraftClient"
+		],
+		"server": [
+			"pzcraft.mc.PzCraftServer"
+		]
+	},
+	"mixins": [
+		"pzcraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "${minecraft}",
+		"java": ">=25",
+		"fabric-api": "*",
+		"geckolib": "*"
+	}
+}

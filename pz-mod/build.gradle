@@ -1,0 +1,48 @@
+plugins {
+	id 'java'
+}
+
+repositories {
+	mavenCentral()
+}
+
+// Shared wire protocol, compiled into this jar from source.
+sourceSets.main.java.srcDir '../protocol/src/main/java'
+
+dependencies {
+	compileOnly files("${pzDir}/ZombieBuddy.jar")
+	compileOnly files("${pzDir}/projectzomboid.jar")
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+}
+
+// The jar's licence, as in fabric-mod: All Rights Reserved unless -PreleaseLicense=apache.
+def apacheLicense = findProperty('releaseLicense') == 'apache'
+
+jar {
+	archiveFileName = 'Project-ZombCraft.jar'
+	inputs.property 'releaseLicense', apacheLicense
+	metaInf {
+		if (apacheLicense) from '../LICENSE', '../NOTICE'
+		else from('../LICENSE-ARR') { rename { 'LICENSE' } }
+	}
+}
+
+// ./gradlew installMod : builds the jar and drops the mod into the user's local Zomboid mods folder,
+// plus a small config telling the mod how to start Minecraft for you.
+tasks.register('installMod', Copy) {
+	dependsOn jar
+	def target = "${pzUserDir}/mods/Project-ZombCraft"
+	from('mod') { into '.' }
+	from(jar.archiveFile) { into '42/media/java' }
+	into target
+	doLast {
+		// PZ no longer starts Minecraft; this file only switches on the development control API (Control)
+		def cfg = new File("${pzUserDir}/Lua/pzcraft.properties")
+		cfg.parentFile.mkdirs()
+		cfg.text = '# written by gradlew installMod: its presence turns on the development control API\n'
+		println "Installed Project-ZombCraft to ${target}"
+	}
+}

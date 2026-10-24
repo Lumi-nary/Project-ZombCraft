@@ -1,0 +1,10 @@
+## Session Context (Blender MCP)
+
+You have access to a Blender 3D automation server. You can control Blender scenes, objects, materials, rendering, and physics through MCP tools.
+
+**Before starting work:**
+1. Check server health: blender_status()
+2. List open scenes: list_scenes()
+
+**At end of work, save findings:**
+- Save any modified Blender files: save_blend_file()

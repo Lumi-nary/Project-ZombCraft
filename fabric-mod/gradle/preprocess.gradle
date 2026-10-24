@@ -1,0 +1,126 @@
+// Shared source preprocessor for the back-port subprojects (versions/*). Each applies it after its Loom plugin:
+//     ext.preprocessFlags = ['MC_26_1']            // flags are "this version or older"
+//     apply from: rootProject.file('gradle/preprocess.gradle')
+// The root project (26.3) compiles ../src as written and does not use this. Task preprocessJava writes a copy of
+// ../src/main/java to build/preprocessed/java, which the subproject compiles together with ../protocol:
+//   //#if MC_1_20          lines up to the next //#elif, //#else or //#endif are written as "//$ code" in the shared
+//   //$ 1.20.1 code        tree; in the first branch whose flag is set "//$ " is removed so they compile.
+//   //#elif MC_26_1        an //#elif branch is written the same way.
+//   //$ 26.1.2 code
+//   //#else                the 26.3 lines up to //#endif, commented out when an earlier branch matched.
+//   //#endif
+// No nesting. A file under the subproject's src/main/java or src/main/resources replaces the shared file with the same
+// path; shared-excludes.txt (one path per line, # comments) lists shared files the subproject does not build;
+// renames.txt holds plain renames ("Java regex => replacement" per line) applied after the //#if pass.
+
+abstract class PreprocessSources extends DefaultTask {
+	@InputDirectory @PathSensitive(PathSensitivity.RELATIVE) abstract DirectoryProperty getShared()
+	@Internal abstract DirectoryProperty getOverrides()
+	@javax.inject.Inject abstract ObjectFactory getObjects()
+	// The overrides folder may be absent; a file tree of a missing folder is empty.
+	@InputFiles @PathSensitive(PathSensitivity.RELATIVE) FileTree getOverrideFiles() { objects.fileTree().from(overrides) }
+	@Input abstract SetProperty<String> getFlags()
+	@Input abstract SetProperty<String> getExcludes()
+	// "regex => replacement" pairs applied to every shared .java file after the //#if pass (renames.txt).
+	@Input abstract ListProperty<String> getRenames()
+	@OutputDirectory abstract DirectoryProperty getOutput()
+
+	@TaskAction
+	void run() {
+		def out = output.get().asFile
+		out.deleteDir()
+		def sharedRoot = shared.get().asFile.toPath()
+		def overrideRoot = overrides.get().asFile.toPath()
+		def flagSet = flags.get()
+		def skip = excludes.get()
+		def renameRules = renames.get().collect { def (from, to) = it.split(' => ', 2); [java.util.regex.Pattern.compile(from), to] }
+		sharedRoot.toFile().eachFileRecurse(groovy.io.FileType.FILES) { File f ->
+			def rel = sharedRoot.relativize(f.toPath()).toString().replace('\\', '/')
+			if (skip.contains(rel) || overrideRoot.resolve(rel).toFile().exists()) return
+			def target = new File(out, rel)
+			target.parentFile.mkdirs()
+			def text = f.text
+			if (f.name.endsWith('.java')) {
+				text = process(text, flagSet, rel)
+				renameRules.each { rule -> text = rule[0].matcher(text).replaceAll(rule[1]) }
+			}
+			target.text = text
+		}
+		if (overrideRoot.toFile().isDirectory()) overrideRoot.toFile().eachFileRecurse(groovy.io.FileType.FILES) { File f ->
+			def target = new File(out, overrideRoot.relativize(f.toPath()).toString())
+			target.parentFile.mkdirs()
+			target.bytes = f.bytes
+		}
+	}
+
+	static String process(String text, Set<String> flags, String name) {
+		def eol = text.contains('\r\n') ? '\r\n' : '\n'
+		def lines = text.split('\r?\n', -1)
+		def out = new ArrayList<String>(lines.length)
+		// No nesting. inBlock: inside //#if..//#endif; active: this branch is the one compiled; taken: an earlier
+		// branch was; inElse: past //#else (26.3 code, written plainly).
+		boolean inBlock = false, active = false, taken = false, inElse = false
+		for (int i = 0; i < lines.length; i++) {
+			def line = lines[i]
+			def trimmed = line.trim()
+			def where = "${name}:${i + 1}"
+			if (trimmed.startsWith('//#if ')) {
+				if (inBlock) throw new GradleException("${where}: nested //#if is not supported")
+				inBlock = true
+				active = flags.contains(trimmed.substring(6).trim())
+				taken = active
+				inElse = false
+				out << line
+			} else if (trimmed.startsWith('//#elif ')) {
+				if (!inBlock || inElse) throw new GradleException("${where}: stray //#elif")
+				active = !taken && flags.contains(trimmed.substring(8).trim())
+				taken |= active
+				out << line
+			} else if (trimmed == '//#else') {
+				if (!inBlock || inElse) throw new GradleException("${where}: stray //#else")
+				inElse = true
+				active = !taken
+				out << line
+			} else if (trimmed == '//#endif') {
+				if (!inBlock) throw new GradleException("${where}: //#endif without //#if")
+				inBlock = false
+				out << line
+			} else if (!inBlock) {
+				out << line
+			} else {
+				def indent = line.substring(0, line.length() - line.stripLeading().length())
+				def body = line.stripLeading()
+				if (!inElse) {
+					// Written for an older target: "//$ code" in the shared tree.
+					if (!body.isEmpty() && !body.startsWith('//$')) throw new GradleException("${where}: lines between //#if and //#else must start with //\$")
+					out << (active ? indent + body.replaceFirst('^//\\$ ?', '') : line)
+				} else {
+					// The 26.3 code.
+					out << (!active && !body.isEmpty() ? indent + '// ' + body : line)
+				}
+			}
+		}
+		if (inBlock) throw new GradleException("${name}: unclosed //#if")
+		return out.join(eol)
+	}
+}
+
+def sharedJava = rootProject.file('src/main/java')
+def sharedResources = rootProject.file('src/main/resources')
+def excludeList = file('shared-excludes.txt')
+def preprocessJava = tasks.register('preprocessJava', PreprocessSources) {
+	shared = sharedJava
+	overrides = file('src/main/java')
+	flags = project.ext.preprocessFlags
+	excludes = provider {
+		excludeList.exists() ? excludeList.readLines().collect { it.replaceAll('#.*', '').trim() }.findAll { it } as Set : [] as Set
+	}
+	renames = provider {
+		def f = file('renames.txt')
+		f.exists() ? f.readLines().findAll { it.contains(' => ') && !it.startsWith('#') } : []
+	}
+	output = layout.buildDirectory.dir('preprocessed/java')
+}
+
+sourceSets.main.java.srcDirs = [preprocessJava.map { it.output }, rootProject.file('../protocol/src/main/java')]
+sourceSets.main.resources.srcDirs = [file('src/main/resources'), sharedResources]

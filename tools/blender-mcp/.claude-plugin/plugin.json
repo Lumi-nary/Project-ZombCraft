@@ -1,0 +1,6 @@
+{
+  "name": "blender-mcp",
+  "version": "0.6.0",
+  "description": "Blender 3D automation via MCP",
+  "hooks": "../hooks/hooks.json"
+}

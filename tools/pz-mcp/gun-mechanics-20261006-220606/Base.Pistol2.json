@@ -1,0 +1,98 @@
+{
+  "gun": "Base.Pistol2",
+  "catalogue": {
+    "reloadType": "handgun",
+    "magazine": "Base.45Clip",
+    "ammoKey": "Base.Bullets45",
+    "maxAmmo": 7,
+    "rackAfterShoot": false,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 15,
+    "projectiles": 1,
+    "fireMode": null
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.Pistol2 whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 magazine reload",
+      "seconds": 1.77,
+      "state": {
+        "clip": true,
+        "ammo": 6,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": true,
+        "ammo": 6,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": true,
+        "ammo": 5,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 7,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 10,
+        "itemId": 2046893878,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 7,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 magazine ejected",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspect",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "cleanupErrors": []
+}

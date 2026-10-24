@@ -1,0 +1,59 @@
+{
+  "error": null,
+  "inventoryRestored": true,
+  "slot": 2,
+  "camera": 0,
+  "paused": true,
+  "input": {
+    "view3d": true,
+    "captured": false,
+    "live": false,
+    "keys": 0,
+    "yawDeg": 45.00001525878906
+  },
+  "steve": {
+    "x": 2158.199951171875,
+    "y": 0,
+    "z": 6127.5048828125,
+    "yaw": 45.00001525878906,
+    "pitch": 0,
+    "onGround": true,
+    "flags": 1
+  },
+  "health": {
+    "minecraftOwnsHealth": true,
+    "steveHealth": 20,
+    "steveMax": 20,
+    "zombieAttacksForwarded": 0,
+    "pzDamageEvents": 1
+  },
+  "native": {
+    "failed": false,
+    "triangles": 228,
+    "batches": 5,
+    "drawnBatches": 2,
+    "shadowBatches": 4,
+    "translucentBatches": 0,
+    "textures": 6,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 0,
+    "playerBatches": 0,
+    "frameAgeMs": 9.6075
+  },
+  "mirror": {
+    "active": true,
+    "status": "in step",
+    "ledgerKinds": 15,
+    "pending": 0,
+    "states": 9,
+    "txSent": 2,
+    "txAcked": 2,
+    "created": 1,
+    "removed": 0,
+    "updated": 0,
+    "unmirrorable": 0,
+    "failures": 0,
+    "last": "sent transaction 970438710219442: 0 added, 1 removed, 0 changed"
+  }
+}

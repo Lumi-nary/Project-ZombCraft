@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "steps": [
+    "launched start-all.bat",
+    "timed out after 150s waiting for the PzCraft control API (an approval dialog may be waiting for you)"
+  ]
+}

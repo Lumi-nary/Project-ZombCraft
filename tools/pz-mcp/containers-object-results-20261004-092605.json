@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "kind": "object",
+  "container": {
+    "x": 2156,
+    "y": 6089,
+    "index": 2,
+    "containers": 2,
+    "items": 4
+  },
+  "before": {
+    "Base.Baloney": 1,
+    "Base.Frozen_FrenchFries": 1,
+    "Base.MuttonChop": 1,
+    "Base.Peas": 1
+  },
+  "screen": {
+    "rows": 2,
+    "shown": {
+      "Base.Frozen_FrenchFries": 1,
+      "Base.Baloney": 1,
+      "Base.MuttonChop": 1,
+      "Base.Peas": 1
+    },
+    "hidden": 0
+  },
+  "taken": {
+    "Base.Frozen_FrenchFries": 1,
+    "Base.Baloney": 1
+  },
+  "gained": {
+    "Base.Frozen_FrenchFries": 1,
+    "Base.Baloney": 1
+  },
+  "tookSlots": {
+    "7": "1 pz:Base.Frozen_FrenchFries a=0.00 whole",
+    "29": "1 pz:Base.Baloney a=0.67 whole"
+  },
+  "stoneStayed": true,
+  "afterTake": {
+    "Base.MuttonChop": 1,
+    "Base.Peas": 1
+  },
+  "pzStats": {
+    "opened": 7,
+    "committed": 7,
+    "itemsTaken": 10,
+    "itemsAdded": 8,
+    "failures": 0,
+    "last": "committed"
+  },
+  "restored": {
+    "Base.Baloney": 1,
+    "Base.Frozen_FrenchFries": 1,
+    "Base.MuttonChop": 1,
+    "Base.Peas": 1
+  },
+  "inventoryRestored": true,
+  "mcStats": {
+    "opened": 8,
+    "committed": 8,
+    "itemsTaken": 10,
+    "itemsAdded": 10,
+    "hiddenStacks": 0,
+    "last": "committed 0 taken, 2 added"
+  },
+  "finished": "20261004-092605"
+}

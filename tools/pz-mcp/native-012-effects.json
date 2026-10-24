@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "stage": "effects",
+  "sword": {
+    "failed": false,
+    "triangles": 776,
+    "batches": 6,
+    "drawnBatches": 2,
+    "shadowBatches": 5,
+    "translucentBatches": 0,
+    "textures": 5,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 0,
+    "frameAgeMs": 13.6359
+  },
+  "swordShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-sword.png",
+  "swingShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-swing.png",
+  "camera1Shot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-camera-1.png",
+  "camera2Shot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-camera-2.png",
+  "mining": {
+    "failed": false,
+    "triangles": 486,
+    "batches": 7,
+    "drawnBatches": 4,
+    "shadowBatches": 4,
+    "translucentBatches": 0,
+    "textures": 7,
+    "handBatches": 1,
+    "decals": 1,
+    "flames": 0,
+    "frameAgeMs": 19.9675
+  },
+  "miningShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-mining.png",
+  "flame": {
+    "failed": false,
+    "triangles": 598,
+    "batches": 7,
+    "drawnBatches": 4,
+    "shadowBatches": 5,
+    "translucentBatches": 0,
+    "textures": 11,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 1,
+    "frameAgeMs": 3.1092
+  },
+  "flameShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-flame.png",
+  "oneVideoLayer": true
+}

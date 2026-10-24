@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "pzcraft",
+	"version": "0.13.0",
+	"name": "PzCraft",
+	"description": "Hidden Minecraft half of the Project Zomboid x Minecraft mashup (personal use).",
+	"authors": ["Maple"],
+	"license": "All-Rights-Reserved",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"pzcraft.mc.PzCraftMain"
+		],
+		"client": [
+			"pzcraft.mc.PzCraftClient"
+		]
+	},
+	"mixins": [
+		"pzcraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

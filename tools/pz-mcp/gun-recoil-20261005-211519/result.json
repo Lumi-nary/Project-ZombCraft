@@ -1,0 +1,2016 @@
+{
+  "before": {
+    "uptimeSec": 608,
+    "frames": 51209,
+    "fps": 73.5,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 122,
+      "screen": "LevelLoadingScreen",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 pz:Base.IDcard",
+        "1 pz:Base.KeyRing whole",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 8,
+      "held": {
+        "item": "0 minecraft:air",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "rangeRejected": 0,
+        "applied": 0,
+        "wallRejected": 0,
+        "heightRejected": 0,
+        "swingCapped": 0
+      },
+      "gun": {},
+      "gunFeel": {
+        "aim": 0,
+        "sprinting": false,
+        "gunHeld": false,
+        "flashing": false,
+        "recoilPitch": 0,
+        "recoilYaw": 0,
+        "recoilActive": false,
+        "recoilPeakPitch": 0,
+        "recoilPeakYaw": 0,
+        "recoilShots": 0,
+        "swaySpeed": 0,
+        "animation": {},
+        "shells": {
+          "spawned": 0,
+          "active": 0
+        }
+      },
+      "server": {
+        "proxyCount": 1,
+        "invulnerable": false,
+        "tags": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "effects": [],
+        "entities": [
+          {
+            "id": 13,
+            "uuid": "88976f0f-cebb-4134-8870-33e0b410f2f9",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:100:stand",
+            "xyz": [
+              2136.416748046875,
+              0,
+              6097.078125
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "flying": false,
+        "xyz": [
+          2152,
+          0.018775255128608413,
+          6089
+        ],
+        "minecraftOwnsFood": true,
+        "saturation": 6.8,
+        "food": 20,
+        "sleeping": false,
+        "air": 300,
+        "fallFlying": false,
+        "eyeY": 1.63877525989698,
+        "creative": false,
+        "eyesInWater": false,
+        "inWater": false,
+        "probes": {},
+        "onFire": false,
+        "timeTicks": 188353
+      },
+      "terrain": {
+        "loading": false,
+        "holds": 0,
+        "columns": 49
+      },
+      "materials": {
+        "sections": 79,
+        "floors": {
+          "grass": 1890,
+          "sand": 31,
+          "gravel": 225,
+          "concrete": 145,
+          "asphalt": 462,
+          "wood": 89,
+          "carpet": 81,
+          "ceramic": 80
+        },
+        "edges": {
+          "wall": {
+            "wood": 101,
+            "brick": 15,
+            "plaster": 85,
+            "metal": 96,
+            "stone": 7
+          },
+          "door": {
+            "wood": 12,
+            "metal": 6,
+            "glass": 1,
+            "plastic": 1
+          },
+          "window": {
+            "glass": 19
+          },
+          "fence": {
+            "wood": 2
+          }
+        },
+        "trees": 6,
+        "solids": 76,
+        "basementTiles": 0,
+        "interiorTiles": 258
+      },
+      "trees": {
+        "wanted": 6,
+        "placedStacks": 6,
+        "placedTotal": 6,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2146,
+            "z": 6081,
+            "size": 4,
+            "kind": 1,
+            "distance": 9.3,
+            "placed": true
+          },
+          {
+            "x": 2146,
+            "z": 6077,
+            "size": 3,
+            "kind": 1,
+            "distance": 12.75,
+            "placed": true
+          },
+          {
+            "x": 2165,
+            "z": 6083,
+            "size": 3,
+            "kind": 4,
+            "distance": 14.58,
+            "placed": true
+          },
+          {
+            "x": 2141,
+            "z": 6077,
+            "size": 3,
+            "kind": 1,
+            "distance": 15.57,
+            "placed": true
+          },
+          {
+            "x": 2166,
+            "z": 6073,
+            "size": 3,
+            "kind": 4,
+            "distance": 21.22,
+            "placed": true
+          },
+          {
+            "x": 2131,
+            "z": 6066,
+            "size": 4,
+            "kind": 1,
+            "distance": 30.44,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 59,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 2,
+        "transactions": 1,
+        "duplicates": 0,
+        "added": 2,
+        "removed": 0,
+        "changed": 0,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 1,
+        "failures": 0,
+        "last": "applied 735093317966702: 2 added, 0 removed, 0 changed"
+      },
+      "food": 20,
+      "saturation": 6.8,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        0,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "month": 7,
+      "day": 11,
+      "year": 1993,
+      "hour": 2.280917167663574
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "active": 0,
+      "rendered": 988,
+      "heights": {},
+      "rejected": 0,
+      "corrected": 0
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 5894,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2152,
+          1.6387751406876905,
+          6089
+        ],
+        "yaw": 45.00001525878906,
+        "pitch": 0
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 5.5295,
+      "minecraftPid": 4616
+    },
+    "player": {
+      "x": 2152,
+      "y": 6089,
+      "z": 0.00816496554762125,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "minecraftBlock": false,
+        "solid": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2152,
+      "y": 0.018775255128608413,
+      "z": 6089,
+      "yaw": 45.00001525878906,
+      "pitch": 0,
+      "onGround": false,
+      "flags": 8
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 192,
+      "batches": 3,
+      "drawnBatches": 1,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 2,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 1.4333
+    },
+    "terrain": {
+      "speed": 5e-324,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 79,
+      "velocity": [
+        -5e-324,
+        -5e-324
+      ],
+      "scanMs": 0.5028
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "farCells": 135,
+      "groundShells": 369,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 2,
+      "pending": 0,
+      "states": 2,
+      "txSent": 1,
+      "txAcked": 1,
+      "created": 0,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 735093317966702: 2 added, 0 removed, 0 changed"
+    },
+    "pzWeapons": {
+      "meleeCritical": 0,
+      "meleeRangeRejected": 0,
+      "meleeApplied": 0,
+      "wearRolls": 0,
+      "lastMelee": {},
+      "meleeMissing": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 0,
+      "dry": 0,
+      "hits": 0,
+      "noise": 0,
+      "reloads": 0,
+      "cancelled": 0,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {},
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 54475,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 1,
+    "blocks": 2006,
+    "overlay": {
+      "drawn": true,
+      "frameId": 6664,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 17.167200088500977,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 36708,
+      "atlasRevision": 1756577714700,
+      "meshRevision": 1756565901200,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 8971,
+      "shadowFailures": 0
+    },
+    "vehicles": 2,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.20069752633571625,
+      "clouds": 0.20069752633571625,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 45.00001525878906
+    },
+    "overrideActive": false
+  },
+  "nativeBefore": "1066647852:Base.IDcard:0|1804753482:Base.KeyRing:0",
+  "shots": [
+    {
+      "name": "hip",
+      "pitchBefore": -30,
+      "peakPitch": -2.925704099635837,
+      "peakYaw": 0.5266267379344494,
+      "lowestStevePitch": -32.92570495605469,
+      "finalOffsetPitch": 0,
+      "finalOffsetYaw": 0,
+      "finalStevePitch": -30,
+      "shotsFired": 1,
+      "samples": [
+        {
+          "t": 0.012,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": 0,
+          "peakYaw": 0,
+          "shots": 0,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.067,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": 0,
+          "peakYaw": 0,
+          "shots": 0,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.121,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": 0,
+          "peakYaw": 0,
+          "shots": 0,
+          "stevePitch": -32.92570495605469,
+          "steveYaw": 0.5266292691230774,
+          "aim": 0
+        },
+        {
+          "t": 0.161,
+          "offsetPitch": -2.699901072232983,
+          "offsetYaw": 0.4859821930019361,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -32.58964920043945,
+          "steveYaw": 0.4661392569541931,
+          "aim": 0
+        },
+        {
+          "t": 0.204,
+          "offsetPitch": -2.699901072232983,
+          "offsetYaw": 0.4859821930019361,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -32.188682556152344,
+          "steveYaw": 0.3939654529094696,
+          "aim": 0
+        },
+        {
+          "t": 0.232,
+          "offsetPitch": -2.699901072232983,
+          "offsetYaw": 0.4859821930019361,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -31.832338333129883,
+          "steveYaw": 0.3298233151435852,
+          "aim": 0
+        },
+        {
+          "t": 0.29,
+          "offsetPitch": -1.7195130068875457,
+          "offsetYaw": 0.30951234123975657,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -31.309207916259766,
+          "steveYaw": 0.23565982282161713,
+          "aim": 0
+        },
+        {
+          "t": 0.317,
+          "offsetPitch": -1.7195130068875457,
+          "offsetYaw": 0.30951234123975657,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -31.127580642700195,
+          "steveYaw": 0.20296712219715118,
+          "aim": 0
+        },
+        {
+          "t": 0.359,
+          "offsetPitch": -0.887166014995941,
+          "offsetYaw": 0.15968988269926865,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.81345558166504,
+          "steveYaw": 0.14642447233200073,
+          "aim": 0
+        },
+        {
+          "t": 0.403,
+          "offsetPitch": -0.887166014995941,
+          "offsetYaw": 0.15968988269926865,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.559144973754883,
+          "steveYaw": 0.10064849257469177,
+          "aim": 0
+        },
+        {
+          "t": 0.442,
+          "offsetPitch": -0.887166014995941,
+          "offsetYaw": 0.15968988269926865,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.402393341064453,
+          "steveYaw": 0.07243314385414124,
+          "aim": 0
+        },
+        {
+          "t": 0.484,
+          "offsetPitch": -0.34883911884568164,
+          "offsetYaw": 0.06279104139222218,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.231374740600586,
+          "steveYaw": 0.04165005683898926,
+          "aim": 0
+        },
+        {
+          "t": 0.524,
+          "offsetPitch": -0.34883911884568164,
+          "offsetYaw": 0.06279104139222218,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.113101959228516,
+          "steveYaw": 0.020360978320240974,
+          "aim": 0
+        },
+        {
+          "t": 0.578,
+          "offsetPitch": -0.07272280627212524,
+          "offsetYaw": 0.013090105128982765,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.042190551757812,
+          "steveYaw": 0.007596864830702543,
+          "aim": 0
+        },
+        {
+          "t": 0.607,
+          "offsetPitch": -0.07272280627212524,
+          "offsetYaw": 0.013090105128982765,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.01150131225586,
+          "steveYaw": 0.0020728008821606636,
+          "aim": 0
+        },
+        {
+          "t": 0.636,
+          "offsetPitch": -0.07272280627212524,
+          "offsetYaw": 0.013090105128982765,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30.002782821655273,
+          "steveYaw": 0.0005034313653595746,
+          "aim": 0
+        },
+        {
+          "t": 0.675,
+          "offsetPitch": -2.800778421629957e-05,
+          "offsetYaw": 5.041401158934394e-06,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.703,
+          "offsetPitch": -2.800778421629957e-05,
+          "offsetYaw": 5.041401158934394e-06,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.743,
+          "offsetPitch": -2.800778421629957e-05,
+          "offsetYaw": 5.041401158934394e-06,
+          "active": true,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.796,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.851,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.906,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.945,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.987,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.026,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.065,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.093,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.136,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.175,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.228,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.281,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.322,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.374,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.429,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        }
+      ]
+    },
+    {
+      "name": "aimed",
+      "pitchBefore": -30,
+      "peakPitch": -2.925704099635837,
+      "peakYaw": 0.5266267379344494,
+      "lowestStevePitch": -31.405593872070312,
+      "finalOffsetPitch": 0,
+      "finalOffsetYaw": 0,
+      "finalStevePitch": -30,
+      "shotsFired": 1,
+      "samples": [
+        {
+          "t": 0.02,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.06,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.101,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 1
+        },
+        {
+          "t": 0.144,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -2.925704099635837,
+          "peakYaw": 0.5266267379344494,
+          "shots": 1,
+          "stevePitch": -31.405593872070312,
+          "steveYaw": 0.25300922989845276,
+          "aim": 1
+        },
+        {
+          "t": 0.184,
+          "offsetPitch": -1.2956614370510309,
+          "offsetYaw": 0.23321905866918574,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -31.29566192626953,
+          "steveYaw": 0.23322156071662903,
+          "aim": 0.44883502
+        },
+        {
+          "t": 0.224,
+          "offsetPitch": -1.2956614370510309,
+          "offsetYaw": 0.23321905866918574,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -31.01567840576172,
+          "steveYaw": 0.1828247457742691,
+          "aim": 0.44883502
+        },
+        {
+          "t": 0.254,
+          "offsetPitch": -1.2956614370510309,
+          "offsetYaw": 0.23321905866918574,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.84323501586914,
+          "steveYaw": 0.15178470313549042,
+          "aim": 0.44883502
+        },
+        {
+          "t": 0.297,
+          "offsetPitch": -0.7880744396379527,
+          "offsetYaw": 0.14185339913483241,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.688480377197266,
+          "steveYaw": 0.12392912805080414,
+          "aim": 0
+        },
+        {
+          "t": 0.326,
+          "offsetPitch": -0.7880744396379527,
+          "offsetYaw": 0.14185339913483241,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.55341911315918,
+          "steveYaw": 0.0996178388595581,
+          "aim": 0
+        },
+        {
+          "t": 0.365,
+          "offsetPitch": -0.7880744396379527,
+          "offsetYaw": 0.14185339913483241,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.43282127380371,
+          "steveYaw": 0.07791048288345337,
+          "aim": 0
+        },
+        {
+          "t": 0.408,
+          "offsetPitch": -0.3970172176968738,
+          "offsetYaw": 0.07146309918543763,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.300195693969727,
+          "steveYaw": 0.0540376678109169,
+          "aim": 0
+        },
+        {
+          "t": 0.464,
+          "offsetPitch": -0.3970172176968738,
+          "offsetYaw": 0.07146309918543763,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.17195701599121,
+          "steveYaw": 0.030954774469137192,
+          "aim": 0
+        },
+        {
+          "t": 0.502,
+          "offsetPitch": -0.15103524953872594,
+          "offsetYaw": 0.027186344916970893,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.09673309326172,
+          "steveYaw": 0.017414454370737076,
+          "aim": 0
+        },
+        {
+          "t": 0.556,
+          "offsetPitch": -0.15103524953872594,
+          "offsetYaw": 0.027186344916970893,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.03631591796875,
+          "steveYaw": 0.006539538037031889,
+          "aim": 0
+        },
+        {
+          "t": 0.597,
+          "offsetPitch": -0.028095728757666194,
+          "offsetYaw": 0.0050572311763798635,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.015159606933594,
+          "steveYaw": 0.0027311346493661404,
+          "aim": 0
+        },
+        {
+          "t": 0.636,
+          "offsetPitch": -0.028095728757666194,
+          "offsetYaw": 0.0050572311763798635,
+          "active": true,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30.001659393310547,
+          "steveYaw": 0.0003012809029314667,
+          "aim": 0
+        },
+        {
+          "t": 0.688,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.731,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.787,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.841,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.894,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.933,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 0.986,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.042,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.081,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.134,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.187,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.231,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.285,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.341,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        },
+        {
+          "t": 1.381,
+          "offsetPitch": 0,
+          "offsetYaw": 0,
+          "active": false,
+          "peakPitch": -1.4625153428577065,
+          "peakYaw": 0.2632527617143875,
+          "shots": 2,
+          "stevePitch": -30,
+          "steveYaw": 2.5044780613825424e-06,
+          "aim": 0
+        }
+      ]
+    }
+  ],
+  "passed": false,
+  "error": "AssertionError('aimed: peak -2.925704099635837')",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-gun-recoil.py\", line 87, in run\n    assert low <= -peak <= high, f'{name}: peak {peak}'\n           ^^^^^^^^^^^^^^^^^^^^\nAssertionError: aimed: peak -2.925704099635837\n",
+  "after": {
+    "uptimeSec": 624,
+    "frames": 52391,
+    "fps": 73.3,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 125,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 pz:Base.IDcard",
+        "1 pz:Base.KeyRing whole",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 8,
+      "held": {
+        "item": "0 minecraft:air",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "rangeRejected": 0,
+        "applied": 0,
+        "wallRejected": 0,
+        "heightRejected": 0,
+        "swingCapped": 0
+      },
+      "gun": {
+        "sequence": 3,
+        "itemId": 836829429,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 12,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "gunFeel": {
+        "aim": 0,
+        "sprinting": false,
+        "gunHeld": false,
+        "flashing": false,
+        "recoilPitch": 0,
+        "recoilYaw": 0,
+        "recoilActive": false,
+        "recoilPeakPitch": -1.4625153428577065,
+        "recoilPeakYaw": 0.2632527617143875,
+        "recoilShots": 2,
+        "swaySpeed": 0,
+        "animation": {},
+        "shells": {
+          "spawned": 2,
+          "active": 0
+        }
+      },
+      "server": {
+        "proxyCount": 1,
+        "invulnerable": false,
+        "tags": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "effects": [],
+        "entities": [
+          {
+            "id": 13,
+            "uuid": "88976f0f-cebb-4134-8870-33e0b410f2f9",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:100:stand",
+            "xyz": [
+              2136.416748046875,
+              0,
+              6097.078125
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "flying": false,
+        "xyz": [
+          2152.5,
+          0,
+          6089.5
+        ],
+        "minecraftOwnsFood": true,
+        "saturation": 6.8,
+        "food": 20,
+        "sleeping": false,
+        "air": 300,
+        "fallFlying": false,
+        "eyeY": 1.6200000047683716,
+        "creative": false,
+        "eyesInWater": false,
+        "inWater": false,
+        "probes": {},
+        "onFire": false,
+        "timeTicks": 188362
+      },
+      "terrain": {
+        "loading": false,
+        "holds": 0,
+        "columns": 62
+      },
+      "materials": {
+        "sections": 94,
+        "floors": {
+          "grass": 2499,
+          "sand": 31,
+          "gravel": 225,
+          "concrete": 217,
+          "asphalt": 527,
+          "wood": 89,
+          "carpet": 81,
+          "ceramic": 80
+        },
+        "edges": {
+          "wall": {
+            "wood": 124,
+            "brick": 15,
+            "plaster": 85,
+            "metal": 137,
+            "stone": 9
+          },
+          "door": {
+            "wood": 12,
+            "metal": 8,
+            "glass": 1,
+            "plastic": 1
+          },
+          "window": {
+            "glass": 20
+          },
+          "fence": {
+            "wood": 2
+          }
+        },
+        "trees": 6,
+        "solids": 82,
+        "basementTiles": 0,
+        "interiorTiles": 268
+      },
+      "trees": {
+        "wanted": 6,
+        "placedStacks": 6,
+        "placedTotal": 6,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2146,
+            "z": 6081,
+            "size": 4,
+            "kind": 1,
+            "distance": 10,
+            "placed": true
+          },
+          {
+            "x": 2146,
+            "z": 6077,
+            "size": 3,
+            "kind": 1,
+            "distance": 13.42,
+            "placed": true
+          },
+          {
+            "x": 2165,
+            "z": 6083,
+            "size": 3,
+            "kind": 4,
+            "distance": 14.32,
+            "placed": true
+          },
+          {
+            "x": 2141,
+            "z": 6077,
+            "size": 3,
+            "kind": 1,
+            "distance": 16.28,
+            "placed": true
+          },
+          {
+            "x": 2166,
+            "z": 6073,
+            "size": 3,
+            "kind": 4,
+            "distance": 21.26,
+            "placed": true
+          },
+          {
+            "x": 2131,
+            "z": 6066,
+            "size": 4,
+            "kind": 1,
+            "distance": 31.14,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 59,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 10,
+        "transactions": 7,
+        "duplicates": 0,
+        "added": 3,
+        "removed": 2,
+        "changed": 4,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 3,
+        "failures": 0,
+        "last": "applied 637163606039249: 0 added, 1 removed, 0 changed"
+      },
+      "food": 20,
+      "saturation": 6.8,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "month": 7,
+      "day": 11,
+      "year": 1993,
+      "hour": 2.3510243892669678
+    },
+    "minecraftLights": 1,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "active": 1,
+      "rendered": 3334,
+      "heights": {
+        "100": 5.817225986495228e-11
+      },
+      "rejected": 0,
+      "corrected": 0
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 7076,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2152.5,
+          1.619999885559082,
+          6089.5
+        ],
+        "yaw": 45.00001525878906,
+        "pitch": 0
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.5021,
+      "minecraftPid": 4616
+    },
+    "player": {
+      "x": 2152.5,
+      "y": 6089.5,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "minecraftBlock": false,
+        "solid": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2152.5,
+      "y": 0,
+      "z": 6089.5,
+      "yaw": 45.00001525878906,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 192,
+      "batches": 3,
+      "drawnBatches": 1,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 7,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 5.7896
+    },
+    "terrain": {
+      "speed": 1.0311839256130144e-05,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 62,
+      "queue": 49,
+      "sections": 94,
+      "velocity": [
+        7.291571464515269e-06,
+        7.291571464515269e-06
+      ],
+      "scanMs": 0.4719
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "farCells": 135,
+      "groundShells": 369,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 2,
+      "pending": 0,
+      "states": 10,
+      "txSent": 7,
+      "txAcked": 7,
+      "created": 1,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 637163606039249: 0 added, 1 removed, 0 changed"
+    },
+    "pzWeapons": {
+      "meleeCritical": 0,
+      "meleeRangeRejected": 0,
+      "meleeApplied": 0,
+      "wearRolls": 2,
+      "lastMelee": {},
+      "meleeMissing": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 2,
+      "dry": 0,
+      "hits": 0,
+      "noise": 2,
+      "reloads": 1,
+      "cancelled": 0,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 3,
+        "itemId": 836829429,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 12,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 58267,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 1,
+    "blocks": 2006,
+    "overlay": {
+      "drawn": true,
+      "frameId": 8099,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 16.48979949951172,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 32286,
+      "atlasRevision": 1772914650700,
+      "meshRevision": 1772958331900,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 10784,
+      "shadowFailures": 0
+    },
+    "vehicles": 2,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.20159396529197693,
+      "clouds": 0.20159396529197693,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 45.00001525878906
+    },
+    "overrideActive": false
+  },
+  "nativeAfter": "1066647852:Base.IDcard:0|1804753482:Base.KeyRing:0",
+  "cleanupErrors": []
+}

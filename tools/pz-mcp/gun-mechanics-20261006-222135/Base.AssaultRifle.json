@@ -1,0 +1,59 @@
+{
+  "gun": "Base.AssaultRifle",
+  "catalogue": {
+    "reloadType": "boltaction",
+    "magazine": "Base.556Clip",
+    "ammoKey": "Base.556Bullets",
+    "maxAmmo": 30,
+    "rackAfterShoot": false,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 15,
+    "projectiles": 1,
+    "fireMode": "Auto"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.AssaultRifle whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 magazine reload",
+      "seconds": 2.58,
+      "state": {
+        "clip": true,
+        "ammo": 29,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": true,
+        "ammo": 29,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": true,
+        "ammo": 27,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    }
+  ],
+  "passed": false,
+  "error": "AssertionError()",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-guns.py\", line 143, in run_one\n    assert p.state()['pzGuns']['shots'] == n0 + 1\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "cleanupErrors": []
+}

@@ -1,0 +1,17 @@
+{
+  "passed": false,
+  "kind": "floor",
+  "container": {
+    "x": 2160,
+    "y": 6109,
+    "index": 0,
+    "containers": 1,
+    "items": 7
+  },
+  "before": {
+    "Base.Doorknob": 2,
+    "Base.Hinge": 3,
+    "Base.UnusableWood": 2
+  },
+  "finished": "20261004-101841"
+}

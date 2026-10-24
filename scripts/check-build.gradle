@@ -1,0 +1,2 @@
+// Isolated outputs while the games use the normal build/classes and build/libs.
+allprojects { afterEvaluate { layout.buildDirectory.set(file('build-check')) } }

@@ -1,0 +1,3 @@
+The bundled M16 is the owner-edited PZ-style derivative of Vic Point Blank's M16 model, texture and animations, with Codex assistance.
+Project Zomboid M16_Rifle.x was used for measurements only; its mesh and texture are not included. Other bundled guns retain their existing provenance.
+This derivative is for the owner's private Project-ZombCraft build.

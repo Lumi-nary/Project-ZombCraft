@@ -1,0 +1,122 @@
+# Blender MCP — AI-Powered Blender Automation
+
+Control Blender with natural language through MCP. Tell Claude to create a steampunk robot
+with glowing eyes and watch it build in Blender.
+
+<p align="center">
+  <a href="https://github.com/sandraschi/blender-mcp"><img src="https://img.shields.io/github/stars/sandraschi/blender-mcp?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/sandraschi/blender-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://github.com/PrefectHQ/fastmcp"><img src="https://img.shields.io/badge/FastMCP-3.2-7c5cfc?style=flat-square" alt="FastMCP"></a>
+</p>
+
+## Get started in 2 minutes
+
+| Download | What it is |
+|----------|------------|
+| [**blender-mcp-*.mcpb**](https://github.com/sandraschi/blender-mcp/releases/latest) | MCP server for Claude Desktop |
+| [**Blender**](https://www.blender.org/download/) | 3D app (install separately, never bundled) |
+| [**blender_bridge_addon.py**](https://github.com/sandraschi/blender-mcp/releases/latest/download/blender_bridge_addon.py) *(optional)* | Live viewport only — skip for headless use |
+
+**Steps**
+
+1. Download the `.mcpb` from [Releases](https://github.com/sandraschi/blender-mcp/releases/latest)
+2. Drag it into **Claude Desktop** (Settings → MCP Servers → Install from file)
+3. Install [Blender](https://www.blender.org/download/) if you have not already
+4. Restart Claude Desktop and try: *Create a red cube on a gray floor with a sun lamp.*
+
+That is enough for most tools — the server runs Blender headless in the background.
+
+**Optional — live viewport:** install the [bridge addon](addon/blender_bridge_addon.py) in Blender to watch the scene update while you chat. See [INSTALL.md](INSTALL.md#optional-live-blender-viewport-bridge-addon).
+
+Other install methods (npx mcpb, manual config, developer setup): **[INSTALL.md](INSTALL.md)**
+
+## How it runs
+
+| Mode | Host app | When |
+|------|----------|------|
+| **Headless (default)** | `blender --background` subprocess | Batch export, CI, agents without a display; VSE, geonodes, most mesh ops |
+| **Live GUI (optional)** | Blender + [bridge addon](addon/blender_bridge_addon.py) | Watch the agent build; viewport screenshots; sculpt with live feedback |
+| **Per-tool override** | `prefer_session=False` | Batch jobs force headless even if bridge is connected |
+
+**You do not need to open Blender's UI** for most MCP tools — the server spawns headless Blender automatically and falls back from live session when no bridge is connected.
+
+Install [Blender](https://www.blender.org/download/) separately; it is never bundled. Override path with `BLENDER_EXECUTABLE`.
+
+> **Watch or batch** — Most tools run headless. Use `blender_session` start + the bridge addon only if you want the viewport to update live. See [INSTALL.md](INSTALL.md#optional-live-blender-viewport-bridge-addon).
+
+## Hands-in / Hands-out
+
+| Direction | Artifacts | Notes |
+|-----------|-----------|-------|
+| **Hands-in** | Natural-language scene prompts | Agent instructions; `blender_ai_*` script generation |
+| **Hands-in** | `.blend`, image refs, mesh files | Webapp upload or tool params |
+| **Hands-in** | Rodin / Tripo / Hunyuan mesh URLs | `blender_ai_generate` and related tools |
+| **Hands-in** | Inline `bpy` scripts | `blender_script_execute`, handler-backed tools |
+| **Hands-out** | `.glb`, `.gltf`, `.fbx`, `.obj`, `.usd` | `blender_export` — **headless** |
+| **Hands-out** | `.vrm`, VRChat-ready avatars | Export + validation pipeline — **headless** |
+| **Hands-out** | `.blend` (saved scene) | After agent edit session — headless or live bridge |
+| **Hands-out** | Viewport PNG, MP4 (VSE), Gaussian splats | `blender_render`, `blender_vse`, splat tools — **headless** |
+
+### Fleet pipelines (downstream)
+
+| Downstream MCP | Takes from blender-mcp |
+|----------------|------------------------|
+| [godot-mcp](https://github.com/sandraschi/godot-mcp) | `.glb` / `.gltf` game assets |
+| [vrchat-mcp](https://github.com/sandraschi/vrchat-mcp) | `.vrm` after validation |
+| [tahoma2d-mcp](https://github.com/sandraschi/tahoma2d-mcp) | Rendered image sequences / GP output |
+| [freecad-mcp](https://github.com/sandraschi/freecad-mcp) | `.step` via intermediate export |
+| [unity3d-mcp](https://github.com/sandraschi/unity3d-mcp) | `.fbx` / `.glb` for Unity import |
+
+## Features
+
+- **Natural-language 3D creation** — scenes, meshes, materials, lighting, animation
+- **Live GUI bridge** — watch the agent build in Blender while you chat
+- **48+ MCP tools** — mesh edit, sculpt, geonodes, compositor, VSE, export (GLB, VRM, VRChat, Unity)
+- **Generative AI hooks** — Rodin/Tripo/Hunyuan mesh generation and vision refine
+- **Webapp dashboard** — scene explorer, agent lab, materials, mesh/splat pipeline
+- **Fleet-ready** — FastMCP 3.2, `.mcpb` packaging, Prometheus metrics, optional Docker
+
+## What You Can Do
+
+Try these in Claude Desktop after install:
+
+> Create a red cube on a gray floor with a sun lamp and render a viewport screenshot.
+
+> Build a simple chair with wood material and export as GLB.
+
+> Start a live Blender session and add a sphere with a metallic blue shader.
+
+## Documentation
+
+| Doc | Contents |
+|-----|----------|
+| [Installation](INSTALL.md) | All install methods, prerequisites, bridge setup |
+| [Configuration](docs/CONFIGURATION.md) | Env vars, Claude Desktop `env` block |
+| [Tool Reference](docs/FEATURES.md) | Capabilities and tool catalog |
+| [Development](docs/DEVELOPMENT.md) | Contributing, `just`, lint, build |
+| [Troubleshooting](docs/TROUBLESHOOTING.md) | Common errors and fixes |
+| [Architecture](docs/ARCHITECTURE.md) | System design |
+| [Roadmap](docs/ROADMAP.md) | Planned improvements |
+| [Monitoring](docs/MONITORING.md) | Prometheus / Grafana / Loki |
+| [Docker](docs/DOCKER.md) | Optional container deploy |
+
+Extended guides: [docs/DOCUMENTATION_INDEX.md](docs/DOCUMENTATION_INDEX.md)
+
+## Webapp and Native App
+
+**Dashboard** (optional): `.\start.ps1` → http://localhost:10848 — see [INSTALL.md](INSTALL.md#webapp-dashboard-optional).
+
+**Tauri desktop installer** (~15 MB, no Python required): `just build-native` — see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).
+
+## Requirements
+
+- **Claude Desktop** (or any MCP client for manual config)
+- **Blender 3.0+** — installed separately, never bundled; override with `BLENDER_EXECUTABLE`
+- **LLM (optional)** — Ollama, LM Studio, or cloud API for script generation; see [INSTALL.md](INSTALL.md)
+- **OS:** Windows, macOS, Linux
+- **Python 3.12+** — only for Options C/D (clone-from-source)
+
+## License
+
+MIT — [FlowEngineer sandraschi](https://github.com/sandraschi). Free for personal and commercial use.

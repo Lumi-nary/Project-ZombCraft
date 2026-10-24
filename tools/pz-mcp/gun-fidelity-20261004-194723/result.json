@@ -1,0 +1,5963 @@
+{
+  "before": {
+    "uptimeSec": 2203,
+    "frames": 184998,
+    "fps": 79.6,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 993,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "38 minecraft:oak_planks",
+        "64 minecraft:stone",
+        "32 minecraft:glass",
+        "13 minecraft:cooked_beef",
+        "1 pz:Base.Pistol c=9 whole r=0",
+        "1 pz:Base.9mmClip whole r=0",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 pz:Base.TinOpener",
+        "1 pz:Base.CannedCornedBeef",
+        "1 pz:Base.Bag_AmmoBox_9mm whole",
+        "1 pz:Base.Shotgun whole r=0",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 pz:Base.Katana whole",
+        "1 pz:Base.Sledgehammer whole",
+        "1 minecraft:flint_and_steel"
+      ],
+      "selectedSlot": 2,
+      "held": {
+        "item": "38 minecraft:oak_planks",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0,
+        "applied": 0,
+        "rangeRejected": 0
+      },
+      "gun": {
+        "sequence": 4,
+        "itemId": 1036609139,
+        "status": "reload started",
+        "clip": "reload",
+        "ammo": 0,
+        "capacity": 15,
+        "chamber": false,
+        "jammed": false
+      },
+      "gunFeel": {
+        "shells": {
+          "active": 0,
+          "spawned": 0
+        },
+        "animation": {},
+        "aim": 0,
+        "gunHeld": false,
+        "sprinting": false,
+        "kickPitch": 0,
+        "swaySpeed": 0,
+        "flashing": false
+      },
+      "server": {
+        "proxyCount": 1,
+        "timeTicks": 183901,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false,
+        "air": 300,
+        "sleeping": false,
+        "food": 20,
+        "saturation": 1,
+        "minecraftOwnsFood": true,
+        "xyz": [
+          2158.183349609375,
+          0,
+          6127.5048828125
+        ],
+        "flying": false,
+        "entities": [
+          {
+            "id": 3,
+            "uuid": "cd39414b-153a-422a-948c-a14f842be9c7",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:111:stand",
+            "xyz": [
+              2158.721923828125,
+              5,
+              6127.52783203125
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false
+      },
+      "terrain": {
+        "columns": 70,
+        "holds": 0,
+        "loading": false
+      },
+      "materials": {
+        "sections": 82,
+        "floors": {
+          "grass": 3063,
+          "dirt": 238,
+          "gravel": 33,
+          "concrete": 311,
+          "asphalt": 553,
+          "wood": 42,
+          "carpet": 15,
+          "ceramic": 6
+        },
+        "edges": {
+          "wall": {
+            "wood": 49,
+            "brick": 7,
+            "plaster": 20,
+            "metal": 74,
+            "stone": 9
+          },
+          "door": {
+            "wood": 2,
+            "metal": 4
+          },
+          "window": {
+            "glass": 5
+          },
+          "fence": {
+            "wood": 2
+          }
+        },
+        "trees": 2,
+        "solids": 32,
+        "basementTiles": 0,
+        "interiorTiles": 89
+      },
+      "trees": {
+        "wanted": 1,
+        "placedStacks": 1,
+        "placedTotal": 1,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2182,
+            "z": 6143,
+            "size": 6,
+            "kind": 1,
+            "distance": 29.11,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 73,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 18,
+        "transactions": 10,
+        "duplicates": 0,
+        "added": 3,
+        "removed": 5,
+        "changed": 5,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 11,
+        "failures": 0,
+        "last": "applied 474565360756169: 0 added, 1 removed, 0 changed"
+      },
+      "food": 20,
+      "saturation": 1,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "hour": 21.90105438232422,
+      "year": 1993,
+      "day": 10,
+      "month": 7
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "corrected": 27,
+      "rejected": 0,
+      "heights": {},
+      "rendered": 59705,
+      "active": 0
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 176451,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2158.183349609375,
+          1.619999885559082,
+          6127.5048828125
+        ],
+        "yaw": 45.00001525878906,
+        "pitch": 0.37815213203430176
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.4691,
+      "minecraftPid": 18896
+    },
+    "player": {
+      "x": 2158.183349609375,
+      "y": 6127.5048828125,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "minecraftBlock": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2158.183349609375,
+      "y": 0,
+      "z": 6127.5048828125,
+      "yaw": 45.00001525878906,
+      "pitch": 0.37815213203430176,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 228,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 5,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 14.4685
+    },
+    "terrain": {
+      "velocity": [
+        -5e-324,
+        5e-324
+      ],
+      "sections": 82,
+      "queue": 49,
+      "columns": 70,
+      "sentThisFrame": 0,
+      "loadedAhead": 7,
+      "pendingAhead": 0,
+      "speed": 5e-324,
+      "scanMs": 0.299
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "groundShells": 360,
+      "farCells": 133,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 15,
+      "pending": 0,
+      "states": 55,
+      "txSent": 22,
+      "txAcked": 22,
+      "created": 7,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 474565360756169: 0 added, 1 removed, 0 changed"
+    },
+    "pzWeapons": {
+      "meleeMissing": 0,
+      "lastMelee": {},
+      "wearRolls": 1,
+      "meleeApplied": 0,
+      "meleeRangeRejected": 0,
+      "meleeCritical": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 1,
+      "dry": 0,
+      "hits": 0,
+      "noise": 1,
+      "reloads": 2,
+      "cancelled": 1,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 4,
+        "itemId": 1036609139,
+        "status": "reload started",
+        "clip": "reload",
+        "ammo": 0,
+        "capacity": 15,
+        "chamber": false,
+        "jammed": false
+      },
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 9,
+      "pzDamageEvents": 5
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 501284,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 1,
+    "blocks": 2007,
+    "overlay": {
+      "drawn": true,
+      "frameId": 25609,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 22.03730010986328,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 36366,
+      "atlasRevision": 39837103520500,
+      "meshRevision": 39836897688800,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 273111,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.12412639707326889,
+      "clouds": 0.24825279414653778,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 45.00001525878906
+    },
+    "overrideActive": false
+  },
+  "perkBefore": "nil,0,0",
+  "nativeBefore": "1007787769:Base.Katana:0|1087610647:PzCraft.MCItem:0|1278360974:Base.Sledgehammer:0|1322070766:PzCraft.MCItem:0|1551159690:Base.CannedCornedBeef:0|1691377553:Base.9mmClip:0|1695456652:PzCraft.MCItem:0|1932607112:PzCraft.MCItem:0|1942351916:Base.Pistol:0|1960858048:Base.TinOpener:0|34332006:PzCraft.MCItem:0|352256723:PzCraft.MCItem:0|383644981:Base.Shotgun:0|416495152:Base.Bag_AmmoBox_9mm:0|531072237:PzCraft.MCItem:0",
+  "reloads": [
+    {
+      "skill": 0,
+      "pace": 1.0,
+      "elapsed": 1.7503402000002097,
+      "samples": [
+        {
+          "t": 0.05306890000065323,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.drawempty",
+              "time": 0.5666999816894531
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 4,
+            "itemId": 1036609139,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.08093509999889648,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.drawempty",
+              "time": 0.5666999816894531
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 4,
+            "itemId": 1036609139,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.1242599999968661,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.034375
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.1753893999994034,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.034375
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.22912649999489076,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.14375000000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.27041599999938626,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.14375000000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3131107999943197,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.25000000000000006
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3406214999995427,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.25000000000000006
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3942977999977302,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.25000000000000006
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.4328929999974207,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.3500000000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.4854376999937813,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.3500000000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.527609400000074,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.45312500000000033
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.5818975000001956,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.45312500000000033
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6093777999994927,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5562500000000004
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6604317999954219,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5562500000000004
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6854458999951021,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5562500000000004
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7416814999960479,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.6562500000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7975086999940686,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.6562500000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.8411477999979979,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.7562500000000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.8932748000006541,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.7562500000000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.9199387999979081,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8624999999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.9467621999938274,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8624999999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.9994780999986688,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8624999999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.0276334000009228,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.9624999999999997
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.0677601999996114,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 0.9624999999999997
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.1238553000002867,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0624999999999993
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.1648596999948495,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0624999999999993
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.1935544999942067,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0624999999999993
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.2198838999975123,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.1656249999999988
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.2616761999961454,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.1656249999999988
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.2997752999945078,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.1656249999999988
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.3586384000009275,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.2718749999999983
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.3983571999997366,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.2718749999999983
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.4268392999947537,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3718749999999977
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.4515749999991385,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3718749999999977
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.4951485999990837,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3718749999999977
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.5369011000002502,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.4781249999999972
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.579719399996975,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.4781249999999972
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.624678899999708,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.4781249999999972
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.6814015999989351,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5906249999999966
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.7094971999977133,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 2,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5906249999999966
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.7503402000002097,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": false,
+            "last": {
+              "sequence": 6,
+              "itemId": 1135674350,
+              "status": "reloaded",
+              "ammo": 14,
+              "capacity": 15,
+              "chamber": true,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5906249999999966
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        }
+      ]
+    },
+    {
+      "skill": 5,
+      "pace": 0.6153846153846154,
+      "elapsed": 1.091211300001305,
+      "samples": [
+        {
+          "t": 0.05503869999665767,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1,
+              "clip": "animation.model.reloadempty",
+              "time": 1.916700005531311
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 6,
+            "itemId": 1135674350,
+            "status": "reloaded",
+            "ammo": 14,
+            "capacity": 15,
+            "chamber": true,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.08364889999938896,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.10889290000341134,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.16023819999827538,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.20284640000318177,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.17773437500000003
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.2566392000007909,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.17773437500000003
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.29711200000019744,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.3402343750000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3545940999974846,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.3402343750000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3940175000025192,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5078125000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.4201057000027504,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5078125000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.474107299996831,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.5078125000000002
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.5141730999966967,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.68046875
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.5578969999987748,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.68046875
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.5864695999989635,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.68046875
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6265649999986636,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8429687499999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6774768000032054,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8429687499999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.720074899996689,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0105468749999997
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7603778999982751,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0105468749999997
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7872790000037639,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0105468749999997
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.8287667999975383,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.1781249999999992
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.8693195000014384,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.1781249999999992
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.9251806000029319,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.4269531249999987
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.9677831000008155,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.4269531249999987
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.0217214000003878,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5894531249999981
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.0655630999972345,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 3,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.6153846153846154,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5894531249999981
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 1.091211300001305,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": false,
+            "last": {
+              "sequence": 7,
+              "itemId": 1135674350,
+              "status": "reloaded",
+              "ammo": 14,
+              "capacity": 15,
+              "chamber": true,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5894531249999981
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.6153846153846154,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        }
+      ]
+    },
+    {
+      "skill": 10,
+      "pace": 0.4444444444444445,
+      "elapsed": 0.7980615999986185,
+      "samples": [
+        {
+          "t": 0.052675699997053016,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.916700005531311
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reloaded",
+            "ammo": 14,
+            "capacity": 15,
+            "chamber": true,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.09332680000079563,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.916700005531311
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reloaded",
+            "ammo": 14,
+            "capacity": 15,
+            "chamber": true,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.14706589999696007,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 1.625,
+              "clip": "animation.model.reloadempty",
+              "time": 1.916700005531311
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 7,
+            "itemId": 1135674350,
+            "status": "reloaded",
+            "ammo": 14,
+            "capacity": 15,
+            "chamber": true,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.18541289999848232,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.17578125
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.2439675999994506,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.17578125
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.29822840000269935,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.4007812500000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.33712799999921117,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.4007812500000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.3797169999961625,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.6257812500000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.4051032999996096,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.6257812500000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.4485542999973404,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.6257812500000001
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.5284260999978869,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 0.8507812499999999
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.582433099996706,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0968749999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6089745999997831,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0968749999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6501347000012174,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.0968749999999998
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.6769866999966325,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3218749999999992
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.704588300002797,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3218749999999992
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7464257999963593,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 4,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": true,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reload started",
+              "clip": "reload",
+              "pace": 0.4444444444444445,
+              "ammo": 0,
+              "capacity": 15,
+              "chamber": false,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.3218749999999992
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        },
+        {
+          "t": 0.7980615999986185,
+          "native": {
+            "shots": 1,
+            "dry": 0,
+            "hits": 0,
+            "noise": 1,
+            "reloads": 5,
+            "cancelled": 1,
+            "rejected": 0,
+            "windows": 0,
+            "failures": 0,
+            "reloading": false,
+            "last": {
+              "sequence": 8,
+              "itemId": 1135674350,
+              "status": "reloaded",
+              "ammo": 14,
+              "capacity": 15,
+              "chamber": true,
+              "jammed": false
+            },
+            "loading": false,
+            "roundsLoaded": 0,
+            "roundsUnloaded": 0
+          },
+          "client": {
+            "shells": {
+              "active": 0,
+              "spawned": 0
+            },
+            "animation": {
+              "speed": 2.25,
+              "clip": "animation.model.reloadempty",
+              "time": 1.5679687499999988
+            },
+            "aim": 0,
+            "gunHeld": true,
+            "sprinting": false,
+            "kickPitch": 0,
+            "swaySpeed": 0,
+            "flashing": false
+          },
+          "clientGun": {
+            "sequence": 8,
+            "itemId": 1135674350,
+            "status": "reload started",
+            "clip": "reload",
+            "pace": 0.4444444444444445,
+            "ammo": 0,
+            "capacity": 15,
+            "chamber": false,
+            "jammed": false
+          }
+        }
+      ]
+    }
+  ],
+  "shots": [],
+  "passed": false,
+  "error": "AssertionError('no textured casing geometry: native-50ms')",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-gun-fidelity.py\", line 108, in run\n    assert shells, f'no textured casing geometry: {name}'\n           ^^^^^^\nAssertionError: no textured casing geometry: native-50ms\n",
+  "after": {
+    "uptimeSec": 2222,
+    "frames": 186407,
+    "fps": 71.1,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 998,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "38 minecraft:oak_planks",
+        "64 minecraft:stone",
+        "32 minecraft:glass",
+        "13 minecraft:cooked_beef",
+        "1 pz:Base.Pistol c=9 whole r=0",
+        "1 pz:Base.9mmClip whole r=0",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 pz:Base.TinOpener",
+        "1 pz:Base.CannedCornedBeef",
+        "1 pz:Base.Bag_AmmoBox_9mm whole",
+        "1 pz:Base.Shotgun whole r=0",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 pz:Base.Katana whole",
+        "1 pz:Base.Sledgehammer whole",
+        "1 minecraft:flint_and_steel"
+      ],
+      "selectedSlot": 2,
+      "held": {
+        "item": "38 minecraft:oak_planks",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0,
+        "applied": 0,
+        "rangeRejected": 0
+      },
+      "gun": {
+        "sequence": 9,
+        "itemId": 1135674350,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 13,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "gunFeel": {
+        "shells": {
+          "active": 0,
+          "spawned": 1
+        },
+        "animation": {},
+        "aim": 0,
+        "gunHeld": false,
+        "sprinting": false,
+        "kickPitch": -3.9771883e-13,
+        "swaySpeed": 0,
+        "flashing": false
+      },
+      "server": {
+        "proxyCount": 1,
+        "timeTicks": 183901,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false,
+        "air": 300,
+        "sleeping": false,
+        "food": 20,
+        "saturation": 1,
+        "minecraftOwnsFood": true,
+        "xyz": [
+          2158.183349609375,
+          0,
+          6127.5048828125
+        ],
+        "flying": false,
+        "entities": [
+          {
+            "id": 3,
+            "uuid": "cd39414b-153a-422a-948c-a14f842be9c7",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:111:stand",
+            "xyz": [
+              2158.721923828125,
+              5,
+              6127.52783203125
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false
+      },
+      "terrain": {
+        "columns": 70,
+        "holds": 0,
+        "loading": false
+      },
+      "materials": {
+        "sections": 82,
+        "floors": {
+          "grass": 3063,
+          "dirt": 238,
+          "gravel": 33,
+          "concrete": 311,
+          "asphalt": 553,
+          "wood": 42,
+          "carpet": 15,
+          "ceramic": 6
+        },
+        "edges": {
+          "wall": {
+            "wood": 49,
+            "brick": 7,
+            "plaster": 20,
+            "metal": 74,
+            "stone": 9
+          },
+          "door": {
+            "wood": 2,
+            "metal": 4
+          },
+          "window": {
+            "glass": 5
+          },
+          "fence": {
+            "wood": 2
+          }
+        },
+        "trees": 2,
+        "solids": 32,
+        "basementTiles": 0,
+        "interiorTiles": 89
+      },
+      "trees": {
+        "wanted": 1,
+        "placedStacks": 1,
+        "placedTotal": 1,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2182,
+            "z": 6143,
+            "size": 6,
+            "kind": 1,
+            "distance": 29.11,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 73,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 29,
+        "transactions": 19,
+        "duplicates": 0,
+        "added": 6,
+        "removed": 9,
+        "changed": 12,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 15,
+        "failures": 0,
+        "last": "applied 811417815465310: 0 added, 1 removed, 0 changed"
+      },
+      "food": 20,
+      "saturation": 1,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "hour": 21.900999069213867,
+      "year": 1993,
+      "day": 10,
+      "month": 7
+    },
+    "minecraftLights": 1,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "corrected": 27,
+      "rejected": 0,
+      "heights": {
+        "111": 4.9999998011883156
+      },
+      "rendered": 70698,
+      "active": 1
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 177860,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2158.183349609375,
+          1.619999885559082,
+          6127.5048828125
+        ],
+        "yaw": 45.00001525878906,
+        "pitch": 0.37815213203430176
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.4144,
+      "minecraftPid": 18896
+    },
+    "player": {
+      "x": 2158.183349609375,
+      "y": 6127.5048828125,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "minecraftBlock": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2158.183349609375,
+      "y": 0,
+      "z": 6127.5048828125,
+      "yaw": 45.00001525878906,
+      "pitch": 0.37815213203430176,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 228,
+      "batches": 5,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 8,
+      "handBatches": 1,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 23.4755
+    },
+    "terrain": {
+      "velocity": [
+        -1.4880706882615609e-10,
+        2.367293685650902e-11
+      ],
+      "sections": 82,
+      "queue": 49,
+      "columns": 70,
+      "sentThisFrame": 0,
+      "loadedAhead": 7,
+      "pendingAhead": 0,
+      "speed": 1.5067830524678932e-10,
+      "scanMs": 0.5521
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "groundShells": 360,
+      "farCells": 133,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 15,
+      "pending": 0,
+      "states": 66,
+      "txSent": 31,
+      "txAcked": 31,
+      "created": 8,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 811417815465310: 0 added, 1 removed, 0 changed"
+    },
+    "pzWeapons": {
+      "meleeMissing": 0,
+      "lastMelee": {},
+      "wearRolls": 2,
+      "meleeApplied": 0,
+      "meleeRangeRejected": 0,
+      "meleeCritical": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 2,
+      "dry": 0,
+      "hits": 0,
+      "noise": 2,
+      "reloads": 5,
+      "cancelled": 1,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 9,
+        "itemId": 1135674350,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 13,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 9,
+      "pzDamageEvents": 6
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 505868,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 1,
+    "blocks": 2007,
+    "overlay": {
+      "drawn": true,
+      "frameId": 27320,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 14.229000091552734,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 36366,
+      "atlasRevision": 39856910992600,
+      "meshRevision": 39856950925800,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 275297,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.12422104179859161,
+      "clouds": 0.24844208359718323,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 45.00001525878906
+    },
+    "overrideActive": false
+  },
+  "perkAfter": "nil,0,0",
+  "nativeAfter": "1007787769:Base.Katana:0|1087610647:PzCraft.MCItem:0|1278360974:Base.Sledgehammer:0|1322070766:PzCraft.MCItem:0|1551159690:Base.CannedCornedBeef:0|1691377553:Base.9mmClip:0|1695456652:PzCraft.MCItem:0|1932607112:PzCraft.MCItem:0|1942351916:Base.Pistol:0|1960858048:Base.TinOpener:0|34332006:PzCraft.MCItem:0|352256723:PzCraft.MCItem:0|383644981:Base.Shotgun:0|416495152:Base.Bag_AmmoBox_9mm:0|531072237:PzCraft.MCItem:0",
+  "cleanupErrors": []
+}

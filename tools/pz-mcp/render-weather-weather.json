@@ -1,0 +1,58 @@
+{
+  "stage": "weather",
+  "rain": {
+    "precipitation": 0.5,
+    "snow": false,
+    "thunder": false,
+    "fog": 0,
+    "wind": 0.10962704569101334,
+    "clouds": 0.21925464272499084,
+    "lastCommand": "rain for 6.0 h"
+  },
+  "shotRain": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-weather-rain.png",
+  "blizzard": {
+    "precipitation": 0.8999999761581421,
+    "snow": true,
+    "thunder": false,
+    "fog": 0,
+    "wind": 0.10962704569101334,
+    "clouds": 0.21925409138202667,
+    "lastCommand": "blizzard for 6.0 h"
+  },
+  "shotBlizzard": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-weather-blizzard.png",
+  "fog": {
+    "precipitation": 0.8999999761581421,
+    "snow": true,
+    "thunder": false,
+    "fog": 0.800000011920929,
+    "wind": 0.10962704569101334,
+    "clouds": 0.21925409138202667,
+    "lastCommand": "fog 0.8"
+  },
+  "shotFog": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-weather-fog.png",
+  "thunder": {
+    "precipitation": 0.75,
+    "snow": false,
+    "thunder": true,
+    "fog": 0.800000011920929,
+    "wind": 0.10962704569101334,
+    "clouds": 0.21925409138202667,
+    "lastCommand": "thunder for 6.0 h"
+  },
+  "shotThunder": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-weather-thunder.png",
+  "clear": {
+    "precipitation": 0,
+    "snow": false,
+    "thunder": false,
+    "fog": 0,
+    "wind": 0.10962704569101334,
+    "clouds": 0.21925409138202667,
+    "lastCommand": "clear"
+  },
+  "shotClear": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-weather-clear.png",
+  "minecraftMirror": [
+    "PZ weather: precipitation 0.5 snow false thunder false -> Minecraft rain=true thunder=false",
+    "PZ weather: precipitation 0.0 snow false thunder false -> Minecraft rain=false thunder=false"
+  ],
+  "pass": true
+}

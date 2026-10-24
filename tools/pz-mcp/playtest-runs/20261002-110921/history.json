@@ -1,0 +1,390 @@
+[
+  {
+    "step": 1,
+    "action": "walk_forward",
+    "why": {
+      "model": "walk_forward",
+      "p": 0.785,
+      "ms": 483
+    },
+    "ok": true,
+    "steve": {
+      "x": 10774.300000011921,
+      "y": 0,
+      "z": 9784.699999988079,
+      "yaw": 59.999996185302734,
+      "pitch": 30,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "solid"
+    ],
+    "problems": []
+  },
+  {
+    "step": 2,
+    "action": "mine",
+    "why": {
+      "model": "walk_forward",
+      "p": 0.014,
+      "ms": 512
+    },
+    "ok": false,
+    "steve": {
+      "x": 10774.300000011921,
+      "y": 0,
+      "z": 9784.699999988079,
+      "yaw": 59.999996185302734,
+      "pitch": 30,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "solid",
+      "open"
+    ],
+    "problems": [
+      "mining a block in reach did not reduce the block count (may have aimed at PZ geometry)"
+    ]
+  },
+  {
+    "step": 3,
+    "action": "strafe_right",
+    "why": {
+      "model": "walk_forward",
+      "p": 0.001,
+      "ms": 729
+    },
+    "ok": true,
+    "steve": {
+      "x": 10772.795117125826,
+      "y": 0,
+      "z": 9782.300000011921,
+      "yaw": 59.999996185302734,
+      "pitch": 30,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "solid",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 4,
+    "action": "strafe_left",
+    "why": {
+      "model": "place_block",
+      "p": 0.013,
+      "ms": 519
+    },
+    "ok": true,
+    "steve": {
+      "x": 10774.952068967077,
+      "y": 0,
+      "z": 9784.631568333485,
+      "yaw": 59.999996185302734,
+      "pitch": 30,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 5,
+    "action": "jump_forward",
+    "why": {
+      "model": "sprint_forward",
+      "p": 0.084,
+      "ms": 488
+    },
+    "ok": true,
+    "steve": {
+      "x": 10772.397362929165,
+      "y": 0,
+      "z": 9785.841024290145,
+      "yaw": 59.999996185302734,
+      "pitch": 30,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "solid",
+      "solid"
+    ],
+    "problems": []
+  },
+  {
+    "step": 6,
+    "action": "look_down",
+    "why": {
+      "model": "place_block",
+      "p": 0.01,
+      "ms": 578
+    },
+    "ok": true,
+    "steve": {
+      "x": 10772.397362929165,
+      "y": 0,
+      "z": 9785.841024290145,
+      "yaw": 59.999996185302734,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 7,
+    "action": "place_block",
+    "why": {
+      "model": "place_block",
+      "p": 0.745,
+      "ms": 591
+    },
+    "ok": true,
+    "steve": {
+      "x": 10772.397362929165,
+      "y": 0,
+      "z": 9785.841024290145,
+      "yaw": 59.999996185302734,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 8,
+    "action": "turn_left",
+    "why": {
+      "model": "walk_forward",
+      "p": 0.003,
+      "ms": 466
+    },
+    "ok": true,
+    "steve": {
+      "x": 10772.397362929165,
+      "y": 0,
+      "z": 9785.841024290145,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "solid",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 9,
+    "action": "walk_forward",
+    "why": {
+      "model": "sprint_forward",
+      "p": 0.2,
+      "ms": 569
+    },
+    "ok": true,
+    "steve": {
+      "x": 10775.63319206939,
+      "y": 0,
+      "z": 9791.445748256705,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 10,
+    "action": "walk_forward",
+    "why": {
+      "model": "sprint_forward",
+      "p": 0.1,
+      "ms": 541
+    },
+    "ok": true,
+    "steve": {
+      "x": 10778.869021209615,
+      "y": 0,
+      "z": 9797.050472223265,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 11,
+    "action": "mine",
+    "why": {
+      "model": "look_level",
+      "p": 0.048,
+      "ms": 1044
+    },
+    "ok": false,
+    "steve": {
+      "x": 10778.869021209615,
+      "y": 0,
+      "z": 9797.050472223265,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": [
+      "mining a block in reach did not reduce the block count (may have aimed at PZ geometry)"
+    ]
+  },
+  {
+    "step": 12,
+    "action": "turn_right",
+    "why": {
+      "model": "look_level",
+      "p": 0.028,
+      "ms": 511
+    },
+    "ok": true,
+    "steve": {
+      "x": 10778.869021209615,
+      "y": 0,
+      "z": 9797.050472223265,
+      "yaw": 59.999996185302734,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 13,
+    "action": "place_block",
+    "why": {
+      "model": "place_block",
+      "p": 0.635,
+      "ms": 521
+    },
+    "ok": true,
+    "steve": {
+      "x": 10778.869021209615,
+      "y": 0,
+      "z": 9797.050472223265,
+      "yaw": 59.999996185302734,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 14,
+    "action": "walk_forward",
+    "why": {
+      "model": "look_level",
+      "p": 0.143,
+      "ms": 637
+    },
+    "ok": true,
+    "steve": {
+      "x": 10774.938466431784,
+      "y": 0,
+      "z": 9800.286838923195,
+      "yaw": 59.999996185302734,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 15,
+    "action": "turn_left",
+    "why": {
+      "model": "sprint_forward",
+      "p": 0.016,
+      "ms": 484
+    },
+    "ok": true,
+    "steve": {
+      "x": 10774.938466431784,
+      "y": 0,
+      "z": 9800.286838923195,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  },
+  {
+    "step": 16,
+    "action": "attack",
+    "why": {
+      "model": "sprint_forward",
+      "p": 0.004,
+      "ms": 463
+    },
+    "ok": true,
+    "steve": {
+      "x": 10774.938466431784,
+      "y": 0,
+      "z": 9800.286838923195,
+      "yaw": -30.000003814697266,
+      "pitch": 45,
+      "onGround": true,
+      "flags": 1
+    },
+    "ahead": [
+      "open",
+      "open"
+    ],
+    "problems": []
+  }
+]

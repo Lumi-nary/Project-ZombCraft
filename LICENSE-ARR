@@ -1,0 +1,22 @@
+Project ZombCraft (PzCraft)
+Copyright 2026 Lumi-nary. All rights reserved.
+
+These release files (the PzCraft Project Zomboid mod and the PzCraft Minecraft mod) are not
+open source. Without written permission from the author you may not copy, re-upload,
+redistribute, modify, or reuse them or any part of them (including code taken from a
+decompiled jar), and you may not present them or any part of them as your own work.
+
+You may:
+- download them from their official pages and use them to play;
+- make and share videos, streams and screenshots that show them;
+- list them in a modpack that downloads the files from their official pages (Modrinth,
+  CurseForge or Steam Workshop) rather than re-hosting them.
+
+Official pages: the Steam Workshop, Modrinth and CurseForge pages published by Lumi-nary, and
+https://github.com/Lumi-nary/Project-ZombCraft.
+Releases up to and including 0.13.1 were published under the MIT License and stay under it.
+The author plans to publish the source of later versions under the Apache License 2.0; until
+that happens for a version, this notice applies to it.
+
+Project Zomboid, Minecraft, Viewpoint, ZombieBuddy, GeckoLib and Fabric
+belong to their respective owners and are not part of these files.

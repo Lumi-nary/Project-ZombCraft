@@ -1,0 +1,33 @@
+# Fleet: mcp-central-docs/templates/pre-commit-config.yaml.template
+
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.0
+    hooks:
+      - id: ruff
+        exclude: ^(mcpb|native|scripts)/   # fleet template scope
+        args: [--fix]
+        # DO NOT add `files:` here to narrow scope (Trap 7c). Pre-commit and ci.yml must
+        # lint the same paths. Fix violations or add paths to BOTH — never hook-only.
+      - id: ruff-format
+        exclude: ^(mcpb|native|scripts)/   # fleet template scope
+        # Same rule as ruff above — no narrower `files:` than CI.
+
+  - repo: local
+    hooks:
+      - id: biome-web
+        name: biome check (webapp)
+        entry: powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/pre-commit-biome.ps1
+        language: system
+        files: ^(webapp(/frontend)?|web_sota|web)/(.*\.(ts|tsx|js|jsx)|biome\.json)$
+        pass_filenames: false
+        require_serial: true
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+        args: [--maxkb=5120]

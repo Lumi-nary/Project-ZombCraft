@@ -1,0 +1,9 @@
+{
+  "goal": "collision",
+  "steps": 16,
+  "decider": "decision model",
+  "seconds": 42,
+  "anomalies": 2,
+  "bugs": 2,
+  "out": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\playtest-runs\\20261002-110921"
+}

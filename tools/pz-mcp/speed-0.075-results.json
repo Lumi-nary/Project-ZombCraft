@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "label": "0.075",
+  "seconds": 15,
+  "front": true,
+  "speedMedian": 29.73,
+  "speedMax": 29.73,
+  "minY": 45,
+  "distance": 470.94,
+  "fpsMedian": 38.8,
+  "pendingSamples": 0,
+  "videoEntitiesMax": 0,
+  "scanMsP95": 0.663,
+  "inventoryRestored": true
+}

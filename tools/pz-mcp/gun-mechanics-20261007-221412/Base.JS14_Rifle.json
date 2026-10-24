@@ -1,0 +1,263 @@
+{
+  "gun": "Base.JS14_Rifle",
+  "catalogue": {
+    "reloadType": "boltaction",
+    "magazine": "Base.JS14_Clip",
+    "ammoKey": "Base.556Bullets",
+    "maxAmmo": 20,
+    "rackAfterShoot": false,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 15,
+    "projectiles": 1,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.JS14_Rifle whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "mk14ebr"
+    },
+    {
+      "name": "1 magazine reload",
+      "seconds": 2.88,
+      "state": {
+        "clip": true,
+        "ammo": 19,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": true,
+        "ammo": 19,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": true,
+        "ammo": 18,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 20,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 189,
+        "itemId": 1899569072,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 20,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 magazine ejected",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspect",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 7.92,
+      "step": "fixture",
+      "clip": "reloadempty",
+      "speed": 1.05,
+      "plays": 1
+    },
+    {
+      "t": 11.48,
+      "step": "1 magazine reload",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 12.48,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 13.71,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 15.0,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 16.16,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 17.45,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 18.67,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 19.78,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 21.03,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 22.34,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 23.47,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 24.69,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 25.96,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 27.03,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 28.3,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 29.51,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 30.75,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 31.99,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 33.17,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 34.43,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 38.87,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 40.66,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [],
+  "cleanupErrors": []
+}

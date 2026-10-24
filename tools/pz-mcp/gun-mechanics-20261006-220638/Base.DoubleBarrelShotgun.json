@@ -1,0 +1,72 @@
+{
+  "gun": "Base.DoubleBarrelShotgun",
+  "catalogue": {
+    "reloadType": "doublebarrelshotgun",
+    "magazine": null,
+    "ammoKey": "Base.ShotgunShells",
+    "maxAmmo": 2,
+    "rackAfterShoot": false,
+    "haveChamber": false,
+    "insertAll": true,
+    "needsClose": true,
+    "manualSpent": false,
+    "recoilDelay": 30,
+    "projectiles": 9,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.DoubleBarrelShotgun whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 3.23,
+      "state": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 2
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 1,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 1,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    }
+  ],
+  "passed": false,
+  "error": "AssertionError((1, 2))",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-guns.py\", line 157, in run_one\n    assert fired == capacity or fired == capacity + 0, (fired, capacity)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: (1, 2)\n",
+  "cleanupErrors": []
+}

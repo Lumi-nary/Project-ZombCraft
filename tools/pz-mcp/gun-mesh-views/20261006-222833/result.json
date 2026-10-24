@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "views": [
+    "Base.Pistol2",
+    "Base.Shotgun",
+    "Base.AssaultRifle",
+    "Base.Revolver"
+  ],
+  "cleanupErrors": []
+}

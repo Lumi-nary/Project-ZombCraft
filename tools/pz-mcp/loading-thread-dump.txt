@@ -1,0 +1,434 @@
+15512:
+2026-10-02 18:34:21
+Full thread dump OpenJDK 64-Bit Server VM (25.0.1+8-LTS mixed mode, sharing):
+
+Threads class SMR info:
+_java_thread_list=0x000002499f0b9e30, length=36, elements={
+0x00000249556847a0, 0x0000024955839800, 0x0000024955839fc0, 0x00000249558448d0,
+0x000002495583d6b0, 0x000002495583e650, 0x000002495583cee0, 0x00000249558477c0,
+0x00000249558452f0, 0x0000024955840d60, 0x00000249705eae60, 0x000002496b32e4b0,
+0x0000024973f977f0, 0x0000024970c66490, 0x0000024970c683d0, 0x0000024970c65cc0,
+0x0000024970c6d9c0, 0x0000024970c6ba80, 0x00000249036504c0, 0x000002490364fcf0,
+0x0000024971233730, 0x0000024920d464c0, 0x0000024920d43db0, 0x0000024920d40700,
+0x000002491e71cb00, 0x000002491e721150, 0x0000024970c66c60, 0x0000024971231fc0,
+0x0000024951e35520, 0x0000024993fc4a00, 0x0000024993fc9820, 0x0000024993fcd6a0,
+0x0000024993fd1520, 0x0000024a1f62e480, 0x0000024a1f6332a0, 0x0000024a2738b250
+}
+
+"main" #3 [6976] prio=5 os_prio=0 cpu=50515.62ms elapsed=130.44s tid=0x00000249556847a0 nid=6976 in Object.wait()  [0x000000f4f76ff000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at zombie.core.SpriteRenderer.waitForReadyState(SpriteRenderer.java:707)
+	at zombie.core.SpriteRenderer.acquireStateForRendering(SpriteRenderer.java:676)
+	- locked <0x0000040039a0a910> (a zombie.core.sprite.SpriteRendererStates)
+	at zombie.core.opengl.RenderThread.lockStepRenderStep(RenderThread.java:265)
+	at zombie.core.opengl.RenderThread.renderStep(RenderThread.java:246)
+	at zombie.core.opengl.RenderThread.renderLoop(RenderThread.java:137)
+	- locked <0x0000040039a0a9d0> (a java.lang.String)
+	at zombie.gameStates.MainScreenState.main(MainScreenState.java:339)
+
+"Reference Handler" #33 [7020] daemon prio=10 os_prio=2 cpu=31.25ms elapsed=130.41s tid=0x0000024955839800 nid=7020 waiting on condition  [0x000000f4f90ff000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.ref.Reference.waitForReferencePendingList(java.base@25.0.1/Native Method)
+	at java.lang.ref.Reference.processPendingReferences(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(java.base@25.0.1/Unknown Source)
+
+"Finalizer" #34 [27536] daemon prio=8 os_prio=1 cpu=0.00ms elapsed=130.41s tid=0x0000024955839fc0 nid=27536 in Object.wait()  [0x000000f4f91ff000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove0(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(java.base@25.0.1/Unknown Source)
+	- locked <0x0000040039a0a7f0> (a java.lang.ref.ReferenceQueue$Lock)
+	at java.lang.ref.Finalizer$FinalizerThread.run(java.base@25.0.1/Unknown Source)
+
+"Signal Dispatcher" #35 [30276] daemon prio=9 os_prio=2 cpu=0.00ms elapsed=130.41s tid=0x00000249558448d0 nid=30276 waiting on condition  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Attach Listener" #36 [23948] daemon prio=5 os_prio=2 cpu=0.00ms elapsed=130.41s tid=0x000002495583d6b0 nid=23948 waiting on condition  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Service Thread" #37 [20192] daemon prio=9 os_prio=0 cpu=78.12ms elapsed=130.41s tid=0x000002495583e650 nid=20192 runnable  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Monitor Deflation Thread" #38 [30484] daemon prio=9 os_prio=0 cpu=0.00ms elapsed=130.41s tid=0x000002495583cee0 nid=30484 runnable  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"C2 CompilerThread0" #39 [26760] daemon prio=9 os_prio=2 cpu=22484.38ms elapsed=130.41s tid=0x00000249558477c0 nid=26760 waiting on condition  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+   No compile task
+
+"C1 CompilerThread0" #47 [16952] daemon prio=9 os_prio=2 cpu=1234.38ms elapsed=130.41s tid=0x00000249558452f0 nid=16952 waiting on condition  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+   No compile task
+
+"Common-Cleaner" #51 [14504] daemon prio=8 os_prio=1 cpu=0.00ms elapsed=130.39s tid=0x0000024955840d60 nid=14504 in Object.wait()  [0x000000f4f9bfe000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove0(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(java.base@25.0.1/Unknown Source)
+	- locked <0x0000040039a0a800> (a java.lang.ref.ReferenceQueue$Lock)
+	at jdk.internal.ref.CleanerImpl.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+	at jdk.internal.misc.InnocuousThread.run(java.base@25.0.1/Unknown Source)
+
+"Notification Thread" #100 [26564] daemon prio=9 os_prio=0 cpu=0.00ms elapsed=129.58s tid=0x00000249705eae60 nid=26564 runnable  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"JNA Cleaner" #103 [27752] daemon prio=5 os_prio=0 cpu=15.62ms elapsed=128.51s tid=0x000002496b32e4b0 nid=27752 in Object.wait()  [0x000000f4f9fff000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove0(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(java.base@25.0.1/Unknown Source)
+	- locked <0x0000040039a0a8a0> (a java.lang.ref.ReferenceQueue$Lock)
+	at com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
+
+"MainThread" #104 [19600] prio=5 os_prio=0 cpu=86515.62ms elapsed=127.52s tid=0x0000024973f977f0 nid=19600 runnable  [0x000000f4fa8ff000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.Thread.yield0(java.base@25.0.1/Native Method)
+	at java.lang.Thread.yield(java.base@25.0.1/Unknown Source)
+	at zombie.MainThread.mainLoop(MainThread.java:73)
+	at zombie.MainThread$$Lambda/0x00000000253c8218.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"FileSystemWatchService" #105 [23664] daemon prio=5 os_prio=0 cpu=1062.50ms elapsed=124.25s tid=0x0000024970c66490 nid=23664 runnable  [0x000000f4f9cff000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus0(java.base@25.0.1/Native Method)
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus(java.base@25.0.1/Unknown Source)
+	at sun.nio.fs.WindowsWatchService$Poller.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+	at jdk.internal.misc.InnocuousThread.run(java.base@25.0.1/Unknown Source)
+
+"pool-1-thread-1" #106 [22736] prio=5 os_prio=0 cpu=12703.12ms elapsed=123.40s tid=0x0000024970c683d0 nid=22736 waiting on condition  [0x000000f4f9efe000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400052d9730> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pool-1-thread-2" #107 [26116] prio=5 os_prio=0 cpu=14000.00ms elapsed=123.40s tid=0x0000024970c65cc0 nid=26116 waiting on condition  [0x000000f4fb0ff000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400052d9730> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pool-1-thread-3" #108 [25252] prio=5 os_prio=0 cpu=13000.00ms elapsed=123.40s tid=0x0000024970c6d9c0 nid=25252 waiting on condition  [0x000000f4fb1fe000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400052d9730> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pool-1-thread-4" #109 [29024] prio=5 os_prio=0 cpu=13718.75ms elapsed=123.40s tid=0x0000024970c6ba80 nid=29024 waiting on condition  [0x000000f4fb2ff000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400052d9730> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"HttpClient-1-SelectorManager" #110 [18828] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=118.59s tid=0x00000249036504c0 nid=18828 runnable  [0x000000f4fb4ff000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.WEPoll.wait(java.base@25.0.1/Native Method)
+	at sun.nio.ch.WEPollSelectorImpl.doSelect(java.base@25.0.1/Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(java.base@25.0.1/Unknown Source)
+	- locked <0x0000040026ad13c0> (a sun.nio.ch.Util$2)
+	- locked <0x0000040026ad0ff0> (a sun.nio.ch.WEPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(java.base@25.0.1/Unknown Source)
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(java.net.http@25.0.1/Unknown Source)
+
+"HttpClient-2-SelectorManager" #113 [24984] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=118.11s tid=0x000002490364fcf0 nid=24984 runnable  [0x000000f4f99fe000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.WEPoll.wait(java.base@25.0.1/Native Method)
+	at sun.nio.ch.WEPollSelectorImpl.doSelect(java.base@25.0.1/Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(java.base@25.0.1/Unknown Source)
+	- locked <0x00000400010a3278> (a sun.nio.ch.Util$2)
+	- locked <0x00000400010a3028> (a sun.nio.ch.WEPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(java.base@25.0.1/Unknown Source)
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(java.net.http@25.0.1/Unknown Source)
+
+"pzcraft-link" #140 [12800] daemon prio=5 os_prio=0 cpu=640.62ms elapsed=115.42s tid=0x0000024971233730 nid=12800 sleeping [0x000000f4fbbfe000]
+   java.lang.Thread.State: TIMED_WAITING (sleeping)
+	at java.lang.Thread.sleepNanos0(java.base@25.0.1/Native Method)
+	at java.lang.Thread.sleepNanos(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.sleep(java.base@25.0.1/Unknown Source)
+	at pzcraft.pz.LinkService.loop(LinkService.java:116)
+	at pzcraft.pz.LinkService$$Lambda/0x0000000025236a88.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"idle-timeout-task" #167 [3204] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=112.40s tid=0x0000024920d464c0 nid=3204 in Object.wait()  [0x000000f4fc3ff000]
+   java.lang.Thread.State: TIMED_WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.util.TimerThread.mainLoop(java.base@25.0.1/Unknown Source)
+	- locked <0x00000400011f5c90> (a java.util.TaskQueue)
+	at java.util.TimerThread.run(java.base@25.0.1/Unknown Source)
+
+"HTTP-Dispatcher" #168 [24424] daemon prio=5 os_prio=0 cpu=78.12ms elapsed=112.40s tid=0x0000024920d43db0 nid=24424 runnable  [0x000000f4fc4ff000]
+   java.lang.Thread.State: RUNNABLE
+	at sun.nio.ch.WEPoll.wait(java.base@25.0.1/Native Method)
+	at sun.nio.ch.WEPollSelectorImpl.doSelect(java.base@25.0.1/Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(java.base@25.0.1/Unknown Source)
+	- locked <0x00000400011f4938> (a sun.nio.ch.Util$2)
+	- locked <0x00000400011f46e8> (a sun.nio.ch.WEPollSelectorImpl)
+	at sun.nio.ch.SelectorImpl.select(java.base@25.0.1/Unknown Source)
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(jdk.httpserver@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pzcraft-control-http" #169 [17260] daemon prio=5 os_prio=0 cpu=31.25ms elapsed=110.94s tid=0x0000024920d40700 nid=17260 waiting on condition  [0x000000f4fb9ff000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400011f7f58> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pzcraft-control-http" #170 [28928] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=105.91s tid=0x000002491e71cb00 nid=28928 waiting on condition  [0x000000f4faefe000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400011f7f58> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"pzcraft-control-http" #171 [29044] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=100.88s tid=0x000002491e721150 nid=29044 waiting on condition  [0x000000f4f9dfe000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400011f7f58> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"VoiceManagerClient" #172 [6088] prio=5 os_prio=0 cpu=0.00ms elapsed=97.63s tid=0x0000024970c66c60 nid=6088 in Object.wait()  [0x000000f4fcdff000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at zombie.core.raknet.VoiceManager.UpdateVMClient(VoiceManager.java:702)
+	- locked <0x0000040039a0a830> (a java.lang.Object)
+	- locked <0x000004005620a648> (a zombie.core.raknet.VoiceManager)
+	at zombie.core.raknet.VoiceManager$4.run(VoiceManager.java:546)
+
+"Thread-3" #174 [22468] prio=5 os_prio=0 cpu=312.50ms elapsed=97.32s tid=0x0000024971231fc0 nid=22468 runnable  [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"GameLoadingThread" #175 [23752] prio=5 os_prio=0 cpu=5187.50ms elapsed=78.40s tid=0x0000024951e35520 nid=23752 in Object.wait()  [0x000000f4fc8fe000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at zombie.gameStates.GameLoadingState$1.runInner(GameLoadingState.java:405)
+	- locked <0x0000040007a14750> (a java.lang.String)
+	at zombie.gameStates.GameLoadingState$1.run(GameLoadingState.java:294)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"IsoRegionWorker" #184 [27616] daemon prio=5 os_prio=0 cpu=156.25ms elapsed=71.39s tid=0x0000024993fc4a00 nid=27616 waiting on condition  [0x000000f4fb3ff000]
+   java.lang.Thread.State: TIMED_WAITING (sleeping)
+	at java.lang.Thread.sleepNanos0(java.base@25.0.1/Native Method)
+	at java.lang.Thread.sleepNanos(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.sleep(java.base@25.0.1/Unknown Source)
+	at zombie.iso.areas.isoregion.IsoRegionWorker.thread_run_batched_jobs(IsoRegionWorker.java:250)
+	at zombie.iso.areas.isoregion.IsoRegionWorker.thread_main_loop(IsoRegionWorker.java:221)
+	at zombie.iso.areas.isoregion.IsoRegionWorker.lambda$create$0(IsoRegionWorker.java:66)
+	at zombie.iso.areas.isoregion.IsoRegionWorker$$Lambda/0x0000000025103000.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"PathfindNativeThread" #185 [4640] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=66.03s tid=0x0000024993fc9820 nid=4640 in Object.wait()  [0x000000f4fd2ff000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at zombie.pathfind.nativeCode.PathfindNativeThread.runInner(PathfindNativeThread.java:61)
+	- locked <0x0000040035df16b8> (a java.lang.Object)
+	at zombie.pathfind.nativeCode.PathfindNativeThread.run(PathfindNativeThread.java:42)
+
+"World Streamer" #186 [28244] daemon prio=5 os_prio=0 cpu=859.38ms elapsed=66.02s tid=0x0000024993fcd6a0 nid=28244 waiting on condition  [0x000000f4fd5ff000]
+   java.lang.Thread.State: TIMED_WAITING (sleeping)
+	at java.lang.Thread.sleepNanos0(java.base@25.0.1/Native Method)
+	at java.lang.Thread.sleepNanos(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.sleep(java.base@25.0.1/Unknown Source)
+	at zombie.iso.WorldStreamer.threadLoop(WorldStreamer.java:463)
+	at zombie.iso.WorldStreamer.lambda$create$0(WorldStreamer.java:483)
+	at zombie.iso.WorldStreamer$$Lambda/0x00000000259a6878.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"WorldReuser" #187 [11152] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=66.02s tid=0x0000024993fd1520 nid=11152 waiting on condition  [0x000000f4fd6ff000]
+   java.lang.Thread.State: WAITING (parking)
+	at jdk.internal.misc.Unsafe.park(java.base@25.0.1/Native Method)
+	- parking to wait for  <0x00000400082597c8> (a java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject)
+	at java.util.concurrent.locks.LockSupport.park(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.unmanagedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.ForkJoinPool.managedBlock(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(java.base@25.0.1/Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(java.base@25.0.1/Unknown Source)
+	at zombie.iso.WorldReuserThread.testReuseChunk(WorldReuserThread.java:69)
+	at zombie.iso.WorldReuserThread.lambda$run$0(WorldReuserThread.java:28)
+	at zombie.iso.WorldReuserThread$$Lambda/0x00000000259a2638.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"Lighting Thread" #189 [22812] daemon prio=5 os_prio=0 cpu=12203.12ms elapsed=62.47s tid=0x0000024a1f62e480 nid=22812 runnable  [0x000000f4fd8ff000]
+   java.lang.Thread.State: RUNNABLE
+	at zombie.iso.LightingJNI.DoLightingUpdateNew(Native Method)
+	at zombie.iso.LightingThread.runInner(LightingThread.java:76)
+	at zombie.iso.LightingThread.threadLoop(LightingThread.java:67)
+	at zombie.iso.LightingThread$$Lambda/0x00000000259d3920.run(Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"LWJGL Timer" #190 [15576] daemon prio=5 os_prio=0 cpu=0.00ms elapsed=62.47s tid=0x0000024a1f6332a0 nid=15576 waiting on condition  [0x000000f4fd9ff000]
+   java.lang.Thread.State: TIMED_WAITING (sleeping)
+	at java.lang.Thread.sleepNanos0(java.base@25.0.1/Native Method)
+	at java.lang.Thread.sleepNanos(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.sleep(java.base@25.0.1/Unknown Source)
+	at org.lwjglx.opengl.Sync$1.run(Sync.java:118)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"Java2D Disposer" #191 [8560] daemon prio=10 os_prio=2 cpu=0.00ms elapsed=0.37s tid=0x0000024a2738b250 nid=8560 in Object.wait()  [0x000000f4f73ff000]
+   java.lang.Thread.State: WAITING (on object monitor)
+	at java.lang.Object.wait0(java.base@25.0.1/Native Method)
+	- waiting on <no object reference available>
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.Object.wait(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove0(java.base@25.0.1/Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(java.base@25.0.1/Unknown Source)
+	- locked <0x00000400d1b2dee8> (a java.lang.ref.ReferenceQueue$Lock)
+	at sun.java2d.Disposer.run(java.desktop@25.0.1/Unknown Source)
+	at java.lang.Thread.runWith(java.base@25.0.1/Unknown Source)
+	at java.lang.Thread.run(java.base@25.0.1/Unknown Source)
+
+"VM Thread" os_prio=2 cpu=2203.12ms elapsed=130.42s tid=0x0000024955811d20 nid=26256 runnable  
+
+"VM Periodic Task Thread" os_prio=2 cpu=218.75ms elapsed=130.42s tid=0x0000024955756090 nid=24708 waiting on condition  
+
+"RuntimeWorker#9" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x00000249557050a0 nid=448 runnable  
+
+"RuntimeWorker#8" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955704c50 nid=12024 runnable  
+
+"RuntimeWorker#7" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955706630 nid=30376 runnable  
+
+"RuntimeWorker#6" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955703f60 nid=464 runnable  
+
+"RuntimeWorker#5" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955707770 nid=24656 runnable  
+
+"RuntimeWorker#4" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x00000249557054f0 nid=17516 runnable  
+
+"RuntimeWorker#3" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x00000249557061e0 nid=25592 runnable  
+
+"RuntimeWorker#2" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955707320 nid=17560 runnable  
+
+"ZDirector" os_prio=2 cpu=140.62ms elapsed=130.43s tid=0x00000249557143c0 nid=30524 runnable  
+
+"RuntimeWorker#0" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955705d90 nid=29596 runnable  
+
+"ZStat" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x000002495571c840 nid=10368 runnable  
+
+"RuntimeWorker#1" os_prio=2 cpu=0.00ms elapsed=130.43s tid=0x0000024955705940 nid=10548 runnable  
+
+"ZDriverMajor" os_prio=2 cpu=78.12ms elapsed=130.43s tid=0x0000024955712c00 nid=12156 runnable  
+
+"ZDriverMinor" os_prio=2 cpu=46.88ms elapsed=130.43s tid=0x0000024955712450 nid=4708 runnable  
+
+"ZWorkerYoung#3" os_prio=2 cpu=2812.50ms elapsed=130.44s tid=0x0000024955704800 nid=8656 runnable  
+
+"ZWorkerYoung#2" os_prio=2 cpu=3234.38ms elapsed=130.44s tid=0x0000024955706ed0 nid=24308 runnable  
+
+"ZWorkerYoung#1" os_prio=2 cpu=2484.38ms elapsed=130.44s tid=0x00000249557043b0 nid=24208 runnable  
+
+"ZWorkerOld#3" os_prio=2 cpu=93.75ms elapsed=130.44s tid=0x00000249556f73f0 nid=11580 runnable  
+
+"ZWorkerYoung#0" os_prio=2 cpu=2640.62ms elapsed=130.44s tid=0x0000024955706a80 nid=4104 runnable  
+
+"ZWorkerOld#1" os_prio=2 cpu=1375.00ms elapsed=130.44s tid=0x00000249556ecc80 nid=23528 runnable  
+
+"ZWorkerOld#2" os_prio=2 cpu=1484.38ms elapsed=130.44s tid=0x00000249556efbd0 nid=21092 runnable  
+
+"ZWorkerOld#0" os_prio=2 cpu=359.38ms elapsed=130.44s tid=0x00000249556ebda0 nid=12228 runnable  
+
+"ZUncommitter#0" os_prio=2 cpu=0.00ms elapsed=130.44s tid=0x0000024953866250 nid=10688 runnable  
+
+JNI global refs: 128, weak refs: 60
+

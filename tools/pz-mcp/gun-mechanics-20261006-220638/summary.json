@@ -1,0 +1,94 @@
+{
+  "Base.Pistol3": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.AssaultRifle": {
+    "passed": false,
+    "error": null,
+    "cleanupErrors": [
+      "slot: PzError('could not select hotbar slot 5: is the world running and Minecraft linked?')"
+    ]
+  },
+  "Base.AssaultRifle2": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.JS14_Rifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.TrapperCarbine": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.Revolver": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.Revolver_Long": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.Revolver_Short": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.Shotgun": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.ShotgunSawnoff": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.DoubleBarrelShotgun": {
+    "passed": false,
+    "error": "AssertionError((1, 2))",
+    "cleanupErrors": []
+  },
+  "Base.DoubleBarrelShotgunSawnoff": {
+    "passed": false,
+    "error": "AssertionError((1, 2))",
+    "cleanupErrors": []
+  },
+  "Base.JS3T_Shotgun": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.HuntingRifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.VarmintRifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.MSR7T_Rifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.L92_Carbine": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.L94_Rifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  }
+}

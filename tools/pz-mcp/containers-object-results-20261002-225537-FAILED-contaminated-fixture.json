@@ -1,0 +1,77 @@
+{
+  "passed": false,
+  "kind": "object",
+  "container": {
+    "x": 2149,
+    "y": 6105,
+    "index": 1,
+    "containers": 1,
+    "items": 3
+  },
+  "before": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1,
+    "Base.TinCanEmpty": 1
+  },
+  "screen": {
+    "rows": 1,
+    "shown": {
+      "Base.TinCanEmpty": 1,
+      "Base.BeerCanEmpty": 1,
+      "Base.PlasticCup": 1
+    },
+    "hidden": 0
+  },
+  "taken": {
+    "Base.TinCanEmpty": 1,
+    "Base.BeerCanEmpty": 1
+  },
+  "gained": {
+    "Base.TinCanEmpty": 1,
+    "Base.BeerCanEmpty": 1
+  },
+  "stoneStayed": true,
+  "afterTake": {
+    "Base.PlasticCup": 1
+  },
+  "pzStats": {
+    "opened": 1,
+    "committed": 1,
+    "itemsTaken": 2,
+    "itemsAdded": 0,
+    "failures": 0,
+    "last": "committed"
+  },
+  "restored": {
+    "Base.BeerCanEmpty": 1,
+    "Base.PlasticCup": 1,
+    "Base.TinCanEmpty": 1
+  },
+  "inventoryRestored": true,
+  "mcStats": {
+    "opened": 2,
+    "committed": 2,
+    "itemsTaken": 2,
+    "itemsAdded": 2,
+    "hiddenStacks": 0,
+    "last": "committed 0 taken, 2 added"
+  },
+  "stateBefore": "Base.Apple|10|1.500||Apple;Base.Hammer|3|0.000||My Hammer;Base.Lighter|10|0.000|0.406|Lighter",
+  "stateShown": [
+    "1 pz:Base.Hammer c=3 nm=My Hammer whole",
+    "1 pz:Base.Apple a=1.50",
+    "1 pz:Base.Lighter u=0.406 whole"
+  ],
+  "stateCarried": [
+    "1 pz:Base.Hammer c=3 nm=My Hammer whole",
+    "1 pz:Base.Apple a=1.50",
+    "1 pz:Base.Apple",
+    "1 pz:Base.Hammer",
+    "1 pz:Base.Hammer c=3 nm=My Hammer (Worn)",
+    "1 pz:Base.Lighter u=0.406 whole",
+    "1 pz:Base.Apple a=1.50",
+    "1 pz:Base.Lighter u=0.406"
+  ],
+  "stateAfter": "Base.Apple|10|0.000||Apple;Base.Apple|10|1.525||Apple;Base.Hammer|10|0.000||Claw Hammer;Base.Hammer|3|0.000||My Hammer;Base.Hammer|3|0.000||My Hammer (Worn);Base.Lighter|10|0.000|0.406|Lighter",
+  "cleaned": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "label": "hidden",
+  "seconds": 30.2,
+  "processes": [
+    {
+      "pid": 6392,
+      "role": "Minecraft",
+      "cpuCorePercent": 57.78,
+      "workingMiB": 1250.2,
+      "privateMiB": 2078.4
+    }
+  ],
+  "workingMiB": 1250.2,
+  "privateMiB": 2078.4,
+  "overlayAgeMedianMs": 17.56,
+  "overlayAgeP95Ms": 22.25,
+  "overlayFps": 87.8,
+  "pzFpsMedian": 70,
+  "estimatedReadbackMiBPerSec": 290.5,
+  "layers": 1,
+  "measurement": "Idle unpaused client; full RGBA readback estimate uses the actual layer count; GPU usage not measured",
+  "gpuError": "Get-Counter : The 'Get-Counter' command was found in the module 'Microsoft.PowerShell.Diagnostics', but the module \ncould not be loaded. For more information, run 'Import-Module Microsoft.PowerShell.Diagnostics'.\nAt line:1 char:40\n+ $ErrorActionPreference='Stop'; $rows=@(Get-Counter '\\GPU Engine(*)\\Ut ...\n+                                        ~~~~~~~~~~~\n    + CategoryInfo          : ObjectNotFound: (Get-Counter:String) [], ParentContainsErrorRecordException\n    + FullyQualifiedErrorId : CouldNotAutoloadMatchingModule"
+}

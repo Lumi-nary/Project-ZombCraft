@@ -1,0 +1,63 @@
+{
+ "time": "22:34:45",
+ "paused": true,
+ "slot": 0,
+ "camera": 0,
+ "mc": [
+  "1 pz:Base.AssaultRifle whole r=0",
+  "1 pz:Base.Pistol whole r=12+1",
+  "1 pz:Base.Pistol2 whole r=0",
+  "1 pz:Base.Pistol3 whole r=0",
+  "1 pz:Base.556Clip whole r=1",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air",
+  "0 minecraft:air"
+ ],
+ "pzItems": [
+  "Base.556Clip:1870147065:10:1",
+  "Base.AssaultRifle:435019869:10:0",
+  "Base.Pistol2:1720076830:10:0",
+  "Base.Pistol3:639517627:10:0",
+  "Base.Pistol:221624086:10:12"
+ ],
+ "pzCounts": {
+  "Base.AssaultRifle": 1,
+  "Base.Pistol": 1,
+  "Base.Pistol2": 1,
+  "Base.Pistol3": 1,
+  "Base.556Clip": 1
+ },
+ "mirror": {
+  "status": "in step",
+  "pending": 0,
+  "failures": 0
+ }
+}

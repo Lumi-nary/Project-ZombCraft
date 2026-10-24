@@ -1,0 +1,555 @@
+{
+  "ready": {
+    "uptimeSec": 46,
+    "frames": 2717,
+    "fps": 60.9,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": true
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 3.0045,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.013380284421145916,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": -4.325710960983997e-06,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 226,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 46.54069900512695
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44035256840500,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 448,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 0,
+      "yawDeg": -4.325710960983997e-06
+    },
+    "overrideActive": false
+  },
+  "placed": {
+    "uptimeSec": 48,
+    "frames": 2782,
+    "fps": 58.1,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": true
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 3.0182,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.01355976052582264,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 301,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 33.25
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44037305587500,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 564,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  },
+  "night": {
+    "uptimeSec": 50,
+    "frames": 2916,
+    "fps": 65.2,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": true
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 4.6371,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.01388075202703476,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 426,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 24.371999740600586
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44039364529100,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 777,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  },
+  "hurt": {
+    "uptimeSec": 54,
+    "frames": 3245,
+    "fps": 75,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": true
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 3.0175,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 80.00038146972656,
+      "hunger": 0.014575939625501633,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 15.999998092651367,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 1
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 689,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 42.1879997253418
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44043509139300,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 1207,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  },
+  "regenerated": {
+    "uptimeSec": 62,
+    "frames": 3835,
+    "fps": 72.7,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": true
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.9853,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 90.0003662109375,
+      "hunger": 0.0012289390433579683,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 17.999998092651367,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 1
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 1154,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 37.3468017578125
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44051767335600,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 2151,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  },
+  "paused_before": {
+    "uptimeSec": 64,
+    "frames": 3909,
+    "fps": 70.8,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": false
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 4.6385,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.0013074767775833607,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 1
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 1234,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 27.390499114990234
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44052809771900,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 2268,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  },
+  "paused_after": {
+    "uptimeSec": 66,
+    "frames": 4052,
+    "fps": 73.1,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "viewpoint": {
+      "view3d": true,
+      "available": true,
+      "captured": false
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 4.5156,
+      "minecraftPid": 24276
+    },
+    "player": {
+      "x": 10747.037109375,
+      "y": 9988.0859375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.0013074767775833607,
+      "hasSquare": true
+    },
+    "steve": {
+      "x": 10747.037109375,
+      "y": 0,
+      "z": 9988.0859375,
+      "yaw": 2.5044780613825424e-06,
+      "pitch": 35,
+      "onGround": true,
+      "flags": 1
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 1
+    },
+    "zombies": 6,
+    "blocks": 10,
+    "overlay": {
+      "drawn": true,
+      "frameId": 1384,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 24.146699905395508
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 270,
+      "atlasRevision": 43994767953600,
+      "meshRevision": 44054814213700,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 2485,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 2.5044780613825424e-06
+    },
+    "overrideActive": false
+  }
+}

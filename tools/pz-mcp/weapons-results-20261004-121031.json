@@ -1,0 +1,179 @@
+{
+  "passed": true,
+  "weapons": {
+    "Base.Katana": {
+      "got": {
+        "item": "1 pz:Base.Katana whole",
+        "attackDamage": 53.333333333333336,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "expectedDamage": 53.333333333333336,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 8.0,
+        "maxDamage": 8.0,
+        "minRange": 0.61,
+        "maxRange": 1.4,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 35.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 8,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 1,
+        "clipSize": 0
+      }
+    },
+    "Base.Axe": {
+      "got": {
+        "item": "1 pz:Base.Axe whole",
+        "attackDamage": 9.333333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 6.25,
+        "durability": "13/13"
+      },
+      "expectedDamage": 9.333333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": 6.25,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.8,
+        "maxDamage": 2.0,
+        "minRange": 0.61,
+        "maxRange": 1.2,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 20.0,
+        "knockdown": 2.0,
+        "pushBack": 0.3,
+        "doorDamage": 35,
+        "hitChance": 0,
+        "conditionMax": 13,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 35,
+        "clipSize": 0
+      }
+    },
+    "Base.Hammer": {
+      "got": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 5,
+        "attackSpeed": 1.7999999999999998,
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "expectedDamage": 5.0,
+      "expectedSpeed": 1.8,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.5,
+        "maxDamage": 1.0,
+        "minRange": 0.61,
+        "maxRange": 1.1,
+        "swingTime": 3.0,
+        "twoHanded": false,
+        "crit": 20.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 9,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 0,
+        "clipSize": 0
+      }
+    },
+    "Base.BaseballBat": {
+      "got": {
+        "item": "1 pz:Base.BaseballBat whole",
+        "attackDamage": 6.333333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "15/15"
+      },
+      "expectedDamage": 6.333333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.8,
+        "maxDamage": 1.1,
+        "minRange": 0.61,
+        "maxRange": 1.25,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 40.0,
+        "knockdown": 2.0,
+        "pushBack": 0.5,
+        "doorDamage": 5,
+        "hitChance": 0,
+        "conditionMax": 15,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 1,
+        "clipSize": 0
+      }
+    },
+    "Base.Crowbar": {
+      "got": {
+        "item": "1 pz:Base.Crowbar whole",
+        "attackDamage": 5.833333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "15/15"
+      },
+      "expectedDamage": 5.833333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.6,
+        "maxDamage": 1.15,
+        "minRange": 0.61,
+        "maxRange": 1.25,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 20.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 8,
+        "hitChance": 0,
+        "conditionMax": 15,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 0,
+        "clipSize": 0
+      }
+    }
+  },
+  "W2": {
+    "spawned": "0.99 2.00",
+    "crosshair": "ENTITY",
+    "healthAfter": 0.5,
+    "loss": 1.5,
+    "expectedLoss": 1.5,
+    "mcAttackDamage": 1
+  },
+  "finished": "20261004-121031"
+}

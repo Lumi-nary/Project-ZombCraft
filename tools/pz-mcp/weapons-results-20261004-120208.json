@@ -1,0 +1,39 @@
+{
+  "passed": false,
+  "weapons": {
+    "Base.Katana": {
+      "got": {
+        "item": "1 pz:Base.Katana whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "expectedDamage": 53.333333333333336,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 8.0,
+        "maxDamage": 8.0,
+        "minRange": 0.61,
+        "maxRange": 1.4,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 35.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 8,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 1,
+        "clipSize": 0
+      }
+    }
+  },
+  "finished": "20261004-120208"
+}

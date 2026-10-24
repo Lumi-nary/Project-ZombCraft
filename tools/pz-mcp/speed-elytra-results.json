@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "label": "elytra",
+  "seconds": 30,
+  "front": true,
+  "speedMedian": 33.6,
+  "speedMax": 33.85,
+  "minY": 38.23,
+  "distance": 983.05,
+  "fpsMedian": 58.8,
+  "pendingSamples": 0,
+  "videoEntitiesMax": 0,
+  "overlayFps": 87.4,
+  "overlayAgeMedianMs": 18.4,
+  "nativeFrameAgeMedianMs": 7.09,
+  "nearGroundMaskAheadMin": [
+    255,
+    255,
+    255,
+    255,
+    255,
+    250,
+    153
+  ],
+  "farCellsMin": 133,
+  "streamerQueueMax": 38,
+  "loadedQueueMax": 19,
+  "scanMsP95": 0.666,
+  "inventoryRestored": true
+}

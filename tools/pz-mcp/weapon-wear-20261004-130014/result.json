@@ -1,0 +1,15 @@
+{
+  "passed": false,
+  "samples": [],
+  "started": "20261004-130014",
+  "savedBefore": [
+    "PZ saved",
+    "Minecraft saved"
+  ],
+  "error": "Error([('C:\\\\Users\\\\Maple\\\\Desktop\\\\Pz x Minecraft\\\\fabric-mod\\\\run\\\\saves\\\\pzcraft\\\\session.lock', 'C:\\\\Users\\\\Maple\\\\Desktop\\\\Pz x Minecraft\\\\.pzcraft-backups\\\\before-codex-weapon-check-20261004-130014\\\\mc\\\\session.lock', '[WinError 33] The process cannot access the file because another process has locked a portion of the file')])",
+  "cleanupErrors": [],
+  "inventoryPreserved": true,
+  "slotRestored": true,
+  "positionPreserved": true,
+  "paused": true
+}

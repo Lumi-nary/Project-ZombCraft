@@ -1,0 +1,6 @@
+{
+    "enabledMcpjsonServers": [
+        "blockbench",
+        "blockbench-headless"
+    ]
+}

@@ -1,0 +1,399 @@
+{
+  "passed": true,
+  "maxMoodleLevel": "0,26",
+  "initialFood": 20,
+  "samples": [
+    {
+      "seconds": 0.0,
+      "food": 20,
+      "saturation": 20,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 1.0,
+      "food": 20,
+      "saturation": 19,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 2.1,
+      "food": 20,
+      "saturation": 19,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 3.1,
+      "food": 20,
+      "saturation": 18,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 4.1,
+      "food": 20,
+      "saturation": 18,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 5.1,
+      "food": 20,
+      "saturation": 18,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 6.1,
+      "food": 20,
+      "saturation": 17,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 7.1,
+      "food": 20,
+      "saturation": 17,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 8.2,
+      "food": 20,
+      "saturation": 17,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 9.2,
+      "food": 20,
+      "saturation": 16,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 10.2,
+      "food": 20,
+      "saturation": 16,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 11.2,
+      "food": 20,
+      "saturation": 15,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 12.2,
+      "food": 20,
+      "saturation": 15,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 13.3,
+      "food": 20,
+      "saturation": 15,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 14.3,
+      "food": 20,
+      "saturation": 14,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 15.3,
+      "food": 20,
+      "saturation": 14,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 16.3,
+      "food": 20,
+      "saturation": 14,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 17.4,
+      "food": 20,
+      "saturation": 13,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 18.4,
+      "food": 20,
+      "saturation": 13,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 19.4,
+      "food": 20,
+      "saturation": 12,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 20.4,
+      "food": 20,
+      "saturation": 12,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 21.5,
+      "food": 20,
+      "saturation": 12,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 22.5,
+      "food": 20,
+      "saturation": 11,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 23.5,
+      "food": 20,
+      "saturation": 11,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 24.5,
+      "food": 20,
+      "saturation": 10,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 25.5,
+      "food": 20,
+      "saturation": 10,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 26.5,
+      "food": 20,
+      "saturation": 10,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 27.5,
+      "food": 20,
+      "saturation": 9,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 28.6,
+      "food": 20,
+      "saturation": 9,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 29.6,
+      "food": 20,
+      "saturation": 9,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 30.6,
+      "food": 20,
+      "saturation": 8,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 31.6,
+      "food": 20,
+      "saturation": 8,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 32.6,
+      "food": 20,
+      "saturation": 7,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 33.7,
+      "food": 20,
+      "saturation": 7,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 34.7,
+      "food": 20,
+      "saturation": 7,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 35.7,
+      "food": 20,
+      "saturation": 6,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 36.7,
+      "food": 20,
+      "saturation": 6,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 37.7,
+      "food": 20,
+      "saturation": 5,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 38.8,
+      "food": 20,
+      "saturation": 5,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 39.8,
+      "food": 20,
+      "saturation": 5,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 40.8,
+      "food": 20,
+      "saturation": 4,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 41.8,
+      "food": 20,
+      "saturation": 4,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 42.8,
+      "food": 20,
+      "saturation": 4,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 43.8,
+      "food": 20,
+      "saturation": 3,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 44.9,
+      "food": 20,
+      "saturation": 3,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 45.9,
+      "food": 20,
+      "saturation": 2,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 46.9,
+      "food": 20,
+      "saturation": 2,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 47.9,
+      "food": 20,
+      "saturation": 2,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 49.0,
+      "food": 20,
+      "saturation": 1,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 50.0,
+      "food": 20,
+      "saturation": 1,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 51.0,
+      "food": 20,
+      "saturation": 1,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 52.0,
+      "food": 20,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 53.1,
+      "food": 20,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 54.1,
+      "food": 19,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 55.1,
+      "food": 19,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 56.1,
+      "food": 19,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 57.1,
+      "food": 18,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 58.1,
+      "food": 18,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    },
+    {
+      "seconds": 59.1,
+      "food": 18,
+      "saturation": 0,
+      "pzDamageEvents": 1
+    }
+  ],
+  "regeneration": {
+    "damaged": 18,
+    "healed": 20
+  },
+  "restored": {
+    "active": false,
+    "hiddenFrames": 177176,
+    "reflectionFailed": false,
+    "saved": false,
+    "stats": {
+      "Anger": 0,
+      "Boredom": 0,
+      "Discomfort": 0,
+      "Endurance": 1,
+      "Fatigue": 1,
+      "Fitness": 0,
+      "FoodSickness": 0,
+      "Hunger": 1,
+      "Idleness": 0,
+      "Intoxication": 0,
+      "Morale": 1,
+      "NicotineWithdrawal": 0,
+      "Pain": 0,
+      "Panic": 100,
+      "Poison": 0,
+      "Sanity": 1,
+      "Sickness": 0,
+      "Stress": 0,
+      "Temperature": 30,
+      "Thirst": 1,
+      "Unhappiness": 0,
+      "Wetness": 0,
+      "ZombieFever": 0,
+      "ZombieInfection": 0
+    },
+    "hasCold": true,
+    "coldDamageStage": 0.699999988079071
+  }
+}

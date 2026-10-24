@@ -1,0 +1,200 @@
+{
+  "passed": false,
+  "before": {
+    "inventory": [
+      "1 minecraft:iron_sword",
+      "1 minecraft:iron_pickaxe",
+      "64 minecraft:oak_planks",
+      "64 minecraft:stone",
+      "32 minecraft:glass",
+      "15 minecraft:cooked_beef",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Sledgehammer whole",
+      "1 pz:Base.Katana whole",
+      "1 pz:Base.TinOpener whole",
+      "1 pz:Base.CannedCornedBeef whole",
+      "64 pz:Base.Bullets9mm",
+      "1 pz:Base.9mmClip whole r=0",
+      "1 pz:Base.Pistol whole r=0",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Bag_AmmoBox_9mm whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "slot": 6,
+    "look": {
+      "yaw": 45.00001525878906,
+      "pitch": 0
+    }
+  },
+  "steps": [
+    {
+      "name": "right-click loads",
+      "status": {
+        "sequence": 24,
+        "itemId": 1823046857,
+        "status": "loaded (15 rounds in)",
+        "ammo": 15,
+        "capacity": 15
+      },
+      "loaded": 15,
+      "magazine": 15,
+      "loose": 69
+    },
+    {
+      "name": "minecraft shows the rounds",
+      "stack": "1 pz:Base.9mmClip whole r=15"
+    },
+    {
+      "name": "swap stops unloading",
+      "magazine": 11,
+      "loose": 73,
+      "status": "stopped (4 rounds out)"
+    },
+    {
+      "name": "unloaded",
+      "magazine": 0,
+      "loose": 84
+    }
+  ],
+  "looseBefore": 64,
+  "magazinesBefore": "1978018935",
+  "pistolsBefore": "1942351916",
+  "diagnostic": {
+    "held": {
+      "item": "1 pz:Base.9mmClip whole r=15",
+      "attackDamage": 1,
+      "attackSpeed": 4,
+      "serverAttackDamage": 1,
+      "preset": "",
+      "treeSpeed": 1,
+      "durability": ""
+    },
+    "selectedSlot": 8,
+    "pistolSlot": 8,
+    "pistolStack": "1 pz:Base.9mmClip whole r=15",
+    "pzGuns": {
+      "shots": 1,
+      "dry": 0,
+      "hits": 0,
+      "noise": 1,
+      "reloads": 1,
+      "cancelled": 0,
+      "rejected": 1,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 28,
+        "itemId": 1823046857,
+        "status": "loaded (15 rounds in)",
+        "ammo": 15,
+        "capacity": 15
+      },
+      "loading": false,
+      "roundsLoaded": 135,
+      "roundsUnloaded": 60
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 45.00001525878906
+    },
+    "paused": false,
+    "gunState": {
+      "sequence": 28,
+      "itemId": 1823046857,
+      "status": "loaded (15 rounds in)",
+      "ammo": 15,
+      "capacity": 15
+    }
+  },
+  "error": "timed out after 15s waiting for the pistol reload",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-magazine.py\", line 148, in run\n    p.wait_for(lambda: last_status() == 'reloaded' or None, 15, .1, 'the pistol reload')\n    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\pzcore.py\", line 293, in wait_for\n    raise PzError(f\"timed out after {timeout:.0f}s waiting for {what}\")\npzcore.PzError: timed out after 15s waiting for the pistol reload\n",
+  "after": {
+    "inventory": [
+      "1 minecraft:iron_sword",
+      "1 minecraft:iron_pickaxe",
+      "64 minecraft:oak_planks",
+      "64 minecraft:stone",
+      "32 minecraft:glass",
+      "15 minecraft:cooked_beef",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Sledgehammer whole",
+      "1 pz:Base.Katana whole",
+      "1 pz:Base.TinOpener whole",
+      "1 pz:Base.CannedCornedBeef whole",
+      "64 pz:Base.Bullets9mm",
+      "1 pz:Base.9mmClip whole r=0",
+      "1 pz:Base.Pistol whole r=0",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "0 minecraft:air",
+      "1 pz:Base.Bag_AmmoBox_9mm whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "slot": 6,
+    "paused": true,
+    "mirror": "in step",
+    "pzGuns": {
+      "shots": 1,
+      "dry": 0,
+      "hits": 0,
+      "noise": 1,
+      "reloads": 1,
+      "cancelled": 0,
+      "rejected": 1,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 28,
+        "itemId": 1823046857,
+        "status": "loaded (15 rounds in)",
+        "ammo": 15,
+        "capacity": 15
+      },
+      "loading": false,
+      "roundsLoaded": 135,
+      "roundsUnloaded": 60
+    }
+  },
+  "cleanupErrors": []
+}

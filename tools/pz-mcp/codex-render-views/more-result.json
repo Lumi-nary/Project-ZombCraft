@@ -1,0 +1,22 @@
+{
+  "inventoryRestored": true,
+  "paused": true,
+  "slot": 2,
+  "camera": 0,
+  "steve": {
+    "x": 2158.199951171875,
+    "y": 0,
+    "z": 6127.5048828125,
+    "yaw": 45.00001525878906,
+    "pitch": 0,
+    "onGround": true,
+    "flags": 1
+  },
+  "health": {
+    "minecraftOwnsHealth": true,
+    "steveHealth": 20,
+    "steveMax": 20,
+    "zombieAttacksForwarded": 0,
+    "pzDamageEvents": 1
+  }
+}

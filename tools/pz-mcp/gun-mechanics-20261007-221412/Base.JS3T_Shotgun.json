@@ -1,0 +1,283 @@
+{
+  "gun": "Base.JS3T_Shotgun",
+  "catalogue": {
+    "reloadType": "shotgun",
+    "magazine": null,
+    "ammoKey": "Base.ShotgunShells",
+    "maxAmmo": 7,
+    "rackAfterShoot": true,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 28,
+    "projectiles": 9,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.JS3T_Shotgun whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "m590"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 7.42,
+      "state": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 7
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": true,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 racked",
+      "state": {
+        "clip": false,
+        "ammo": 5,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 7,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 237,
+        "itemId": 1716184931,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 7,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 8.05,
+      "step": "fixture",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 8.7,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 9.68,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 10.72,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 11.75,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 12.84,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 13.9,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 14.97,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 15.41,
+      "step": "fixture",
+      "clip": "loadend",
+      "speed": 1.5,
+      "plays": 1
+    },
+    {
+      "t": 16.03,
+      "step": "fixture",
+      "clip": "rack",
+      "speed": 0.79,
+      "plays": 1
+    },
+    {
+      "t": 17.67,
+      "step": "1 rounds loaded",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 21.35,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 24.18,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 26.86,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 29.77,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 32.38,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 35.1,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 40.5,
+      "step": "3 dry click",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 41.05,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 42.09,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 43.14,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 43.98,
+      "step": "3 dry click",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 45.28,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 47.2,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [],
+  "cleanupErrors": []
+}

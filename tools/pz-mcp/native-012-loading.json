@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "stage": "loading",
+  "boundary": 2168,
+  "maxX": 2167.699999988079,
+  "minY": 0.01,
+  "holds": 37,
+  "loadingSeen": true,
+  "blockedShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-pending.png",
+  "releasedX": 2176.000220499112,
+  "wallX": 2169.599999988079,
+  "wallBoundary": 2170,
+  "wallShot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-012-fast-wall.png"
+}

@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "kind": "corpse",
+  "container": {
+    "x": 2160,
+    "y": 6110,
+    "index": 0,
+    "containers": 1,
+    "items": 7
+  },
+  "before": {
+    "Base.Boxers_White": 1,
+    "Base.IDcard_Male": 1,
+    "Base.Ring_Left_RingFinger_Silver": 1,
+    "Base.Shoes_TrainerTINT": 1,
+    "Base.Socks_Long": 1,
+    "Base.Trousers_JeanBaggy": 1,
+    "Base.Tshirt_DefaultTEXTURE_TINT": 1
+  },
+  "screen": {
+    "rows": 2,
+    "shown": {
+      "Base.IDcard_Male": 1,
+      "Base.Boxers_White": 1,
+      "Base.Tshirt_DefaultTEXTURE_TINT": 1,
+      "Base.Socks_Long": 1,
+      "Base.Ring_Left_RingFinger_Silver": 1,
+      "Base.Trousers_JeanBaggy": 1,
+      "Base.Shoes_TrainerTINT": 1
+    },
+    "hidden": 0
+  },
+  "taken": {
+    "Base.IDcard_Male": 1,
+    "Base.Boxers_White": 1
+  },
+  "gained": {
+    "Base.Boxers_White": 1,
+    "Base.IDcard_Male": 1
+  },
+  "tookSlots": {
+    "34": "1 pz:Base.Boxers_White whole",
+    "35": "1 pz:Base.IDcard_Male whole"
+  },
+  "stoneStayed": true,
+  "afterTake": {
+    "Base.Ring_Left_RingFinger_Silver": 1,
+    "Base.Shoes_TrainerTINT": 1,
+    "Base.Socks_Long": 1,
+    "Base.Trousers_JeanBaggy": 1,
+    "Base.Tshirt_DefaultTEXTURE_TINT": 1
+  },
+  "pzStats": {
+    "opened": 45,
+    "committed": 45,
+    "itemsTaken": 52,
+    "itemsAdded": 50,
+    "failures": 0,
+    "last": "committed"
+  },
+  "restored": {
+    "Base.Boxers_White": 1,
+    "Base.IDcard_Male": 1,
+    "Base.Ring_Left_RingFinger_Silver": 1,
+    "Base.Shoes_TrainerTINT": 1,
+    "Base.Socks_Long": 1,
+    "Base.Trousers_JeanBaggy": 1,
+    "Base.Tshirt_DefaultTEXTURE_TINT": 1
+  },
+  "inventoryRestored": true,
+  "mcStats": {
+    "opened": 46,
+    "committed": 46,
+    "itemsTaken": 52,
+    "itemsAdded": 52,
+    "hiddenStacks": 0,
+    "last": "committed 0 taken, 2 added"
+  },
+  "finished": "20261004-101815"
+}

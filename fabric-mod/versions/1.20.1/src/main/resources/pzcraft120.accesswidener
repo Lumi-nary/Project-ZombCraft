@@ -1,0 +1,5 @@
+accessWidener v2 named
+accessible class net/minecraft/client/renderer/RenderType$CompositeState
+accessible class net/minecraft/client/renderer/RenderStateShard$EmptyTextureStateShard
+accessible field net/minecraft/client/KeyMapping clickCount I
+accessible field net/minecraft/client/renderer/LevelRenderer destructionProgress Lit/unimi/dsi/fastutil/longs/Long2ObjectMap;

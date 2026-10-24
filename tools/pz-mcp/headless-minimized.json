@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "label": "minimized",
+  "seconds": 30.1,
+  "processes": [
+    {
+      "pid": 6392,
+      "role": "Minecraft",
+      "cpuCorePercent": 39.14,
+      "workingMiB": 1262.2,
+      "privateMiB": 2088.1
+    }
+  ],
+  "workingMiB": 1262.2,
+  "privateMiB": 2088.1,
+  "overlayAgeMedianMs": 17.52,
+  "overlayAgeP95Ms": 22.46,
+  "overlayFps": 87.3,
+  "pzFpsMedian": 72.9,
+  "estimatedReadbackMiBPerSec": 289.0,
+  "layers": 1,
+  "measurement": "Idle unpaused client; actual video layer count; Windows per-process GPU engine counters (not additive overall GPU percent)",
+  "gpuEngines": [
+    {
+      "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+      "meanPercent": 4.59,
+      "p95Percent": 4.71
+    },
+    {
+      "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+      "meanPercent": 94.14,
+      "p95Percent": 94.63
+    }
+  ]
+}

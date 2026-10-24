@@ -1,0 +1,567 @@
+{
+  "moved": "teleported player by 0.736328125,-1.970703125",
+  "afterStep": {
+    "x": 10779.2326375834,
+    "y": 1,
+    "z": 9782,
+    "yaw": -90,
+    "pitch": 10,
+    "onGround": true,
+    "flags": 1
+  },
+  "onPillar": {
+    "x": 10781.5,
+    "y": 3,
+    "z": 9782.5,
+    "yaw": -90,
+    "pitch": 10,
+    "onGround": true,
+    "flags": 1
+  },
+  "samples": 67,
+  "statesSeen": [
+    "idle"
+  ],
+  "maxSteveY": 3.0,
+  "maxPzZ": 1.225,
+  "badSamples": [],
+  "pass": true,
+  "log": [
+    {
+      "t": 0.05,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.101
+    },
+    {
+      "t": 0.18,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.361,
+      "steveY": 0.937
+    },
+    {
+      "t": 0.32,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.496,
+      "steveY": 1.251
+    },
+    {
+      "t": 0.47,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.461,
+      "steveY": 1.094
+    },
+    {
+      "t": 0.62,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.19,
+      "steveY": 0.063
+    },
+    {
+      "t": 0.76,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.292,
+      "steveY": 0.967
+    },
+    {
+      "t": 0.92,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.467,
+      "steveY": 1.252
+    },
+    {
+      "t": 1.05,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.501,
+      "steveY": 1.021
+    },
+    {
+      "t": 1.2,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.06,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.21,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.36,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.5,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.64,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.79,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.93,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.09,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.26,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.42,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.58,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.74,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.89,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.04,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.19,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.37,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.54,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.06,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.19,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.34,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.384,
+      "steveY": 0.828
+    },
+    {
+      "t": 0.52,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.13,
+      "steveY": 0.25
+    },
+    {
+      "t": 0.66,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 0.81,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 0.97,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 1.13,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 1.27,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 1.43,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 0.04,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.001,
+      "steveY": 0.0
+    },
+    {
+      "t": 0.2,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.35,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.5,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.63,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.77,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.93,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.06,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.2,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.36,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.5,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.63,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.77,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 1.92,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.04,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.17,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.3,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.225,
+      "steveY": 3.0
+    },
+    {
+      "t": 0.45,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 1.135,
+      "steveY": 2.582
+    },
+    {
+      "t": 0.61,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.832,
+      "steveY": 1.953
+    },
+    {
+      "t": 0.77,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 0.94,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.09,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.23,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.39,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.55,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.7,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 1.86,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.0,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.14,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.29,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    },
+    {
+      "t": 2.45,
+      "state": "idle",
+      "fallTime": 0.0,
+      "falling": false,
+      "pzZ": 0.409,
+      "steveY": 1.0
+    }
+  ]
+}

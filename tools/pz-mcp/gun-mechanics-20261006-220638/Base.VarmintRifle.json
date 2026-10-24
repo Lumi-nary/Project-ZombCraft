@@ -1,0 +1,111 @@
+{
+  "gun": "Base.VarmintRifle",
+  "catalogue": {
+    "reloadType": "boltactionnomag",
+    "magazine": null,
+    "ammoKey": "Base.556Bullets",
+    "maxAmmo": 5,
+    "rackAfterShoot": true,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 17,
+    "projectiles": 1,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.VarmintRifle whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 3.86,
+      "state": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 5
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": true,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 racked",
+      "state": {
+        "clip": false,
+        "ammo": 3,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 5,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 211,
+        "itemId": 416181586,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 5,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "cleanupErrors": []
+}

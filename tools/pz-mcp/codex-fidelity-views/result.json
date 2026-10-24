@@ -1,0 +1,50 @@
+{
+  "error": null,
+  "inventoryRestored": true,
+  "slot": 2,
+  "camera": 0,
+  "paused": true,
+  "input": {
+    "view3d": true,
+    "captured": false,
+    "live": false,
+    "keys": 0,
+    "yawDeg": 45.00001525878906
+  },
+  "health": {
+    "minecraftOwnsHealth": true,
+    "steveHealth": 20,
+    "steveMax": 20,
+    "zombieAttacksForwarded": 9,
+    "pzDamageEvents": 3
+  },
+  "mirror": {
+    "active": true,
+    "status": "in step",
+    "ledgerKinds": 15,
+    "pending": 0,
+    "states": 35,
+    "txSent": 12,
+    "txAcked": 12,
+    "created": 5,
+    "removed": 0,
+    "updated": 0,
+    "unmirrorable": 0,
+    "failures": 0,
+    "last": "sent transaction 884810862814255: 0 added, 1 removed, 0 changed"
+  },
+  "native": {
+    "failed": false,
+    "triangles": 228,
+    "batches": 5,
+    "drawnBatches": 2,
+    "shadowBatches": 4,
+    "translucentBatches": 0,
+    "textures": 7,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 0,
+    "playerBatches": 0,
+    "frameAgeMs": 18.2741
+  }
+}

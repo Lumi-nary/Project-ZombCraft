@@ -1,0 +1,12 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  ci:
+    uses: sandraschi/fleet-ci/.github/workflows/hybrid.yml@v1

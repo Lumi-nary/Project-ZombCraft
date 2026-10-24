@@ -1,0 +1,100 @@
+{
+  "gun": "Base.Revolver",
+  "catalogue": {
+    "reloadType": "revolver",
+    "magazine": null,
+    "ammoKey": "Base.Bullets357",
+    "maxAmmo": 6,
+    "rackAfterShoot": false,
+    "haveChamber": false,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": true,
+    "recoilDelay": 16,
+    "projectiles": 1,
+    "fireMode": null
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.Revolver whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 7.29,
+      "state": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 6
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 5,
+        "chamber": false,
+        "spentCount": 1,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 6,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 6,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 133,
+        "itemId": 886802608,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 6,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 6,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "cleanupErrors": []
+}

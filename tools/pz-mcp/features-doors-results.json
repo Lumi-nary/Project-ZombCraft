@@ -1,0 +1,251 @@
+{
+  "rightClickDoor": true,
+  "doorCloses": true,
+  "redstonePzDoor": true,
+  "pass": true,
+  "finalState": {
+    "uptimeSec": 283,
+    "frames": 16984,
+    "fps": 50.9,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 9,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "64 minecraft:oak_planks",
+        "64 minecraft:stone",
+        "32 minecraft:glass",
+        "16 minecraft:cooked_beef",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "combat": {
+        "wallRejected": 0,
+        "heightRejected": 0,
+        "applied": 0,
+        "rangeRejected": 0
+      },
+      "server": {
+        "proxyCount": 1,
+        "probes": {},
+        "sleeping": false,
+        "entities": [
+          {
+            "id": 49,
+            "uuid": "ec130b55-f924-4dee-8faa-8862478c2d89",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:72:stand",
+            "xyz": [
+              2131.5,
+              0.008775255128608411,
+              6086.5
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024
+          },
+          {
+            "id": 39,
+            "uuid": "ac16189a-be88-434e-8e1e-978c3d0be7bb",
+            "type": "minecraft:item",
+            "xyz": [
+              2156.3944697745587,
+              0,
+              6099.007170174993
+            ],
+            "tags": [],
+            "proxy": false,
+            "width": 0.25,
+            "height": 0.25,
+            "vehicle": 0
+          },
+          {
+            "id": 40,
+            "uuid": "f3eb4e45-2b1f-4c11-a648-04989fb4984f",
+            "type": "minecraft:item",
+            "xyz": [
+              2159.3325896403558,
+              0,
+              6097.742648315454
+            ],
+            "tags": [],
+            "proxy": false,
+            "width": 0.25,
+            "height": 0.25,
+            "vehicle": 0
+          },
+          {
+            "id": 41,
+            "uuid": "be2db777-36da-485b-aa33-8056f21efd57",
+            "type": "minecraft:item",
+            "xyz": [
+              2154.679828305149,
+              0,
+              6107.743232075501
+            ],
+            "tags": [],
+            "proxy": false,
+            "width": 0.25,
+            "height": 0.25,
+            "vehicle": 0
+          }
+        ],
+        "xyz": [
+          2152.5,
+          0,
+          6095.4
+        ],
+        "effects": [],
+        "onFire": false,
+        "timeTicks": 73224,
+        "eyesInWater": false,
+        "invulnerable": false,
+        "eyeY": 1.3362845182418823,
+        "inWater": false,
+        "air": 300,
+        "creative": false,
+        "tags": []
+      }
+    },
+    "clock": {
+      "day": 11,
+      "year": 1993,
+      "hour": 7.156435966491699,
+      "month": 7
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "eye": [
+        0,
+        1.3360741138458252,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.9671,
+      "minecraftPid": 29872
+    },
+    "player": {
+      "x": 2152.5,
+      "y": 6095.39990234375,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0.2193300426006317,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "solidTrans": false,
+        "minecraftBlock": false
+      }
+    },
+    "steve": {
+      "x": 2152.5,
+      "y": 0,
+      "z": 6095.4,
+      "yaw": 179.99998474121094,
+      "pitch": 5.551403522491455,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 442,
+      "batches": 3,
+      "drawnBatches": 1,
+      "shadowBatches": 3,
+      "textures": 5
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "zombies": 1,
+    "blocks": 8,
+    "overlay": {
+      "drawn": true,
+      "frameId": 10569,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 69.2394027709961
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 348,
+      "atlasRevision": 61946010181600,
+      "meshRevision": 61945200553100,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 23274,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 179.99998474121094
+    },
+    "overrideActive": false
+  }
+}

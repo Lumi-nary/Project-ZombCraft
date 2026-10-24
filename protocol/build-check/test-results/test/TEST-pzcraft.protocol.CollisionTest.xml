@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pzcraft.protocol.CollisionTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-08T14:30:10.017Z" hostname="MAPLE" time="0.032">
+  <properties/>
+  <testcase name="wireMessagesRoundTrip()" classname="pzcraft.protocol.CollisionTest" time="0.005"/>
+  <testcase name="inputStateSlotRoundTrip()" classname="pzcraft.protocol.CollisionTest" time="0.011"/>
+  <testcase name="emptySectionHasNoBoxes()" classname="pzcraft.protocol.CollisionTest" time="0.002"/>
+  <testcase name="rampBuildsSixteenColumnsFollowingTheHeightSamples()" classname="pzcraft.protocol.CollisionTest" time="0.001"/>
+  <testcase name="floorTileBoxSitsUnderTheWalkingSurface()" classname="pzcraft.protocol.CollisionTest" time="0.001"/>
+  <testcase name="frameLinkDeliversWholeFramesInOrder()" classname="pzcraft.protocol.CollisionTest" time="0.006"/>
+  <testcase name="lowFencesAreJumpableAndFurnitureIsOnlyAsTallAsItsTop()" classname="pzcraft.protocol.CollisionTest" time="0.0"/>
+  <testcase name="wallEdgesAreThinFullHeightPlanesOnTheTileBorder()" classname="pzcraft.protocol.CollisionTest" time="0.0"/>
+  <testcase name="warpIsIdentityForTheSameCameraAndShiftsInTheTurnDirection()" classname="pzcraft.protocol.CollisionTest" time="0.002"/>
+  <testcase name="storeyAboveLeavesRoomToJumpIndoors()" classname="pzcraft.protocol.CollisionTest" time="0.0"/>
+  <testcase name="sectionEncodeDecodeRoundTrip()" classname="pzcraft.protocol.CollisionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

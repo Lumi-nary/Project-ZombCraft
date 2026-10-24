@@ -1,0 +1,2066 @@
+{
+  "weapon": "Base.Axe",
+  "camera": 0,
+  "baseline": {
+    "uptimeSec": 195,
+    "frames": 14867,
+    "fps": 86.9,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 3,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 1,
+      "firstPersonHand": false,
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "64 minecraft:oak_planks",
+        "64 minecraft:stone",
+        "32 minecraft:glass",
+        "16 minecraft:cooked_beef",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 6,
+      "held": {
+        "item": "0 minecraft:air",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "applied": 0,
+        "rangeRejected": 0,
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0
+      },
+      "server": {
+        "xyz": [
+          2149.412353515625,
+          0,
+          6125.65185546875
+        ],
+        "flying": false,
+        "entities": [],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false,
+        "proxyCount": 0,
+        "timeTicks": 169637,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false,
+        "air": 300,
+        "sleeping": false,
+        "food": 20,
+        "saturation": 3,
+        "minecraftOwnsFood": true
+      },
+      "terrain": {
+        "loading": false,
+        "columns": 49,
+        "holds": 0
+      },
+      "materials": {
+        "sections": 52,
+        "floors": {
+          "grass": 2249,
+          "dirt": 179,
+          "gravel": 5,
+          "concrete": 206,
+          "asphalt": 423,
+          "carpet": 15
+        },
+        "edges": {
+          "wall": {
+            "wood": 30,
+            "brick": 7,
+            "plaster": 7,
+            "metal": 74
+          },
+          "door": {
+            "wood": 1
+          },
+          "window": {
+            "glass": 2
+          }
+        },
+        "trees": 1,
+        "solids": 7,
+        "basementTiles": 0,
+        "interiorTiles": 15
+      },
+      "trees": {
+        "wanted": 0,
+        "placedStacks": 0,
+        "placedTotal": 0,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": []
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 54,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 15,
+        "transactions": 1,
+        "duplicates": 0,
+        "added": 0,
+        "removed": 0,
+        "changed": 1,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 1,
+        "failures": 0,
+        "last": "applied 957842105731559: 0 added, 0 removed, 1 changed"
+      },
+      "food": 20,
+      "saturation": 3,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "day": 10,
+      "year": 1993,
+      "hour": 7.636240005493164,
+      "month": 7
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 12639,
+        "active": true,
+        "mode": 1,
+        "position": [
+          2145.423855781555,
+          1.532006710767746,
+          6125.941931843758
+        ],
+        "yaw": -94.15967559814453,
+        "pitch": -1.260511040687561
+      },
+      "eye": [
+        3.988497734069824,
+        1.5320067405700684,
+        -0.2900763750076294
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.9579,
+      "minecraftPid": 14712
+    },
+    "player": {
+      "x": 2149.412353515625,
+      "y": 6125.65185546875,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "solidTrans": false,
+        "minecraftBlock": false
+      }
+    },
+    "steve": {
+      "x": 2149.412353515625,
+      "y": 0,
+      "z": 6125.65185546875,
+      "yaw": -94.15967559814453,
+      "pitch": -1.260511040687561,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 214,
+      "batches": 4,
+      "drawnBatches": 4,
+      "shadowBatches": 3,
+      "translucentBatches": 0,
+      "textures": 5,
+      "handBatches": 0,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 1,
+      "frameAgeMs": 2.4931
+    },
+    "terrain": {
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 52,
+      "velocity": [
+        0,
+        0
+      ],
+      "scanMs": 0.3235,
+      "speed": 0
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "groundShells": 356,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "farCells": 135,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 6,
+      "pending": 0,
+      "states": 7,
+      "txSent": 1,
+      "txAcked": 1,
+      "created": 1,
+      "removed": 1,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 957842105731559: 0 added, 0 removed, 1 changed"
+    },
+    "pzWeapons": {
+      "wearRolls": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 34480,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 0,
+    "blocks": 1996,
+    "overlay": {
+      "drawn": true,
+      "frameId": 13083,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 14.650799751281738,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 39396,
+      "atlasRevision": 17618889672000,
+      "meshRevision": 17618884003000,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 19278,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.09507987648248672,
+      "clouds": 0.19015975296497345,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": -94.15967559814453
+    },
+    "overrideActive": false
+  },
+  "frames": [
+    {
+      "t": 0.0012862999974458944,
+      "file": "00-0001ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17625876456500,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2370,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11938673257827759,
+              -0.014364243485033512,
+              0.14844690263271332
+            ],
+            "max": [
+              0.9851546287536621,
+              1.9109143018722534,
+              1.1383596658706665
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.5510309934616089,
+              0.7202097177505493,
+              0.18225038051605225
+            ],
+            "max": [
+              1.0703816413879395,
+              1.268250823020935,
+              0.9054888486862183
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.609375,
+              -0.7718348503112793,
+              -1.1012098789215088
+            ],
+            "max": [
+              0.6518750190734863,
+              0.13183489441871643,
+              -0.19754010438919067
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.15436859999681474,
+      "file": "01-0154ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626032853600,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2370,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              -0.10724037140607834,
+              -0.01693405583500862,
+              0.32889240980148315
+            ],
+            "max": [
+              0.8663329482078552,
+              1.9392017126083374,
+              1.5363494157791138
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              -0.537039577960968,
+              0.8354460000991821,
+              1.3545894622802734
+            ],
+            "max": [
+              -0.005986522883176804,
+              1.3711951971054077,
+              1.4887677431106567
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.6701297760009766,
+              -0.773524284362793,
+              0.4763128459453583
+            ],
+            "max": [
+              0.7662500143051147,
+              -0.22711850702762604,
+              1.0218732357025146
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.34369149999838555,
+      "file": "02-0343ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626218188100,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2394,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.16623762249946594,
+              -0.026874028146266937,
+              0.08068405091762543
+            ],
+            "max": [
+              1.3177003860473633,
+              1.9632831811904907,
+              0.9043043851852417
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              1.1770659685134888,
+              0.9568493962287903,
+              -0.056913986802101135
+            ],
+            "max": [
+              1.67812979221344,
+              1.4969418048858643,
+              0.21995949745178223
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              -0.6184294819831848,
+              -0.6911661624908447,
+              -1.3076962232589722
+            ],
+            "max": [
+              -0.37194639444351196,
+              -0.14122183620929718,
+              -0.7823787331581116
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.5476831999985734,
+      "file": "03-0547ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626431423500,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2388,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.10760576277971268,
+              -0.032434746623039246,
+              -0.1677166372537613
+            ],
+            "max": [
+              1.0709717273712158,
+              1.9613234996795654,
+              0.8626922369003296
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.6791046857833862,
+              0.8673008680343628,
+              -0.5259609222412109
+            ],
+            "max": [
+              0.7912510633468628,
+              1.4352327585220337,
+              0.04483957588672638
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              -1.1502587795257568,
+              -0.7608596682548523,
+              -0.4220375418663025
+            ],
+            "max": [
+              -0.5830386281013489,
+              -0.1933925598859787,
+              -0.33056625723838806
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.7268532999987656,
+      "file": "04-0726ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626611077700,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2376,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.0950310230255127,
+              -0.035244472324848175,
+              -0.15620391070842743
+            ],
+            "max": [
+              1.0713504552841187,
+              1.9606648683547974,
+              0.8623072504997253
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.5661653876304626,
+              0.8559378981590271,
+              -0.5098522901535034
+            ],
+            "max": [
+              0.7391812205314636,
+              1.4245365858078003,
+              0.06326121091842651
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              -1.1421973705291748,
+              -0.7696940302848816,
+              -0.3692997694015503
+            ],
+            "max": [
+              -0.5686300992965698,
+              -0.20293748378753662,
+              -0.2157800793647766
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 0.8924171999969985,
+      "file": "05-0892ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626769060500,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2376,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11250990629196167,
+              -0.0295405276119709,
+              -0.12299218028783798
+            ],
+            "max": [
+              1.009686827659607,
+              1.97183358669281,
+              0.9012622237205505
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.5664617419242859,
+              1.035466194152832,
+              -0.34412217140197754
+            ],
+            "max": [
+              1.2314542531967163,
+              1.4101359844207764,
+              0.2399541437625885
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              -0.9689520001411438,
+              -0.5989724397659302,
+              -0.8704200983047485
+            ],
+            "max": [
+              -0.36462533473968506,
+              -0.21883246302604675,
+              -0.18461285531520844
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.0634189999982482,
+      "file": "06-1063ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17626935921800,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2376,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.16793477535247803,
+              -0.01606397144496441,
+              0.17993572354316711
+            ],
+            "max": [
+              1.004379153251648,
+              1.9185072183609009,
+              1.1375869512557983
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.6279110908508301,
+              0.7713347673416138,
+              0.09742346405982971
+            ],
+            "max": [
+              1.1683766841888428,
+              1.3017690181732178,
+              0.8225483894348145
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              -0.5205689668655396,
+              -0.8539245128631592,
+              -0.7631282210350037
+            ],
+            "max": [
+              0.20831573009490967,
+              -0.3346182703971863,
+              -0.20781736075878143
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.2282803999987664,
+      "file": "07-1228ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17627104638900,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2370,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11938665807247162,
+              -0.014364243485033512,
+              0.14847221970558167
+            ],
+            "max": [
+              0.985120415687561,
+              1.9109143018722534,
+              1.1383827924728394
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.551016628742218,
+              0.7202097177505493,
+              0.1821611523628235
+            ],
+            "max": [
+              1.0703442096710205,
+              1.268250823020935,
+              0.9053876399993896
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.609375,
+              -0.9398314952850342,
+              -1.1012098789215088
+            ],
+            "max": [
+              0.6518750190734863,
+              -0.03616175055503845,
+              -0.19754010438919067
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.4089156999980332,
+      "file": "08-1408ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17627291580500,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2370,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11938665807247162,
+              -0.014364243485033512,
+              0.14847221970558167
+            ],
+            "max": [
+              0.985120415687561,
+              1.9109143018722534,
+              1.1383827924728394
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.551016628742218,
+              0.7202097177505493,
+              0.1821611523628235
+            ],
+            "max": [
+              1.0703442096710205,
+              1.268250823020935,
+              0.9053876399993896
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.609375,
+              -0.7718348503112793,
+              -1.1012098789215088
+            ],
+            "max": [
+              0.6518750190734863,
+              0.13183489441871643,
+              -0.19754010438919067
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.6011023999999452,
+      "file": "09-1601ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17627477812100,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2382,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11938665807247162,
+              -0.014364243485033512,
+              0.14847221970558167
+            ],
+            "max": [
+              0.985120415687561,
+              1.9109143018722534,
+              1.1383827924728394
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.551016628742218,
+              0.7202097177505493,
+              0.1821611523628235
+            ],
+            "max": [
+              1.0703442096710205,
+              1.268250823020935,
+              0.9053876399993896
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.609375,
+              -0.7718348503112793,
+              -1.1012098789215088
+            ],
+            "max": [
+              0.6518750190734863,
+              0.13183489441871643,
+              -0.19754010438919067
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": 1.7624428999988595,
+      "file": "10-1762ms.png",
+      "native": {
+        "version": 4,
+        "revision": 17627634995700,
+        "origin": [
+          2149,
+          0,
+          6125
+        ],
+        "vertices": 2382,
+        "batches": [
+          {
+            "texture": 0,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17471832469800,
+            "flags": 65,
+            "triangles": 144,
+            "min": [
+              0.11938665807247162,
+              -0.014364243485033512,
+              0.14847221970558167
+            ],
+            "max": [
+              0.985120415687561,
+              1.9109143018722534,
+              1.1383827924728394
+            ],
+            "uvMin": [
+              0.0,
+              0.0
+            ],
+            "uvMax": [
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 65,
+            "triangles": 292,
+            "min": [
+              0.551016628742218,
+              0.7202097177505493,
+              0.1821611523628235
+            ],
+            "max": [
+              1.0703442096710205,
+              1.268250823020935,
+              0.9053876399993896
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          },
+          {
+            "texture": 4,
+            "kind": 1,
+            "textureReady": true,
+            "textureRevision": 17503325193300,
+            "flags": 10,
+            "triangles": 292,
+            "min": [
+              0.609375,
+              -0.7718348503112793,
+              -1.1012098789215088
+            ],
+            "max": [
+              0.6518750190734863,
+              0.13183489441871643,
+              -0.19754010438919067
+            ],
+            "uvMin": [
+              0.69970703125,
+              0.4296875
+            ],
+            "uvMax": [
+              0.71484375,
+              0.44482421875
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "idleNative": {
+    "version": 4,
+    "revision": 17625842787300,
+    "origin": [
+      2149,
+      0,
+      6125
+    ],
+    "vertices": 2370,
+    "batches": [
+      {
+        "texture": 0,
+        "kind": 1,
+        "textureReady": true,
+        "textureRevision": 17471832469800,
+        "flags": 65,
+        "triangles": 144,
+        "min": [
+          0.11938673257827759,
+          -0.014364243485033512,
+          0.14844690263271332
+        ],
+        "max": [
+          0.9851546287536621,
+          1.9109143018722534,
+          1.1383596658706665
+        ],
+        "uvMin": [
+          0.0,
+          0.0
+        ],
+        "uvMax": [
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "texture": 4,
+        "kind": 1,
+        "textureReady": true,
+        "textureRevision": 17503325193300,
+        "flags": 65,
+        "triangles": 292,
+        "min": [
+          0.5510309934616089,
+          0.7202097177505493,
+          0.18225038051605225
+        ],
+        "max": [
+          1.0703816413879395,
+          1.268250823020935,
+          0.9054888486862183
+        ],
+        "uvMin": [
+          0.69970703125,
+          0.4296875
+        ],
+        "uvMax": [
+          0.71484375,
+          0.44482421875
+        ]
+      },
+      {
+        "texture": 4,
+        "kind": 1,
+        "textureReady": true,
+        "textureRevision": 17503325193300,
+        "flags": 10,
+        "triangles": 292,
+        "min": [
+          0.609375,
+          -0.7718348503112793,
+          -1.1012098789215088
+        ],
+        "max": [
+          0.6518750190734863,
+          0.13183489441871643,
+          -0.19754010438919067
+        ],
+        "uvMin": [
+          0.69970703125,
+          0.4296875
+        ],
+        "uvMax": [
+          0.71484375,
+          0.44482421875
+        ]
+      }
+    ]
+  },
+  "held": {
+    "item": "1 pz:Base.Axe whole",
+    "attackDamage": 1,
+    "attackSpeed": 1.2000000000000002,
+    "serverAttackDamage": 9.333333333333334,
+    "preset": "bettercombat:heavy_axe",
+    "treeSpeed": 6.25,
+    "durability": "13/13"
+  },
+  "cleanupErrors": [],
+  "after": {
+    "uptimeSec": 206,
+    "frames": 15606,
+    "fps": 78.9,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 5,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 1,
+      "firstPersonHand": false,
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "64 minecraft:oak_planks",
+        "64 minecraft:stone",
+        "32 minecraft:glass",
+        "16 minecraft:cooked_beef",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 6,
+      "held": {
+        "item": "0 minecraft:air",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "applied": 0,
+        "rangeRejected": 0,
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0
+      },
+      "server": {
+        "xyz": [
+          2149.412353515625,
+          0,
+          6125.65185546875
+        ],
+        "flying": false,
+        "entities": [],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false,
+        "proxyCount": 0,
+        "timeTicks": 169637,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false,
+        "air": 300,
+        "sleeping": false,
+        "food": 20,
+        "saturation": 3,
+        "minecraftOwnsFood": true
+      },
+      "terrain": {
+        "loading": false,
+        "columns": 49,
+        "holds": 0
+      },
+      "materials": {
+        "sections": 52,
+        "floors": {
+          "grass": 2249,
+          "dirt": 179,
+          "gravel": 5,
+          "concrete": 206,
+          "asphalt": 423,
+          "carpet": 15
+        },
+        "edges": {
+          "wall": {
+            "wood": 30,
+            "brick": 7,
+            "plaster": 7,
+            "metal": 74
+          },
+          "door": {
+            "wood": 1
+          },
+          "window": {
+            "glass": 2
+          }
+        },
+        "trees": 1,
+        "solids": 7,
+        "basementTiles": 0,
+        "interiorTiles": 15
+      },
+      "trees": {
+        "wanted": 0,
+        "placedStacks": 0,
+        "placedTotal": 0,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": []
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 54,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 19,
+        "transactions": 2,
+        "duplicates": 0,
+        "added": 0,
+        "removed": 0,
+        "changed": 2,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 2,
+        "failures": 0,
+        "last": "applied 283192281235853: 0 added, 0 removed, 1 changed"
+      },
+      "food": 20,
+      "saturation": 3,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "day": 10,
+      "year": 1993,
+      "hour": 7.637113094329834,
+      "month": 7
+    },
+    "minecraftLights": 1,
+    "minecraftPassengers": 0,
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 13377,
+        "active": true,
+        "mode": 1,
+        "position": [
+          2145.423855781555,
+          1.532006710767746,
+          6125.941931843758
+        ],
+        "yaw": -94.15967559814453,
+        "pitch": -1.260511040687561
+      },
+      "eye": [
+        3.988497734069824,
+        1.5320067405700684,
+        -0.2900763750076294
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.0206,
+      "minecraftPid": 14712
+    },
+    "player": {
+      "x": 2149.412353515625,
+      "y": 6125.65185546875,
+      "z": 0.0005000000237487257,
+      "health": 100,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "solidTrans": false,
+        "minecraftBlock": false
+      }
+    },
+    "steve": {
+      "x": 2149.412353515625,
+      "y": 0,
+      "z": 6125.65185546875,
+      "yaw": -94.15967559814453,
+      "pitch": -1.260511040687561,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 204,
+      "batches": 3,
+      "drawnBatches": 3,
+      "shadowBatches": 3,
+      "translucentBatches": 0,
+      "textures": 5,
+      "handBatches": 0,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 1,
+      "frameAgeMs": 2.7073
+    },
+    "terrain": {
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 52,
+      "velocity": [
+        0,
+        0
+      ],
+      "scanMs": 0.25,
+      "speed": 0
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "groundShells": 356,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "farCells": 135,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 6,
+      "pending": 0,
+      "states": 11,
+      "txSent": 2,
+      "txAcked": 2,
+      "created": 2,
+      "removed": 2,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 283192281235853: 0 added, 0 removed, 1 changed"
+    },
+    "pzWeapons": {
+      "wearRolls": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 20,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 36472,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 0,
+    "blocks": 1996,
+    "overlay": {
+      "drawn": true,
+      "frameId": 13985,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 16.100900650024414,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 39396,
+      "atlasRevision": 17629068644400,
+      "meshRevision": 17629061079700,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 20415,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0,
+      "wind": 0.09508620202541351,
+      "clouds": 0.19017240405082703,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": -94.15967559814453
+    },
+    "overrideActive": false
+  }
+}

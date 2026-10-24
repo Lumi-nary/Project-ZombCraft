@@ -1,0 +1,109 @@
+# Optional Docker deployment for blender-mcp + local monitoring stack.
+#
+# MCP server only:
+#   docker compose up blender-mcp
+#
+# MCP + Prometheus/Grafana/Loki (optional profile):
+#   docker compose --profile monitoring up -d
+#
+# Image published to GHCR on main branch pushes:
+#   ghcr.io/sandraschi/blender-mcp:latest
+
+services:
+  blender-mcp:
+    build:
+      context: .
+      target: production
+    image: ghcr.io/sandraschi/blender-mcp:latest
+    container_name: blender-mcp
+    ports:
+      - "10849:10849"
+      - "9091:9091"
+    environment:
+      MCP_TRANSPORT: http
+      MCP_HOST: 0.0.0.0
+      MCP_PORT: "10849"
+      BLENDER_MCP_METRICS_ENABLED: "true"
+      PROMETHEUS_PORT: "9091"
+      BLENDER_MCP_LOG_FORMAT: json
+      BLENDER_MCP_LOG_LEVEL: INFO
+      BLENDER_EXECUTABLE: /opt/blender/blender
+    volumes:
+      - blender-mcp-logs:/app/logs
+    labels:
+      promtail.job: blender-mcp
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://127.0.0.1:10849/api/v1/health', timeout=5)\""]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+  prometheus:
+    profiles: ["monitoring"]
+    image: prom/prometheus:v3.11.3
+    container_name: blender-mcp-prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.path=/prometheus
+      - --web.enable-lifecycle
+    restart: unless-stopped
+
+  loki:
+    profiles: ["monitoring"]
+    image: grafana/loki:3.7.1
+    container_name: blender-mcp-loki
+    ports:
+      - "3100:3100"
+    volumes:
+      - ./monitoring/loki/loki.yml:/etc/loki/local-config.yaml:ro
+      - loki-data:/loki
+    command: -config.file=/etc/loki/local-config.yaml
+    restart: unless-stopped
+
+  promtail:
+    profiles: ["monitoring"]
+    image: grafana/promtail:3.7.1
+    container_name: blender-mcp-promtail
+    volumes:
+      - ./monitoring/promtail/promtail.yml:/etc/promtail/config.yml:ro
+      - blender-mcp-logs:/app/logs:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    command: -config.file=/etc/promtail/config.yml
+    depends_on:
+      - loki
+    restart: unless-stopped
+
+  grafana:
+    profiles: ["monitoring"]
+    image: grafana/grafana:13.0.1
+    container_name: blender-mcp-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on:
+      - prometheus
+      - loki
+    restart: unless-stopped
+
+volumes:
+  blender-mcp-logs:
+  prometheus-data:
+  loki-data:
+  grafana-data:
+
+networks:
+  default:
+    name: blender-mcp-net

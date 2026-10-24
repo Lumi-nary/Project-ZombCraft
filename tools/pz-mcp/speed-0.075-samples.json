@@ -1,0 +1,5502 @@
+[
+  {
+    "t": 0.0,
+    "xyz": [
+      2157,
+      45,
+      6110
+    ],
+    "velocity": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.0,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        0,
+        0
+      ],
+      "scanMs": 0.5533,
+      "speed": 0,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 49,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "streamerQueue": 0
+    },
+    "fps": 51.8,
+    "overlayAgeMs": 31.2189998626709,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 11.7356
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.259,
+    "xyz": [
+      2158.601473359693,
+      45,
+      6110
+    ],
+    "velocity": [
+      7.325513582650082,
+      0,
+      0
+    ],
+    "speed": 7.325513582650082,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        4.492491602692267,
+        0
+      ],
+      "scanMs": 0.3378,
+      "speed": 4.492491602692267,
+      "pendingAhead": 3,
+      "loadedAhead": 4,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 49,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "streamerQueue": 0
+    },
+    "fps": 51.8,
+    "overlayAgeMs": 41.159400939941406,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 16.9229
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.37,
+    "xyz": [
+      2159.550525725405,
+      45,
+      6110
+    ],
+    "velocity": [
+      12.845808655923125,
+      0,
+      0
+    ],
+    "speed": 12.845808655923125,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        10.137256759081167,
+        0
+      ],
+      "scanMs": 0.4364,
+      "speed": 10.137256759081167,
+      "pendingAhead": 3,
+      "loadedAhead": 4,
+      "sentThisFrame": 0,
+      "columns": 49,
+      "queue": 49,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 49,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 0
+    },
+    "fps": 51.8,
+    "overlayAgeMs": 76.54239654541016,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 25.4555
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.497,
+    "xyz": [
+      2162.451845524567,
+      45,
+      6110
+    ],
+    "velocity": [
+      15.74762928106187,
+      0,
+      0
+    ],
+    "speed": 15.74762928106187,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        34.613199177807715,
+        0
+      ],
+      "scanMs": 0.959,
+      "speed": 34.613199177807715,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 16,
+      "columns": 77,
+      "queue": 70,
+      "sections": 127
+    },
+    "coverage": {
+      "columns": 49,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 39.783199310302734,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 33.263
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.625,
+    "xyz": [
+      2166.1263306129085,
+      45,
+      6110
+    ],
+    "velocity": [
+      20.140549670622967,
+      0,
+      0
+    ],
+    "speed": 20.140549670622967,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        18.79358422727162,
+        0
+      ],
+      "scanMs": 0.6634,
+      "speed": 18.79358422727162,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 70,
+      "sections": 127
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 0
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 57.6171989440918,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 1.381
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.764,
+    "xyz": [
+      2168.5533369245313,
+      45,
+      6110
+    ],
+    "velocity": [
+      22.50284905071563,
+      0,
+      0
+    ],
+    "speed": 22.50284905071563,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        20.24350731592722,
+        0
+      ],
+      "scanMs": 0.5905,
+      "speed": 20.24350731592722,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 77,
+      "sections": 134
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 0
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 59.198001861572266,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 10.7989
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 0.889,
+    "xyz": [
+      2171.7086652751823,
+      45,
+      6110
+    ],
+    "velocity": [
+      23.15299346179796,
+      0,
+      0
+    ],
+    "speed": 23.15299346179796,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        15.739918616397537,
+        0
+      ],
+      "scanMs": 0.389,
+      "speed": 15.739918616397537,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 91,
+      "queue": 84,
+      "sections": 156
+    },
+    "coverage": {
+      "columns": 91,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 77.76590728759766,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 19.3034
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.006,
+    "xyz": [
+      2175.074300239043,
+      45,
+      6110
+    ],
+    "velocity": [
+      24.772939527146004,
+      0,
+      0
+    ],
+    "speed": 24.772939527146004,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        34.27389340469147,
+        0
+      ],
+      "scanMs": 0.5526,
+      "speed": 34.27389340469147,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 91,
+      "queue": 84,
+      "sections": 156
+    },
+    "coverage": {
+      "columns": 91,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 42.165401458740234,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 17.8024
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.273,
+    "xyz": [
+      2183.5082992256816,
+      45,
+      6110
+    ],
+    "velocity": [
+      26.635385488595237,
+      0,
+      0
+    ],
+    "speed": 26.635385488595237,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        21.780219313666997,
+        0
+      ],
+      "scanMs": 0.6238,
+      "speed": 21.780219313666997,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 91,
+      "queue": 105,
+      "sections": 154
+    },
+    "coverage": {
+      "columns": 85,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 57.42369842529297,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.8682
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.41,
+    "xyz": [
+      2185.457898086364,
+      45,
+      6110
+    ],
+    "velocity": [
+      27.3971693960612,
+      0,
+      0
+    ],
+    "speed": 27.3971693960612,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        24.658371720214582,
+        0
+      ],
+      "scanMs": 0.5759,
+      "speed": 24.658371720214582,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 98,
+      "sections": 143
+    },
+    "coverage": {
+      "columns": 91,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 6,
+      "streamerQueue": 19
+    },
+    "fps": 47.5,
+    "overlayAgeMs": 57.99800109863281,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 10.5319
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.53,
+    "xyz": [
+      2190.2453108694076,
+      45,
+      6110
+    ],
+    "velocity": [
+      27.79761180452703,
+      0,
+      0
+    ],
+    "speed": 27.79761180452703,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        19.982138460271152,
+        0
+      ],
+      "scanMs": 0.4813,
+      "speed": 19.982138460271152,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 98,
+      "sections": 143
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 37.994598388671875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 5.7
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.652,
+    "xyz": [
+      2194.6519517513298,
+      45,
+      6110
+    ],
+    "velocity": [
+      28.272989518907195,
+      0,
+      0
+    ],
+    "speed": 28.272989518907195,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        42.10088342849285,
+        0
+      ],
+      "scanMs": 0.0073,
+      "speed": 42.10088342849285,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 137
+    },
+    "coverage": {
+      "columns": 85,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 0
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 47.71659851074219,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 5.3126
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.773,
+    "xyz": [
+      2196.75026365843,
+      45,
+      6110
+    ],
+    "velocity": [
+      28.40382143918024,
+      0,
+      0
+    ],
+    "speed": 28.40382143918024,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        29.72270666927818,
+        0
+      ],
+      "scanMs": 0.7477,
+      "speed": 29.72270666927818,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 137
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 18,
+      "streamerQueue": 0
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 47.144500732421875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 61.2424
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 1.896,
+    "xyz": [
+      2202.7246746251244,
+      45,
+      6110
+    ],
+    "velocity": [
+      28.72981155899904,
+      0,
+      0
+    ],
+    "speed": 28.72981155899904,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        27.41178672593972,
+        0
+      ],
+      "scanMs": 0.425,
+      "speed": 27.41178672593972,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 73,
+      "queue": 105,
+      "sections": 128
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 19
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 87.9657974243164,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 21.6817
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.046,
+    "xyz": [
+      2206.070680795949,
+      45,
+      6110
+    ],
+    "velocity": [
+      28.975468280820365,
+      0,
+      0
+    ],
+    "speed": 28.975468280820365,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        55.56701064777406,
+        0
+      ],
+      "scanMs": 0.8099,
+      "speed": 55.56701064777406,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 73,
+      "queue": 105,
+      "sections": 128
+    },
+    "coverage": {
+      "columns": 73,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 19
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 94.40110778808594,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.3155
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.324,
+    "xyz": [
+      2214.0934366819592,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.300089001347224,
+      0,
+      0
+    ],
+    "speed": 29.300089001347224,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        15.780277922415191,
+        0
+      ],
+      "scanMs": 0.4147,
+      "speed": 15.780277922415191,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 105,
+      "sections": 147
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 16,
+      "streamerQueue": 0
+    },
+    "fps": 37.8,
+    "overlayAgeMs": 47.01139831542969,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 91.3801
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.469,
+    "xyz": [
+      2220.1312202312993,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.33848199513743,
+      0,
+      0
+    ],
+    "speed": 29.33848199513743,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        39.18403540211067,
+        0
+      ],
+      "scanMs": 0.0777,
+      "speed": 39.18403540211067,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 138
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 23.244300842285156,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 21.1813
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.586,
+    "xyz": [
+      2224.146790876025,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.434144709708534,
+      0,
+      0
+    ],
+    "speed": 29.434144709708534,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        32.16726450331998,
+        0
+      ],
+      "scanMs": 0.4815,
+      "speed": 32.16726450331998,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 138
+    },
+    "coverage": {
+      "columns": 81,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 63.0093994140625,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 20.982
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.71,
+    "xyz": [
+      2227.747742466973,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.544127776568196,
+      0,
+      0
+    ],
+    "speed": 29.544127776568196,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        35.28674700788032,
+        0
+      ],
+      "scanMs": 0.4653,
+      "speed": 35.28674700788032,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 133
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 20,
+      "streamerQueue": 0
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 71.17420196533203,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.8733
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.855,
+    "xyz": [
+      2233.2064494184388,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.589113420265612,
+      0,
+      0
+    ],
+    "speed": 29.589113420265612,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        29.601176737728167,
+        0
+      ],
+      "scanMs": 0.487,
+      "speed": 29.601176737728167,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 4,
+      "columns": 82,
+      "queue": 105,
+      "sections": 137
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 69.98639678955078,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 36.8562
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 2.977,
+    "xyz": [
+      2236.8826555495375,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.601494223933127,
+      0,
+      0
+    ],
+    "speed": 29.601494223933127,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        18.04273042530819,
+        0
+      ],
+      "scanMs": 0.6337,
+      "speed": 18.04273042530819,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 85,
+      "queue": 105,
+      "sections": 140
+    },
+    "coverage": {
+      "columns": 85,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 113.8895034790039,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 19.7579
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.1,
+    "xyz": [
+      2240.138422967958,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.632343115110466,
+      0,
+      0
+    ],
+    "speed": 29.632343115110466,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        30.170478723488024,
+        0
+      ],
+      "scanMs": 0.3137,
+      "speed": 30.170478723488024,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 85,
+      "queue": 105,
+      "sections": 140
+    },
+    "coverage": {
+      "columns": 85,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 62.97169876098633,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 9.6428
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.386,
+    "xyz": [
+      2249.8505189818593,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.667809970469065,
+      0,
+      0
+    ],
+    "speed": 29.667809970469065,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        35.18600112698942,
+        0
+      ],
+      "scanMs": 0.2157,
+      "speed": 35.18600112698942,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 4,
+      "columns": 78,
+      "queue": 98,
+      "sections": 114
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 75.10099792480469,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 35.6129
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.514,
+    "xyz": [
+      2254.4495425441023,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.677929372575036,
+      0,
+      0
+    ],
+    "speed": 29.677929372575036,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        11.430832059523924,
+        0
+      ],
+      "scanMs": 0.3628,
+      "speed": 11.430832059523924,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 98,
+      "sections": 114
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 131.67990112304688,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.4355
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.626,
+    "xyz": [
+      2257.7775236631387,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.69324862678958,
+      0,
+      0
+    ],
+    "speed": 29.69324862678958,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        44.663410436160646,
+        0
+      ],
+      "scanMs": 0.1251,
+      "speed": 44.663410436160646,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 2,
+      "columns": 82,
+      "queue": 105,
+      "sections": 120
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 16,
+      "streamerQueue": 0
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 61.815399169921875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 41.4165
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.763,
+    "xyz": [
+      2262.640219258922,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.698995125088278,
+      0,
+      0
+    ],
+    "speed": 29.698995125088278,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        61.3728394514208,
+        0
+      ],
+      "scanMs": 0.4907,
+      "speed": 61.3728394514208,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 82,
+      "queue": 105,
+      "sections": 120
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 13,
+      "streamerQueue": 0
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 121.17990112304688,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 7.5775
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 3.878,
+    "xyz": [
+      2267.1123015124613,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.70581697304737,
+      0,
+      0
+    ],
+    "speed": 29.70581697304737,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        51.06061367749058,
+        0
+      ],
+      "scanMs": 0.2338,
+      "speed": 51.06061367749058,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 3,
+      "columns": 78,
+      "queue": 105,
+      "sections": 107
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 80.5739974975586,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 1.9862
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.018,
+    "xyz": [
+      2271.8136751688244,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.709402973224257,
+      0,
+      0
+    ],
+    "speed": 29.709402973224257,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        25.381653668388168,
+        0
+      ],
+      "scanMs": 0.4358,
+      "speed": 25.381653668388168,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 107
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 0
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 98.85070037841797,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 0.8594
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.153,
+    "xyz": [
+      2275.111549572036,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.71237254014191,
+      0,
+      0
+    ],
+    "speed": 29.71237254014191,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        48.72910977662673,
+        0
+      ],
+      "scanMs": 0.3232,
+      "speed": 48.72910977662673,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 91,
+      "sections": 101
+    },
+    "coverage": {
+      "columns": 88,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 7,
+      "streamerQueue": 19
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 33.46699905395508,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 20.3336
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.406,
+    "xyz": [
+      2283.863456826357,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.718554344274565,
+      0,
+      0
+    ],
+    "speed": 29.718554344274565,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        17.473627837274698,
+        0
+      ],
+      "scanMs": 0.397,
+      "speed": 17.473627837274698,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 74,
+      "queue": 105,
+      "sections": 94
+    },
+    "coverage": {
+      "columns": 74,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 29,
+      "streamerQueue": 0
+    },
+    "fps": 40.2,
+    "overlayAgeMs": 77.26190185546875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 17.2704
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.538,
+    "xyz": [
+      2287.651965626335,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.720556234683144,
+      0,
+      0
+    ],
+    "speed": 29.720556234683144,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        47.09425774385034,
+        0
+      ],
+      "scanMs": 0.4229,
+      "speed": 47.09425774385034,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 8,
+      "columns": 97,
+      "queue": 105,
+      "sections": 117
+    },
+    "coverage": {
+      "columns": 83,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 9,
+      "streamerQueue": 0
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 77.80400085449219,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 42.821
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.679,
+    "xyz": [
+      2292.616460863586,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.722064801370657,
+      0,
+      0
+    ],
+    "speed": 29.722064801370657,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        33.25241763634219,
+        0
+      ],
+      "scanMs": 0.2949,
+      "speed": 33.25241763634219,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 90,
+      "queue": 105,
+      "sections": 98
+    },
+    "coverage": {
+      "columns": 97,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 28.965099334716797,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 29.4842
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.819,
+    "xyz": [
+      2296.503288160561,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.7224799842255,
+      0,
+      0
+    ],
+    "speed": 29.7224799842255,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        43.625089588269056,
+        0
+      ],
+      "scanMs": 0.2991,
+      "speed": 43.625089588269056,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 90,
+      "queue": 105,
+      "sections": 98
+    },
+    "coverage": {
+      "columns": 90,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 10,
+      "streamerQueue": 0
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 40.5609016418457,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 10.9187
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 4.943,
+    "xyz": [
+      2301.7947571615387,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72405828236085,
+      0,
+      0
+    ],
+    "speed": 29.72405828236085,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        22.047614705619647,
+        0
+      ],
+      "scanMs": 0.4223,
+      "speed": 22.047614705619647,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 83,
+      "queue": 98,
+      "sections": 85
+    },
+    "coverage": {
+      "columns": 83,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 19
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 73.25959777832031,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 7.5302
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.08,
+    "xyz": [
+      2306.0411017804913,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.724508602337437,
+      0,
+      0
+    ],
+    "speed": 29.724508602337437,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        34.783896143114134,
+        0
+      ],
+      "scanMs": 0.0443,
+      "speed": 34.783896143114134,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 98,
+      "sections": 86
+    },
+    "coverage": {
+      "columns": 86,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 11,
+      "streamerQueue": 0
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 46.51940155029297,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 5.4986
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.218,
+    "xyz": [
+      2309.8628722735043,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.724881512331542,
+      0,
+      0
+    ],
+    "speed": 29.724881512331542,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        41.78628957091315,
+        0
+      ],
+      "scanMs": 0.2832,
+      "speed": 41.78628957091315,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 98,
+      "sections": 86
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 67.13079833984375,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 44.1703
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.494,
+    "xyz": [
+      2319.3031494675733,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.725749618699894,
+      0,
+      0
+    ],
+    "speed": 29.725749618699894,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        18.406524474847295,
+        0
+      ],
+      "scanMs": 0.3179,
+      "speed": 18.406524474847295,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 81,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 40.9,
+    "overlayAgeMs": 27.707300186157227,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 21.3909
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.627,
+    "xyz": [
+      2323.2230408390365,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.725909198040526,
+      0,
+      0
+    ],
+    "speed": 29.725909198040526,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        46.64204572441125,
+        0
+      ],
+      "scanMs": 0.0458,
+      "speed": 46.64204572441125,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 85,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 57.3297004699707,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 19.1178
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.745,
+    "xyz": [
+      2326.6856302436863,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726041345700125,
+      0,
+      0
+    ],
+    "speed": 29.726041345700125,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        34.010898937224056,
+        0
+      ],
+      "scanMs": 0.3926,
+      "speed": 34.010898937224056,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 47.80690002441406,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 27.2692
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 5.864,
+    "xyz": [
+      2331.748875839022,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726150777183342,
+      0,
+      0
+    ],
+    "speed": 29.726150777183342,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        46.66079954723644,
+        0
+      ],
+      "scanMs": 0.3551,
+      "speed": 46.66079954723644,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 91,
+      "sections": 79
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 26,
+      "streamerQueue": 0
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 43.63199996948242,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 24.9207
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.012,
+    "xyz": [
+      2335.734156522224,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726241397399818,
+      0,
+      0
+    ],
+    "speed": 29.726241397399818,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        25.41668574950615,
+        0
+      ],
+      "scanMs": 0.8084,
+      "speed": 25.41668574950615,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 1,
+      "columns": 78,
+      "queue": 91,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 10,
+      "streamerQueue": 0
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 74.20719909667969,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 22.8454
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.132,
+    "xyz": [
+      2340.732105539559,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72637858279068,
+      0,
+      0
+    ],
+    "speed": 29.72637858279068,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        35.39117208907968,
+        0
+      ],
+      "scanMs": 0.4855,
+      "speed": 35.39117208907968,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 3,
+      "streamerQueue": 19
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 42.91360092163086,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 1.6672
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.264,
+    "xyz": [
+      2344.1620783015674,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726452354435754,
+      0,
+      0
+    ],
+    "speed": 29.726452354435754,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        31.488375401797285,
+        0
+      ],
+      "scanMs": 0.5643,
+      "speed": 31.488375401797285,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 40.3,
+    "overlayAgeMs": 42.39950180053711,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 23.4111
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.554,
+    "xyz": [
+      2353.1126964220557,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72652324651248,
+      0,
+      0
+    ],
+    "speed": 29.72652324651248,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        47.058011377566494,
+        0
+      ],
+      "scanMs": 0.342,
+      "speed": 47.058011377566494,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 8,
+      "columns": 77,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 74,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 0
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 36.88240051269531,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 34.4617
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.676,
+    "xyz": [
+      2357.686013586257,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726549839269055,
+      0,
+      0
+    ],
+    "speed": 29.726549839269055,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        49.00817764560345,
+        0
+      ],
+      "scanMs": 0.4759,
+      "speed": 49.00817764560345,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 18,
+      "streamerQueue": 0
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 30.07040023803711,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 15.3927
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.796,
+    "xyz": [
+      2360.724005199388,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726581408362573,
+      0,
+      0
+    ],
+    "speed": 29.726581408362573,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        38.70843867702982,
+        0
+      ],
+      "scanMs": 0.1944,
+      "speed": 38.70843867702982,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 3,
+      "columns": 78,
+      "queue": 105,
+      "sections": 79
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 6,
+      "streamerQueue": 19
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 47.33620071411133,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 48.495
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 6.923,
+    "xyz": [
+      2364.6766632202416,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.7265980030999,
+      0,
+      0
+    ],
+    "speed": 29.7265980030999,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        41.90203013660457,
+        0
+      ],
+      "scanMs": 0.3635,
+      "speed": 41.90203013660457,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 79
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 9,
+      "streamerQueue": 0
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 41.59749984741211,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 9.8065
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.049,
+    "xyz": [
+      2370.0013216397897,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72662805888291,
+      0,
+      0
+    ],
+    "speed": 29.72662805888291,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        32.42966242806155,
+        0
+      ],
+      "scanMs": 0.2757,
+      "speed": 32.42966242806155,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 75,
+      "queue": 98,
+      "sections": 76
+    },
+    "coverage": {
+      "columns": 75,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 19
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 42.713600158691406,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.7845
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.168,
+    "xyz": [
+      2374.084650380929,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726636634398012,
+      0,
+      0
+    ],
+    "speed": 29.726636634398012,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        14.357740811488382,
+        0
+      ],
+      "scanMs": 0.3172,
+      "speed": 14.357740811488382,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 75,
+      "queue": 98,
+      "sections": 76
+    },
+    "coverage": {
+      "columns": 75,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 19
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 107.28929901123047,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.4357
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.292,
+    "xyz": [
+      2377.6453139643004,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726643735782478,
+      0,
+      0
+    ],
+    "speed": 29.726643735782478,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        24.48392308846998,
+        0
+      ],
+      "scanMs": 0.2377,
+      "speed": 24.48392308846998,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 5,
+      "columns": 91,
+      "queue": 98,
+      "sections": 92
+    },
+    "coverage": {
+      "columns": 86,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 0
+    },
+    "fps": 38.7,
+    "overlayAgeMs": 66.64920043945312,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 30.3924
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.547,
+    "xyz": [
+      2387.151309687341,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726654486211483,
+      0,
+      0
+    ],
+    "speed": 29.726654486211483,
+    "fallFlying": false,
+    "mode": 1,
+    "terrain": {
+      "velocity": [
+        22.74095594582167,
+        0
+      ],
+      "scanMs": 0.1152,
+      "speed": 22.74095594582167,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 98,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 15,
+      "streamerQueue": 0
+    },
+    "fps": 39,
+    "overlayAgeMs": 87.25889587402344,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 18.0577
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.701,
+    "xyz": [
+      2391.4959753425915,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726663306165268,
+      0,
+      0
+    ],
+    "speed": 29.726663306165268,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        24.02036155946963,
+        0
+      ],
+      "scanMs": 0.3753,
+      "speed": 24.02036155946963,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 98,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 16,
+      "streamerQueue": 0
+    },
+    "fps": 39,
+    "overlayAgeMs": 98.77070617675781,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.7305
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 7.828,
+    "xyz": [
+      2398.0619750631226,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72666582267422,
+      0,
+      0
+    ],
+    "speed": 29.72666582267422,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        23.753969251766428,
+        0
+      ],
+      "scanMs": 0.3045,
+      "speed": 23.753969251766428,
+      "pendingAhead": 1,
+      "loadedAhead": 6,
+      "sentThisFrame": 0,
+      "columns": 74,
+      "queue": 105,
+      "sections": 75
+    },
+    "coverage": {
+      "columns": 74,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 39,
+    "overlayAgeMs": 27.043800354003906,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 0.9838
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.028,
+    "xyz": [
+      2400.936641795855,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726668810100744,
+      0,
+      0
+    ],
+    "speed": 29.726668810100744,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        47.09298593244351,
+        0
+      ],
+      "scanMs": 0.3659,
+      "speed": 47.09298593244351,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 6,
+      "columns": 77,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 74,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 6,
+      "streamerQueue": 0
+    },
+    "fps": 39,
+    "overlayAgeMs": 46.137699127197266,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 40.7885
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.145,
+    "xyz": [
+      2404.8566420949714,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72666963229063,
+      0,
+      0
+    ],
+    "speed": 29.72666963229063,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        48.17721221970388,
+        0
+      ],
+      "scanMs": 0.3507,
+      "speed": 48.17721221970388,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 18,
+      "streamerQueue": 0
+    },
+    "fps": 39,
+    "overlayAgeMs": 44.20669937133789,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 65.7954
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.29,
+    "xyz": [
+      2409.0053093781185,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667168091744,
+      0,
+      0
+    ],
+    "speed": 29.72667168091744,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        35.907276045040675,
+        0
+      ],
+      "scanMs": 0.2913,
+      "speed": 35.907276045040675,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 75,
+      "queue": 105,
+      "sections": 76
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 6,
+      "streamerQueue": 19
+    },
+    "fps": 39,
+    "overlayAgeMs": 59.80099868774414,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.8474
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.406,
+    "xyz": [
+      2414.1993103711047,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726674036216064,
+      0,
+      0
+    ],
+    "speed": 29.726674036216064,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        40.84527666681904,
+        0
+      ],
+      "scanMs": 0.4799,
+      "speed": 40.84527666681904,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 75,
+      "queue": 105,
+      "sections": 76
+    },
+    "coverage": {
+      "columns": 75,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 39,
+    "overlayAgeMs": 43.518699645996094,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 16.1329
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.709,
+    "xyz": [
+      2421.9413122854126,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726675264724392,
+      0,
+      0
+    ],
+    "speed": 29.726675264724392,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        19.059186313821353,
+        0
+      ],
+      "scanMs": 0.4165,
+      "speed": 19.059186313821353,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 16,
+      "streamerQueue": 0
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 49.95140075683594,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 79.8392
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.816,
+    "xyz": [
+      2425.3386464763894,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726675925356545,
+      0,
+      0
+    ],
+    "speed": 29.726675925356545,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        32.22865380557814,
+        0
+      ],
+      "scanMs": 0.5445,
+      "speed": 32.22865380557814,
+      "pendingAhead": 1,
+      "loadedAhead": 6,
+      "sentThisFrame": 0,
+      "columns": 70,
+      "queue": 105,
+      "sections": 70
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 27.047100067138672,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 76.2474
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 8.928,
+    "xyz": [
+      2431.4799819326836,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726676560201895,
+      0,
+      0
+    ],
+    "speed": 29.726676560201895,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        28.427734019198965,
+        0
+      ],
+      "scanMs": 0.4166,
+      "speed": 28.427734019198965,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 3,
+      "columns": 76,
+      "queue": 105,
+      "sections": 76
+    },
+    "coverage": {
+      "columns": 76,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 95.5064926147461,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 4.7714
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.072,
+    "xyz": [
+      2435.399983099588,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726676560201895,
+      0,
+      0
+    ],
+    "speed": 29.726676560201895,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        29.038162482469954,
+        0
+      ],
+      "scanMs": 0.5707,
+      "speed": 29.038162482469954,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 76,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 13,
+      "streamerQueue": 0
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 90.85540008544922,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 19.1655
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.178,
+    "xyz": [
+      2439.2873178485793,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667679834258,
+      0,
+      0
+    ],
+    "speed": 29.72667679834258,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        34.25504119924838,
+        0
+      ],
+      "scanMs": 0.4182,
+      "speed": 34.25504119924838,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 18,
+      "streamerQueue": 0
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 43.929901123046875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 25.0453
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.303,
+    "xyz": [
+      2443.4686526356118,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677081046837,
+      0,
+      0
+    ],
+    "speed": 29.726677081046837,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        14.573684649408523,
+        0
+      ],
+      "scanMs": 0.3079,
+      "speed": 14.573684649408523,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 70,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 6,
+      "streamerQueue": 0
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 41.4296989440918,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 14.5933
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.422,
+    "xyz": [
+      2446.6373203882013,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667729408459,
+      0,
+      0
+    ],
+    "speed": 29.72667729408459,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        52.78442756248702,
+        0
+      ],
+      "scanMs": 0.5423,
+      "speed": 52.78442756248702,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 105,
+      "sections": 84
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 36.7,
+    "overlayAgeMs": 41.87739944458008,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 42.1009
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.692,
+    "xyz": [
+      2456.861990420366,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677608896352,
+      0,
+      0
+    ],
+    "speed": 29.726677608896352,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        44.16940762789717,
+        0
+      ],
+      "scanMs": 0.4759,
+      "speed": 44.16940762789717,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 84,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 17,
+      "streamerQueue": 0
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 36.10459899902344,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 18.8454
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.837,
+    "xyz": [
+      2459.0506577885485,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667766676651,
+      0,
+      0
+    ],
+    "speed": 29.72667766676651,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        37.69555954651918,
+        0
+      ],
+      "scanMs": 0.3699,
+      "speed": 37.69555954651918,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 85.06199645996094,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 7.6004
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 9.944,
+    "xyz": [
+      2462.545992293053,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667766676651,
+      0,
+      0
+    ],
+    "speed": 29.72667766676651,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        32.035444515149265,
+        0
+      ],
+      "scanMs": 0.4579,
+      "speed": 32.035444515149265,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 5,
+      "columns": 83,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 0,
+      "streamerQueue": 19
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 67.63600158691406,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 73.0719
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.064,
+    "xyz": [
+      2467.7726606392825,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677714688794,
+      0,
+      0
+    ],
+    "speed": 29.726677714688794,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        34.675728806273696,
+        0
+      ],
+      "scanMs": 0.238,
+      "speed": 34.675728806273696,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 81
+    },
+    "coverage": {
+      "columns": 88,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 20,
+      "streamerQueue": 0
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 52.07569885253906,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 42.3007
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.193,
+    "xyz": [
+      2473.2279961067547,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677814449516,
+      0,
+      0
+    ],
+    "speed": 29.726677814449516,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        38.29070637038054,
+        0
+      ],
+      "scanMs": 0.3574,
+      "speed": 38.29070637038054,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 81
+    },
+    "coverage": {
+      "columns": 81,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 12,
+      "streamerQueue": 0
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 33.561798095703125,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 3.3993
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.322,
+    "xyz": [
+      2476.886664252136,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677836985097,
+      0,
+      0
+    ],
+    "speed": 29.726677836985097,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        27.77363795327894,
+        0
+      ],
+      "scanMs": 0.3456,
+      "speed": 27.77363795327894,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 3,
+      "streamerQueue": 19
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 77.71600341796875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 48.3789
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.478,
+    "xyz": [
+      2481.6886662092334,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667785564681,
+      0,
+      0
+    ],
+    "speed": 29.72667785564681,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        50.02474089861585,
+        0
+      ],
+      "scanMs": 0.0701,
+      "speed": 50.02474089861585,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 10,
+      "streamerQueue": 0
+    },
+    "fps": 39.9,
+    "overlayAgeMs": 64.17250061035156,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 2.262
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.751,
+    "xyz": [
+      2491.6193366023545,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677894495257,
+      0,
+      0
+    ],
+    "speed": 29.726677894495257,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        39.26318557226335,
+        0
+      ],
+      "scanMs": 0.3285,
+      "speed": 39.26318557226335,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 73,
+      "queue": 105,
+      "sections": 73
+    },
+    "coverage": {
+      "columns": 73,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 60.87590026855469,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.6154
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.89,
+    "xyz": [
+      2493.187337212167,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667790327098,
+      0,
+      0
+    ],
+    "speed": 29.72667790327098,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        36.73922682531898,
+        0
+      ],
+      "scanMs": 0.3546,
+      "speed": 36.73922682531898,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 73,
+      "queue": 105,
+      "sections": 73
+    },
+    "coverage": {
+      "columns": 73,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 62.39390182495117,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 9.3611
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 10.994,
+    "xyz": [
+      2498.8713392295335,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667791368891,
+      0,
+      0
+    ],
+    "speed": 29.72667791368891,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        31.00497683528263,
+        0
+      ],
+      "scanMs": 0.0646,
+      "speed": 31.00497683528263,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 62.092201232910156,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 21.4902
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.124,
+    "xyz": [
+      2503.0853407733634,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667792153956,
+      0,
+      0
+    ],
+    "speed": 29.72667792153956,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        39.34976384006739,
+        0
+      ],
+      "scanMs": 0.3571,
+      "speed": 39.34976384006739,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 18,
+      "streamerQueue": 0
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 42.33259963989258,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 20.8468
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.253,
+    "xyz": [
+      2507.10334224163,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677923700194,
+      0,
+      0
+    ],
+    "speed": 29.726677923700194,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        46.22374848112166,
+        0
+      ],
+      "scanMs": 0.3209,
+      "speed": 46.22374848112166,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 7,
+      "columns": 82,
+      "queue": 105,
+      "sections": 82
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 81.55689239501953,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 4.7039
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.36,
+    "xyz": [
+      2510.827343693192,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677929083777,
+      0,
+      0
+    ],
+    "speed": 29.726677929083777,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        34.11048170974772,
+        0
+      ],
+      "scanMs": 0.3341,
+      "speed": 34.11048170974772,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 82,
+      "queue": 105,
+      "sections": 82
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 19
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 64.90889739990234,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 20.6518
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.489,
+    "xyz": [
+      2513.6366780082535,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667793191373,
+      0,
+      0
+    ],
+    "speed": 29.72667793191373,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        28.62903885589393,
+        0
+      ],
+      "scanMs": 0.3484,
+      "speed": 28.62903885589393,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 23,
+      "streamerQueue": 0
+    },
+    "fps": 38.8,
+    "overlayAgeMs": 27.228599548339844,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 10.3605
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.789,
+    "xyz": [
+      2524.0246821084665,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677938501645,
+      0,
+      0
+    ],
+    "speed": 29.726677938501645,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        34.71883465285304,
+        0
+      ],
+      "scanMs": 0.3442,
+      "speed": 34.71883465285304,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 60.69309997558594,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 39.1218
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 11.913,
+    "xyz": [
+      2528.04268372469,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667793971267,
+      0,
+      0
+    ],
+    "speed": 29.72667793971267,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        18.363491730075776,
+        0
+      ],
+      "scanMs": 0.588,
+      "speed": 18.363491730075776,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 4,
+      "columns": 82,
+      "queue": 105,
+      "sections": 82
+    },
+    "coverage": {
+      "columns": 82,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 110.34270477294922,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.3664
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.043,
+    "xyz": [
+      2532.0280185967686,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677940715515,
+      0,
+      0
+    ],
+    "speed": 29.726677940715515,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        29.84516727686451,
+        0
+      ],
+      "scanMs": 0.4283,
+      "speed": 29.84516727686451,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 80,
+      "queue": 105,
+      "sections": 80
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 19,
+      "streamerQueue": 0
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 61.95819854736328,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 40.9487
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.18,
+    "xyz": [
+      2537.058687291356,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677941545976,
+      0,
+      0
+    ],
+    "speed": 29.726677941545976,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        22.963263201041233,
+        0
+      ],
+      "scanMs": 0.3495,
+      "speed": 22.963263201041233,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 2,
+      "columns": 82,
+      "queue": 105,
+      "sections": 82
+    },
+    "coverage": {
+      "columns": 80,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 16,
+      "streamerQueue": 0
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 68.54920196533203,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 18.569
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.29,
+    "xyz": [
+      2540.6846886090048,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677943050074,
+      0,
+      0
+    ],
+    "speed": 29.726677943050074,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        37.49489634140017,
+        0
+      ],
+      "scanMs": 0.3913,
+      "speed": 37.49489634140017,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 19
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 46.81919860839844,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.8944
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.42,
+    "xyz": [
+      2545.323356956148,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677943479224,
+      0,
+      0
+    ],
+    "speed": 29.726677943479224,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        47.01073221030194,
+        0
+      ],
+      "scanMs": 0.4838,
+      "speed": 47.01073221030194,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 8,
+      "columns": 83,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 7,
+      "streamerQueue": 0
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 109.5759048461914,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.4098
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.576,
+    "xyz": [
+      2550.354025553721,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677943834602,
+      0,
+      0
+    ],
+    "speed": 29.726677943834602,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        35.17575109672844,
+        0
+      ],
+      "scanMs": 0.2798,
+      "speed": 35.17575109672844,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 83,
+      "queue": 105,
+      "sections": 83
+    },
+    "coverage": {
+      "columns": 83,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 19,
+      "streamerQueue": 0
+    },
+    "fps": 37.2,
+    "overlayAgeMs": 34.50979995727539,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 32.9767
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.875,
+    "xyz": [
+      2560.2193623805074,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677944661894,
+      0,
+      0
+    ],
+    "speed": 29.726677944661894,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        41.884378058808586,
+        0
+      ],
+      "scanMs": 0.2978,
+      "speed": 41.884378058808586,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 105,
+      "sections": 84
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 2,
+      "streamerQueue": 19
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 51.32059860229492,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 5.7544
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 12.987,
+    "xyz": [
+      2562.27736308641,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677944661894,
+      0,
+      0
+    ],
+    "speed": 29.726677944661894,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        39.641253627100696,
+        0
+      ],
+      "scanMs": 0.3806,
+      "speed": 39.641253627100696,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 21,
+      "streamerQueue": 0
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 50.50040054321289,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 53.4837
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.097,
+    "xyz": [
+      2568.3860319102196,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677944939905,
+      0,
+      0
+    ],
+    "speed": 29.726677944939905,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        20.22215275688431,
+        0
+      ],
+      "scanMs": 0.3328,
+      "speed": 20.22215275688431,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 1,
+      "columns": 78,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 10,
+      "streamerQueue": 0
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 90.75599670410156,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 27.2731
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.258,
+    "xyz": [
+      2572.5347001637447,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945089403,
+      0,
+      0
+    ],
+    "speed": 29.726677945089403,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        13.994881695699993,
+        0
+      ],
+      "scanMs": 0.2938,
+      "speed": 13.994881695699993,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 3,
+      "streamerQueue": 19
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 126.24150085449219,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 21.9534
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.38,
+    "xyz": [
+      2575.8340346226278,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945202063,
+      0,
+      0
+    ],
+    "speed": 29.726677945202063,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        45.13583570431718,
+        0
+      ],
+      "scanMs": 0.5018,
+      "speed": 45.13583570431718,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 4,
+      "columns": 82,
+      "queue": 105,
+      "sections": 82
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 13,
+      "streamerQueue": 0
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 52.3119010925293,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 48.9302
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.508,
+    "xyz": [
+      2580.178702952679,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945261287,
+      0,
+      0
+    ],
+    "speed": 29.726677945261287,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        48.1280686522935,
+        0
+      ],
+      "scanMs": 0.308,
+      "speed": 48.1280686522935,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 81
+    },
+    "coverage": {
+      "columns": 87,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 7,
+      "streamerQueue": 19
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 46.6885986328125,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 23.4447
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.615,
+    "xyz": [
+      2584.5560376376434,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667794531033,
+      0,
+      0
+    ],
+    "speed": 29.72667794531033,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        38.494979491942665,
+        0
+      ],
+      "scanMs": 0.4057,
+      "speed": 38.494979491942665,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 81,
+      "queue": 105,
+      "sections": 81
+    },
+    "coverage": {
+      "columns": 81,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 1,
+      "streamerQueue": 19
+    },
+    "fps": 36.5,
+    "overlayAgeMs": 40.00559997558594,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 7.0704
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 13.917,
+    "xyz": [
+      2593.8660412716235,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945399153,
+      0,
+      0
+    ],
+    "speed": 29.726677945399153,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        72.88283386184065,
+        0
+      ],
+      "scanMs": 0.2618,
+      "speed": 72.88283386184065,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 5,
+      "columns": 84,
+      "queue": 105,
+      "sections": 84
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 13,
+      "streamerQueue": 19
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 42.886199951171875,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 45.4016
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.055,
+    "xyz": [
+      2598.7987098312196,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945424495,
+      0,
+      0
+    ],
+    "speed": 29.726677945424495,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        49.018614429515566,
+        0
+      ],
+      "scanMs": 0.3854,
+      "speed": 49.018614429515566,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 84,
+      "queue": 105,
+      "sections": 84
+    },
+    "coverage": {
+      "columns": 84,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 55.7223014831543,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 8.0297
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.196,
+    "xyz": [
+      2603.7967116847526,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.72667794546286,
+      0,
+      0
+    ],
+    "speed": 29.72667794546286,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        16.621406206168555,
+        0
+      ],
+      "scanMs": 0.3007,
+      "speed": 16.621406206168555,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 98,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 5,
+      "streamerQueue": 0
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 117.72089385986328,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 25.7477
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.341,
+    "xyz": [
+      2606.736712588949,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945489172,
+      0,
+      0
+    ],
+    "speed": 29.726677945489172,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        44.75310682538671,
+        0
+      ],
+      "scanMs": 0.4415,
+      "speed": 44.75310682538671,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 98,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 24,
+      "streamerQueue": 0
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 79.9802017211914,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.2272
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.449,
+    "xyz": [
+      2610.166713879119,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945489172,
+      0,
+      0
+    ],
+    "speed": 29.726677945489172,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        45.622233929656446,
+        0
+      ],
+      "scanMs": 0.0032,
+      "speed": 45.622233929656446,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 13,
+      "streamerQueue": 19
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 23.798900604248047,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 54.7673
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.564,
+    "xyz": [
+      2613.36804859185,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945507213,
+      0,
+      0
+    ],
+    "speed": 29.726677945507213,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        23.619376379958105,
+        0
+      ],
+      "scanMs": 0.3189,
+      "speed": 23.619376379958105,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 78,
+      "queue": 105,
+      "sections": 78
+    },
+    "coverage": {
+      "columns": 78,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 4,
+      "streamerQueue": 19
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 25.273099899291992,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 11.8166
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.712,
+    "xyz": [
+      2620.8160511096485,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945516915,
+      0,
+      0
+    ],
+    "speed": 29.726677945516915,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        35.52527736442093,
+        0
+      ],
+      "scanMs": 0.3027,
+      "speed": 35.52527736442093,
+      "pendingAhead": 0,
+      "loadedAhead": 7,
+      "sentThisFrame": 0,
+      "columns": 77,
+      "queue": 105,
+      "sections": 77
+    },
+    "coverage": {
+      "columns": 77,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 14,
+      "streamerQueue": 0
+    },
+    "fps": 35.8,
+    "overlayAgeMs": 91.97119903564453,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 13.5689
+    },
+    "videoEntities": 0
+  },
+  {
+    "t": 14.987,
+    "xyz": [
+      2627.937387109111,
+      45,
+      6110
+    ],
+    "velocity": [
+      29.726677945528067,
+      0,
+      0
+    ],
+    "speed": 29.726677945528067,
+    "fallFlying": false,
+    "mode": 2,
+    "terrain": {
+      "velocity": [
+        28.63226703607367,
+        0
+      ],
+      "scanMs": 0.442,
+      "speed": 28.63226703607367,
+      "pendingAhead": 1,
+      "loadedAhead": 6,
+      "sentThisFrame": 0,
+      "columns": 70,
+      "queue": 105,
+      "sections": 70
+    },
+    "coverage": {
+      "columns": 70,
+      "loading": false,
+      "holds": 0
+    },
+    "streaming": {
+      "fast": true,
+      "loadedQueue": 8,
+      "streamerQueue": 19
+    },
+    "fps": 34.3,
+    "overlayAgeMs": 55.08869934082031,
+    "native": {
+      "failed": false,
+      "triangles": 168,
+      "batches": 2,
+      "drawnBatches": 2,
+      "shadowBatches": 2,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 0,
+      "decals": 0,
+      "frameAgeMs": 6.425
+    },
+    "videoEntities": 0
+  }
+]

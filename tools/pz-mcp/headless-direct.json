@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "label": "direct",
+  "seconds": 30.1,
+  "processes": [
+    {
+      "pid": 17956,
+      "role": "Minecraft",
+      "cpuCorePercent": 47.76,
+      "workingMiB": 1279.2,
+      "privateMiB": 2110.5
+    }
+  ],
+  "workingMiB": 1279.2,
+  "privateMiB": 2110.5,
+  "overlayAgeMedianMs": 30.4,
+  "overlayAgeP95Ms": 34.96,
+  "overlayFps": 85.6,
+  "pzFpsMedian": 73.0,
+  "estimatedReadbackMiBPerSec": 567.1,
+  "measurement": "Idle unpaused client; readback estimate assumes two full RGBA layers; GPU usage not measured"
+}

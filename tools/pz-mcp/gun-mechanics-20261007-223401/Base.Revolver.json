@@ -1,0 +1,261 @@
+{
+  "gun": "Base.Revolver",
+  "catalogue": {
+    "reloadType": "revolver",
+    "magazine": null,
+    "ammoKey": "Base.Bullets357",
+    "maxAmmo": 6,
+    "rackAfterShoot": false,
+    "haveChamber": false,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": true,
+    "recoilDelay": 16,
+    "projectiles": 1,
+    "fireMode": null
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.Revolver whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "rhino"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 8.12,
+      "state": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 6
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 6,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 5,
+        "chamber": false,
+        "spentCount": 1,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 6,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 6,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 56,
+        "itemId": 1855196344,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 6,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 6,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 11.24,
+      "step": "fixture",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 12.44,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 13.43,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 14.63,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 15.84,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 17.03,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 18.17,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 19.19,
+      "step": "1 rounds loaded",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 21.76,
+      "step": "1 rounds loaded",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 23.94,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 25.32,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 26.49,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 27.71,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 29.01,
+      "step": "2 one shot",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 32.38,
+      "step": "3 dry click",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 33.5,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 34.7,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 35.83,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 37.06,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1.02,
+      "plays": 1
+    },
+    {
+      "t": 37.14,
+      "step": "4 rounds taken out",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 38.25,
+      "step": "4 rounds taken out",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 40.26,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [
+    "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\gun-mechanics-20261007-223401\\Base.Revolver-reload.png",
+    "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\gun-mechanics-20261007-223401\\Base.Revolver-shot.png"
+  ],
+  "cleanupErrors": []
+}

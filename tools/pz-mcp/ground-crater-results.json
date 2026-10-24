@@ -1,0 +1,50 @@
+{
+  "stage": "crater",
+  "tile": [
+    2154,
+    6124
+  ],
+  "passed": true,
+  "vantage": [
+    2146.5,
+    6132.5,
+    -135.0
+  ],
+  "tops": {
+    "top_-3_-3": "grass_block",
+    "top_-3_0": "air",
+    "top_-3_3": "air",
+    "top_0_-3": "air",
+    "top_0_0": "air",
+    "top_0_3": "grass_block",
+    "top_3_-3": "grass_block",
+    "top_3_0": "air",
+    "top_3_3": "grass_block"
+  },
+  "floorsGone": 45,
+  "floorsRemoved": 45,
+  "ground": {
+    "carpetBlocks": 1194,
+    "edgeBlocks": 0,
+    "explosionBlocks": 1754,
+    "dugReports": 138,
+    "refillReports": 93,
+    "chunksTracked": 8,
+    "pendingEdits": 0
+  },
+  "explosion": {
+    "center": [
+      2154.5,
+      0.061250001192092896,
+      6124.5
+    ],
+    "radius": 4,
+    "targets": 0,
+    "edges": 0,
+    "solids": 0,
+    "floors": 0,
+    "traceMs": 3.16
+  },
+  "floorsStillGone": 0,
+  "floorsRestored": 45
+}

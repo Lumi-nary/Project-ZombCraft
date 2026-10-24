@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "first": {
+    "failed": false,
+    "draws": 45238,
+    "active": true,
+    "mode": 0,
+    "position": [
+      2166,
+      1.619999885559082,
+      6110
+    ],
+    "yaw": -90,
+    "pitch": 12
+  },
+  "back": {
+    "failed": false,
+    "draws": 45285,
+    "active": true,
+    "mode": 1,
+    "position": [
+      2162.0874094963074,
+      2.451646625995636,
+      6110
+    ],
+    "yaw": -90,
+    "pitch": 12
+  },
+  "backDistance": 4.000000070014456,
+  "front": {
+    "failed": false,
+    "draws": 45331,
+    "active": true,
+    "mode": 2,
+    "position": [
+      2169.9125905036926,
+      0.7883531451225281,
+      6110
+    ],
+    "yaw": 90,
+    "pitch": -12
+  },
+  "explicitCameraCommands": true,
+  "minecraftWallDistance": 1.0099505186080997,
+  "pzWallDistance": 0.9110433459281994
+}

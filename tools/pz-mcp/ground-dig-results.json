@@ -1,0 +1,36 @@
+{
+  "stage": "dig",
+  "tile": [
+    2154,
+    6114
+  ],
+  "passed": true,
+  "floorBefore": "blends_natural_01_22",
+  "before": {
+    "d1": "grass_block",
+    "d2": "dirt",
+    "d3": "dirt",
+    "d4": "air",
+    "d5": "air"
+  },
+  "after": {
+    "d1": "air",
+    "d2": "dirt",
+    "d3": "dirt",
+    "d4": "air",
+    "d5": "air"
+  },
+  "floorAfterDig": "NONE",
+  "floorsRemoved": 1,
+  "ground": {
+    "carpetBlocks": 576,
+    "edgeBlocks": 0,
+    "explosionBlocks": 0,
+    "dugReports": 3,
+    "refillReports": 2,
+    "chunksTracked": 4,
+    "pendingEdits": 0
+  },
+  "floorAfterRefill": "blends_natural_01_22",
+  "floorsRestored": 1
+}

@@ -1,0 +1,1351 @@
+{
+  "before": {
+    "uptimeSec": 313,
+    "frames": 36024,
+    "fps": 133.3,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 2,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 pz:Base.IDcard",
+        "1 pz:Base.KeyRing whole",
+        "1 pz:Base.Pistol whole r=0",
+        "1 pz:Base.9mmClip whole r=0",
+        "1 pz:Base.Pistol whole r=12+1",
+        "0 minecraft:air",
+        "2 pz:Base.Bullets9mm",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 4,
+      "held": {
+        "item": "1 pz:Base.Pistol whole r=12+1",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "applied": 0,
+        "rangeRejected": 0,
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0
+      },
+      "gun": {},
+      "gunFeel": {
+        "aim": 0,
+        "sprinting": false,
+        "gunHeld": true,
+        "flashing": false,
+        "recoilPitch": 0,
+        "recoilYaw": 0,
+        "recoilActive": false,
+        "recoilPeakPitch": 0,
+        "recoilPeakYaw": 0,
+        "recoilShots": 0,
+        "offhandCleared": 0,
+        "swaySpeed": 0,
+        "animation": {
+          "time": 0.021875,
+          "playState": "CONTINUE",
+          "clip": "animation.model.idle",
+          "finished": false,
+          "idleResumed": 1,
+          "loop": "com.geckolib.animation.object.LoopType$$Lambda/0x000000002838aa88@52b6c70",
+          "speed": 1,
+          "triggered": false
+        },
+        "shells": {
+          "spawned": 0,
+          "active": 0
+        },
+        "impacts": {
+          "sprites": 0,
+          "blood": 0,
+          "mist": 0,
+          "debris": 0,
+          "smoke": 0,
+          "chips": 0
+        },
+        "lastShot": {}
+      },
+      "server": {
+        "air": 300,
+        "sleeping": false,
+        "food": 16,
+        "saturation": 0,
+        "minecraftOwnsFood": true,
+        "xyz": [
+          2140.18701171875,
+          0,
+          6137.55419921875
+        ],
+        "flying": false,
+        "entities": [],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false,
+        "proxyCount": 0,
+        "timeTicks": 197515,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false
+      },
+      "terrain": {
+        "holds": 0,
+        "loading": false,
+        "columns": 49
+      },
+      "materials": {
+        "sections": 49,
+        "floors": {
+          "grass": 2597,
+          "dirt": 325,
+          "sand": 10,
+          "concrete": 53,
+          "asphalt": 112
+        },
+        "edges": {
+          "wall": {
+            "metal": 49
+          }
+        },
+        "trees": 1,
+        "solids": 0,
+        "basementTiles": 0,
+        "interiorTiles": 0
+      },
+      "trees": {
+        "wanted": 1,
+        "placedStacks": 1,
+        "placedTotal": 1,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2118,
+            "z": 6118,
+            "size": 5,
+            "kind": 3,
+            "distance": 28.87,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 68,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 2,
+        "transactions": 0,
+        "duplicates": 0,
+        "added": 0,
+        "removed": 0,
+        "changed": 0,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 4,
+        "failures": 0,
+        "last": ""
+      },
+      "food": 16,
+      "saturation": 0,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "hour": 11.42965030670166,
+      "year": 1993,
+      "day": 11,
+      "month": 7
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "corrected": 0,
+      "rejected": 0,
+      "heights": {},
+      "rendered": 0,
+      "active": 0
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 25093,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2140.18701171875,
+          1.619999885559082,
+          6137.55419921875
+        ],
+        "yaw": 90,
+        "pitch": 0
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 4.4979,
+      "minecraftPid": 21468
+    },
+    "player": {
+      "x": 2140.18701171875,
+      "y": 6137.55419921875,
+      "z": 0.0005000000237487257,
+      "health": 47.41680145263672,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "minecraftBlock": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2140.18701171875,
+      "y": 0,
+      "z": 6137.55419921875,
+      "yaw": 90,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 3516,
+      "batches": 6,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 4,
+      "handBatches": 2,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 2.7765
+    },
+    "terrain": {
+      "sections": 49,
+      "queue": 49,
+      "columns": 49,
+      "sentThisFrame": 0,
+      "loadedAhead": 7,
+      "pendingAhead": 0,
+      "speed": 0,
+      "scanMs": 0.352,
+      "velocity": [
+        0,
+        0
+      ]
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "groundShells": 356,
+      "farCells": 134,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 6,
+      "pending": 0,
+      "states": 8,
+      "txSent": 0,
+      "txAcked": 0,
+      "created": 0,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzWeapons": {
+      "meleeMissing": 0,
+      "lastMelee": {},
+      "wearRolls": 0,
+      "meleeApplied": 0,
+      "meleeRangeRejected": 0,
+      "meleeCritical": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 0,
+      "dry": 0,
+      "hits": 0,
+      "noise": 0,
+      "reloads": 0,
+      "cancelled": 0,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {},
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0,
+      "magazinesEjected": 0,
+      "inspects": 0
+    },
+    "health": {
+      "woundsCleared": 14,
+      "minecraftOwnsHealth": true,
+      "steveHealth": 9.483365058898926,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 49280,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 0,
+    "blocks": 1779,
+    "overlay": {
+      "drawn": true,
+      "frameId": 992,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 18.947799682617188,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 22830,
+      "atlasRevision": 2852823634700,
+      "meshRevision": 2852861072100,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 41589,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0.9863485097885132,
+      "wind": 0.290743887424469,
+      "clouds": 0,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 90
+    },
+    "overrideActive": false
+  },
+  "nativeBefore": "1048446942:Base.Pistol:0|1066647852:Base.IDcard:0|1804753482:Base.KeyRing:0|1991431869:Base.9mmClip:0|19974191:Base.Bullets9mm:0|221624086:Base.Pistol:12|965417146:Base.Bullets9mm:0",
+  "steps": [
+    {
+      "name": "start",
+      "steve": {
+        "x": 2140.18701171875,
+        "y": 0,
+        "z": 6137.55419921875,
+        "yaw": 90,
+        "pitch": 0,
+        "onGround": true,
+        "flags": 1
+      },
+      "held": "1 pz:Base.Pistol whole r=14+1"
+    },
+    {
+      "name": "inspect loaded",
+      "clips": [
+        [
+          0.01,
+          "animation.model.inspect",
+          0.06,
+          true
+        ],
+        [
+          0.38,
+          "animation.model.inspect",
+          0.36,
+          true
+        ],
+        [
+          0.59,
+          "animation.model.inspect",
+          0.57,
+          true
+        ],
+        [
+          0.8,
+          "animation.model.inspect",
+          0.77,
+          true
+        ],
+        [
+          1.01,
+          "animation.model.inspect",
+          0.97,
+          true
+        ],
+        [
+          1.21,
+          "animation.model.inspect",
+          1.17,
+          true
+        ],
+        [
+          1.51,
+          "animation.model.inspect",
+          1.47,
+          true
+        ],
+        [
+          1.73,
+          "animation.model.inspect",
+          1.68,
+          true
+        ],
+        [
+          1.94,
+          "animation.model.inspect",
+          1.98,
+          true
+        ],
+        [
+          2.16,
+          "animation.model.inspect",
+          2.18,
+          true
+        ],
+        [
+          2.37,
+          "animation.model.inspect",
+          2.38,
+          true
+        ],
+        [
+          2.71,
+          "animation.model.inspect",
+          2.69,
+          true
+        ],
+        [
+          2.92,
+          "animation.model.inspect",
+          2.89,
+          true
+        ],
+        [
+          3.12,
+          "animation.model.inspect",
+          3.09,
+          true
+        ],
+        [
+          3.33,
+          "animation.model.inspect",
+          3.3,
+          true
+        ],
+        [
+          3.53,
+          "animation.model.inspect",
+          3.51,
+          true
+        ],
+        [
+          3.85,
+          "animation.model.inspect",
+          3.81,
+          true
+        ],
+        [
+          4.05,
+          "animation.model.inspect",
+          4.02,
+          true
+        ],
+        [
+          4.26,
+          "animation.model.inspect",
+          4.22,
+          true
+        ],
+        [
+          4.47,
+          "animation.model.inspect",
+          4.42,
+          true
+        ],
+        [
+          4.67,
+          "animation.model.inspect",
+          4.72,
+          true
+        ],
+        [
+          4.97,
+          "animation.model.inspect",
+          4.92,
+          true
+        ],
+        [
+          5.17,
+          "animation.model.inspect",
+          5.12,
+          true
+        ],
+        [
+          5.38,
+          "animation.model.inspect",
+          5.43,
+          true
+        ],
+        [
+          5.6,
+          "animation.model.inspect",
+          5.63,
+          true
+        ],
+        [
+          5.81,
+          "animation.model.inspect",
+          5.83,
+          true
+        ],
+        [
+          6.1,
+          "animation.model.inspect",
+          6.13,
+          true
+        ],
+        [
+          6.31,
+          "animation.model.idle",
+          0.03,
+          false
+        ],
+        [
+          6.54,
+          "animation.model.idle",
+          0.02,
+          false
+        ]
+      ]
+    },
+    {
+      "name": "shot cancels inspect",
+      "clip": "animation.model.fire"
+    },
+    {
+      "name": "aim cancels inspect",
+      "clip": "animation.model.idle",
+      "aim": 1
+    },
+    {
+      "name": "inspect empty",
+      "clip": "animation.model.inspectempty"
+    },
+    {
+      "name": "probe yaw 0",
+      "lastShot": {
+        "n": 2,
+        "eye": [
+          2140.18701171875,
+          1.6200000047683716,
+          6137.55419921875
+        ],
+        "dir": [
+          0,
+          0,
+          1
+        ],
+        "muzzle": [
+          2140.05701171875,
+          1.4600000047683717,
+          6138.25419921875
+        ],
+        "end": [
+          2140.18701171875,
+          1.6200000047683716,
+          6160.05419921875
+        ],
+        "distance": 22.5,
+        "hit": false,
+        "damage": 0,
+        "killed": false
+      }
+    }
+  ],
+  "passed": false,
+  "error": "KeyError('block')",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\check-gun-impacts.py\", line 144, in run\n    if shot['block'] is None and 'targetMin' not in shot and shot['distance'] > 18:\n       ~~~~^^^^^^^^^\nKeyError: 'block'\n",
+  "after": {
+    "uptimeSec": 350,
+    "frames": 40870,
+    "fps": 136.2,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 8,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "perspectiveKey": 294,
+      "cameraMode": 0,
+      "firstPersonHand": true,
+      "inventory": [
+        "1 pz:Base.IDcard",
+        "1 pz:Base.KeyRing whole",
+        "1 pz:Base.Pistol whole r=0",
+        "1 pz:Base.9mmClip whole r=0",
+        "1 pz:Base.Pistol whole r=12+1",
+        "0 minecraft:air",
+        "2 pz:Base.Bullets9mm",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "selectedSlot": 4,
+      "held": {
+        "item": "1 pz:Base.Pistol whole r=12+1",
+        "attackDamage": 1,
+        "attackSpeed": 4,
+        "serverAttackDamage": 1,
+        "preset": "",
+        "treeSpeed": 1,
+        "durability": ""
+      },
+      "combat": {
+        "applied": 0,
+        "rangeRejected": 0,
+        "swingCapped": 0,
+        "heightRejected": 0,
+        "wallRejected": 0
+      },
+      "gun": {
+        "sequence": 8,
+        "itemId": 5097896,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 13,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "gunFeel": {
+        "aim": 0,
+        "sprinting": false,
+        "gunHeld": true,
+        "flashing": false,
+        "recoilPitch": 0,
+        "recoilYaw": 0,
+        "recoilActive": false,
+        "recoilPeakPitch": -2.9646337386096393,
+        "recoilPeakYaw": 0.5336340729497351,
+        "recoilShots": 2,
+        "offhandCleared": 0,
+        "swaySpeed": 0,
+        "animation": {
+          "time": 0.5406250000000002,
+          "playState": "CONTINUE",
+          "clip": "animation.model.draw",
+          "finished": false,
+          "idleResumed": 6,
+          "loop": "com.geckolib.animation.object.LoopType$$Lambda/0x000000002838a618@5aa78378",
+          "speed": 1,
+          "triggered": true
+        },
+        "shells": {
+          "spawned": 2,
+          "active": 0
+        },
+        "impacts": {
+          "sprites": 0,
+          "blood": 0,
+          "mist": 0,
+          "debris": 0,
+          "smoke": 0,
+          "chips": 0
+        },
+        "lastShot": {
+          "n": 2,
+          "eye": [
+            2140.18701171875,
+            1.6200000047683716,
+            6137.55419921875
+          ],
+          "dir": [
+            0,
+            0,
+            1
+          ],
+          "muzzle": [
+            2140.05701171875,
+            1.4600000047683717,
+            6138.25419921875
+          ],
+          "end": [
+            2140.18701171875,
+            1.6200000047683716,
+            6160.05419921875
+          ],
+          "distance": 22.5,
+          "hit": false,
+          "damage": 0,
+          "killed": false
+        }
+      },
+      "server": {
+        "air": 300,
+        "sleeping": false,
+        "food": 16,
+        "saturation": 0,
+        "minecraftOwnsFood": true,
+        "xyz": [
+          2140.18701171875,
+          0,
+          6137.55419921875
+        ],
+        "flying": false,
+        "entities": [],
+        "effects": [],
+        "spawn": [
+          2159,
+          1,
+          6128
+        ],
+        "tags": [],
+        "invulnerable": false,
+        "proxyCount": 0,
+        "timeTicks": 197619,
+        "onFire": false,
+        "probes": {},
+        "inWater": false,
+        "eyesInWater": false,
+        "creative": false,
+        "eyeY": 1.6200000047683716,
+        "fallFlying": false
+      },
+      "terrain": {
+        "holds": 0,
+        "loading": false,
+        "columns": 49
+      },
+      "materials": {
+        "sections": 49,
+        "floors": {
+          "grass": 2597,
+          "dirt": 325,
+          "sand": 10,
+          "concrete": 53,
+          "asphalt": 112
+        },
+        "edges": {
+          "wall": {
+            "metal": 49
+          }
+        },
+        "trees": 1,
+        "solids": 0,
+        "basementTiles": 0,
+        "interiorTiles": 0
+      },
+      "trees": {
+        "wanted": 1,
+        "placedStacks": 1,
+        "placedTotal": 1,
+        "blocked": 0,
+        "staleRemoved": 0,
+        "orphansRemoved": 0,
+        "felled": 0,
+        "nearest": [
+          {
+            "x": 2118,
+            "z": 6118,
+            "size": 5,
+            "kind": 3,
+            "distance": 28.87,
+            "placed": true
+          }
+        ]
+      },
+      "explosions": {
+        "blasts": 0,
+        "lastTargets": 0,
+        "last": {}
+      },
+      "ground": {
+        "carpetBlocks": 0,
+        "edgeBlocks": 0,
+        "explosionBlocks": 0,
+        "dugReports": 0,
+        "refillReports": 0,
+        "chunksTracked": 68,
+        "pendingEdits": 0
+      },
+      "pzItemCatalog": 5092,
+      "pzContainers": {
+        "opened": 0,
+        "committed": 0,
+        "itemsTaken": 0,
+        "itemsAdded": 0,
+        "hiddenStacks": 0,
+        "last": ""
+      },
+      "mirror": {
+        "states": 14,
+        "transactions": 7,
+        "duplicates": 0,
+        "added": 0,
+        "removed": 1,
+        "changed": 6,
+        "rejected": 0,
+        "skipped": 0,
+        "unencodable": 0,
+        "blobsSent": 5,
+        "failures": 0,
+        "last": "applied 46549935021183: 0 added, 1 removed, 0 changed"
+      },
+      "food": 16,
+      "saturation": 0,
+      "armor": 0,
+      "worn": [
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "velocity": [
+        0,
+        -1.568000030517578,
+        0
+      ],
+      "fallFlying": false,
+      "flying": false,
+      "videoEntities": 0,
+      "worldVideo": false,
+      "hiddenWindow": false
+    },
+    "clock": {
+      "hour": 11.591002464294434,
+      "year": 1993,
+      "day": 11,
+      "month": 7
+    },
+    "minecraftLights": 1,
+    "minecraftPassengers": 0,
+    "actorTerrain": {
+      "corrected": 0,
+      "rejected": 0,
+      "heights": {},
+      "rendered": 0,
+      "active": 0
+    },
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "minecraftCamera": {
+        "failed": false,
+        "draws": 29939,
+        "active": true,
+        "mode": 0,
+        "position": [
+          2140.18701171875,
+          1.619999885559082,
+          6137.55419921875
+        ],
+        "yaw": 90,
+        "pitch": 0
+      },
+      "eye": [
+        0,
+        1.619999885559082,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 2.4876,
+      "minecraftPid": 21468
+    },
+    "player": {
+      "x": 2140.18701171875,
+      "y": 6137.55419921875,
+      "z": 0.0005000000237487257,
+      "health": 47.41680145263672,
+      "hunger": 0,
+      "hasSquare": true,
+      "actionState": "idle",
+      "steveDrives": true,
+      "square": {
+        "solid": false,
+        "minecraftBlock": false,
+        "solidTrans": false
+      }
+    },
+    "steve": {
+      "x": 2140.18701171875,
+      "y": 0,
+      "z": 6137.55419921875,
+      "yaw": 90,
+      "pitch": 0,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 3516,
+      "batches": 6,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "translucentBatches": 0,
+      "textures": 7,
+      "handBatches": 2,
+      "decals": 0,
+      "flames": 0,
+      "playerBatches": 0,
+      "frameAgeMs": 6.4886
+    },
+    "terrain": {
+      "sections": 49,
+      "queue": 49,
+      "columns": 49,
+      "sentThisFrame": 0,
+      "loadedAhead": 7,
+      "pendingAhead": 0,
+      "speed": 0,
+      "scanMs": 0.275,
+      "velocity": [
+        0,
+        0
+      ]
+    },
+    "streaming": {
+      "fast": false,
+      "loadedQueue": 0,
+      "nearGroundMaskAhead": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "groundShells": 356,
+      "farCells": 134,
+      "streamerQueue": 0
+    },
+    "pzTrees": {
+      "toppled": 0,
+      "missed": 0,
+      "pending": 0,
+      "last": ""
+    },
+    "pzExplosions": {
+      "blasts": 0,
+      "queued": 0,
+      "windows": 0,
+      "doors": 0,
+      "walls": 0,
+      "fences": 0,
+      "solids": 0,
+      "floors": 0,
+      "missed": 0,
+      "failures": 0,
+      "lastError": ""
+    },
+    "pzGround": {
+      "floorsRemoved": 0,
+      "floorsRestored": 0,
+      "missing": 0,
+      "queued": 0
+    },
+    "pzItems": {
+      "running": false,
+      "status": "never run",
+      "items": 0,
+      "icons": 0,
+      "failedIcons": 0,
+      "directory": "C:\\Users\\Maple\\.pzcraft\\items"
+    },
+    "pzContainers": {
+      "opened": 0,
+      "committed": 0,
+      "itemsTaken": 0,
+      "itemsAdded": 0,
+      "failures": 0,
+      "last": ""
+    },
+    "pzMirror": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 6,
+      "pending": 0,
+      "states": 20,
+      "txSent": 7,
+      "txAcked": 7,
+      "created": 1,
+      "removed": 0,
+      "updated": 0,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 46549935021183: 0 added, 1 removed, 0 changed"
+    },
+    "pzWeapons": {
+      "meleeMissing": 0,
+      "lastMelee": {},
+      "wearRolls": 2,
+      "meleeApplied": 0,
+      "meleeRangeRejected": 0,
+      "meleeCritical": 0,
+      "worn": 0
+    },
+    "pzHud": {
+      "hiding": true,
+      "status": "hidden",
+      "failures": 0
+    },
+    "pzGuns": {
+      "shots": 2,
+      "dry": 0,
+      "hits": 0,
+      "noise": 2,
+      "reloads": 0,
+      "cancelled": 0,
+      "rejected": 0,
+      "windows": 0,
+      "failures": 0,
+      "reloading": false,
+      "last": {
+        "sequence": 8,
+        "itemId": 5097896,
+        "status": "fired",
+        "clip": "fire",
+        "ammo": 13,
+        "capacity": 15,
+        "chamber": true,
+        "jammed": false
+      },
+      "loading": false,
+      "roundsLoaded": 0,
+      "roundsUnloaded": 0,
+      "magazinesEjected": 0,
+      "inspects": 4
+    },
+    "health": {
+      "woundsCleared": 14,
+      "minecraftOwnsHealth": true,
+      "steveHealth": 9.483365058898926,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 0,
+      "pzDamageEvents": 0
+    },
+    "steveVitals": {
+      "active": true,
+      "hiddenFrames": 57868,
+      "reflectionFailed": false,
+      "saved": true,
+      "stats": {
+        "Anger": 0,
+        "Boredom": 0,
+        "Discomfort": 0,
+        "Endurance": 1,
+        "Fatigue": 0,
+        "Fitness": 0,
+        "FoodSickness": 0,
+        "Hunger": 0,
+        "Idleness": 0,
+        "Intoxication": 0,
+        "Morale": 1,
+        "NicotineWithdrawal": 0,
+        "Pain": 0,
+        "Panic": 0,
+        "Poison": 0,
+        "Sanity": 1,
+        "Sickness": 0,
+        "Stress": 0,
+        "Temperature": 37,
+        "Thirst": 0,
+        "Unhappiness": 0,
+        "Wetness": 0,
+        "ZombieFever": 0,
+        "ZombieInfection": 0
+      },
+      "hasCold": false,
+      "coldDamageStage": 0
+    },
+    "zombies": 0,
+    "blocks": 1779,
+    "overlay": {
+      "drawn": true,
+      "frameId": 4242,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": false,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 15.574000358581543,
+      "worldVideo": false
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 22830,
+      "atlasRevision": 2889398579100,
+      "meshRevision": 2889391057200,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 48927,
+      "shadowFailures": 0
+    },
+    "vehicles": 0,
+    "weather": {
+      "precipitation": 0,
+      "snow": false,
+      "thunder": false,
+      "fog": 0.9863485097885132,
+      "wind": 0.29100093245506287,
+      "clouds": 0,
+      "lastCommand": "none"
+    },
+    "input": {
+      "view3d": true,
+      "captured": false,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 90
+    },
+    "overrideActive": false
+  },
+  "nativeAfter": "1048446942:Base.Pistol:0|1066647852:Base.IDcard:0|1804753482:Base.KeyRing:0|1991431869:Base.9mmClip:0|19974191:Base.Bullets9mm:0|221624086:Base.Pistol:12|965417146:Base.Bullets9mm:0",
+  "cleanupErrors": []
+}

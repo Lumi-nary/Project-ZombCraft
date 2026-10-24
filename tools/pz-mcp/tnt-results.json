@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "before": "brick_near=present,crate=present,door=present,fence=present,window=intact,wood_far=present,wood_shielded=present",
+  "after": "brick_near=gone,crate=gone,door=gone,fence=gone,window=smashed,wood_far=present,wood_shielded=present",
+  "minecraft": {
+    "blasts": 2,
+    "lastTargets": 5,
+    "last": {
+      "center": [
+        2158.5,
+        0.061250001192092896,
+        6108.5
+      ],
+      "radius": 4,
+      "targets": 5,
+      "edges": 4,
+      "solids": 1,
+      "floors": 0,
+      "traceMs": 5.58
+    }
+  },
+  "pz": {
+    "blasts": 2,
+    "queued": 0,
+    "windows": 2,
+    "doors": 2,
+    "walls": 4,
+    "fences": 0,
+    "solids": 2,
+    "floors": 0,
+    "missed": 0,
+    "failures": 0,
+    "lastError": ""
+  },
+  "expected": {
+    "brick_near": "gone",
+    "window": "smashed",
+    "door": "gone",
+    "crate": "gone",
+    "fence": "gone",
+    "wood_shielded": "present",
+    "wood_far": "present"
+  },
+  "mismatches": {},
+  "cleanup": "removed 3 leftover fixtures"
+}

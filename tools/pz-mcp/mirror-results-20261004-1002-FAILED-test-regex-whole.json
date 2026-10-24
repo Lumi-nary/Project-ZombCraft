@@ -1,0 +1,148 @@
+{
+  "passed": false,
+  "stats0": {
+    "pz": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 32,
+      "pending": 0,
+      "states": 15,
+      "txSent": 4,
+      "txAcked": 4,
+      "created": 33,
+      "removed": 3,
+      "updated": 19,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 607679599867316: 0 added, 1 removed, 0 changed"
+    },
+    "mc": {
+      "states": 26,
+      "transactions": 4,
+      "duplicates": 0,
+      "added": 11,
+      "removed": 9,
+      "changed": 0,
+      "rejected": 0,
+      "skipped": 0,
+      "unencodable": 0,
+      "blobsSent": 14,
+      "failures": 0,
+      "last": "applied 607679599867316: 0 added, 1 removed, 0 changed"
+    }
+  },
+  "A": {
+    "mcPz": {
+      "Base.KeyRing": 1,
+      "Base.IDcard": 1,
+      "Base.Hat_Army": 1,
+      "Base.Axe": 1,
+      "Base.Generator": 1,
+      "Base.Katana": 2,
+      "Base.Bandage": 1,
+      "Base.Apple": 1,
+      "Base.Lighter": 1,
+      "Base.Pistol": 1,
+      "Base.Vest_BulletPolice": 1,
+      "Base.Jacket_Police": 1,
+      "Base.Trousers_PoliceGrey": 1
+    },
+    "pocketsPz": {
+      "Base.IDcard": 1,
+      "Base.KeyRing": 1,
+      "Base.Bandage": 1,
+      "Base.Katana": 2,
+      "Base.Pistol": 1,
+      "Base.Lighter": 1,
+      "Base.Generator": 1,
+      "Base.Apple": 1,
+      "Base.Hat_Army": 1,
+      "Base.Axe": 1,
+      "Base.Jacket_Police": 1,
+      "Base.Vest_BulletPolice": 1,
+      "Base.Trousers_PoliceGrey": 1
+    },
+    "mcOnly": {
+      "minecraft:iron_sword": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:iron_shovel": 1,
+      "minecraft:elytra": 1,
+      "minecraft:flint_and_steel": 2,
+      "minecraft:tnt": 59,
+      "minecraft:raw_copper": 3,
+      "minecraft:repeater": 1,
+      "minecraft:leather": 2,
+      "minecraft:rotten_flesh": 4,
+      "minecraft:cooked_beef": 12,
+      "minecraft:beef": 8,
+      "minecraft:gravel": 20,
+      "minecraft:oak_boat": 1,
+      "minecraft:firework_rocket": 54,
+      "minecraft:cobbled_deepslate": 52,
+      "minecraft:end_rod": 1
+    },
+    "standIns": {
+      "minecraft:flint_and_steel": 2,
+      "minecraft:cooked_beef": 12,
+      "minecraft:beef": 8,
+      "minecraft:rotten_flesh": 4,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:cobbled_deepslate": 52,
+      "minecraft:tnt": 59,
+      "minecraft:gravel": 20,
+      "minecraft:end_rod": 1,
+      "minecraft:iron_sword": 1,
+      "minecraft:oak_boat": 1,
+      "minecraft:leather": 2,
+      "minecraft:iron_shovel": 1,
+      "minecraft:repeater": 1,
+      "minecraft:elytra": 1,
+      "minecraft:firework_rocket": 54,
+      "minecraft:raw_copper": 3
+    }
+  },
+  "B": {
+    "txSent": [
+      4,
+      4
+    ],
+    "applied": [
+      4,
+      4
+    ]
+  },
+  "C1": "diamond stand-in appeared with 3 and went",
+  "C2": "two given apples appeared in PZ and went",
+  "end": {
+    "pz": {
+      "active": true,
+      "status": "in step",
+      "ledgerKinds": 32,
+      "pending": 0,
+      "states": 26,
+      "txSent": 6,
+      "txAcked": 6,
+      "created": 36,
+      "removed": 6,
+      "updated": 20,
+      "unmirrorable": 0,
+      "failures": 0,
+      "last": "sent transaction 410587548081177: 0 added, 1 removed, 0 changed"
+    },
+    "mc": {
+      "states": 37,
+      "transactions": 6,
+      "duplicates": 0,
+      "added": 12,
+      "removed": 10,
+      "changed": 0,
+      "rejected": 0,
+      "skipped": 0,
+      "unencodable": 0,
+      "blobsSent": 15,
+      "failures": 0,
+      "last": "applied 410587548081177: 0 added, 1 removed, 0 changed"
+    }
+  },
+  "finished": "20261004-100221"
+}

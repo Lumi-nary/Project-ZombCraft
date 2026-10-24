@@ -1,0 +1,255 @@
+{
+  "gun": "Base.ShotgunSawnoff",
+  "catalogue": {
+    "reloadType": "shotgun",
+    "magazine": null,
+    "ammoKey": "Base.ShotgunShells",
+    "maxAmmo": 5,
+    "rackAfterShoot": true,
+    "haveChamber": true,
+    "insertAll": false,
+    "needsClose": false,
+    "manualSpent": false,
+    "recoilDelay": 30,
+    "projectiles": 9,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.ShotgunSawnoff whole r=0",
+      "state": "false,0,false,0,false,false",
+      "kind": "m870sawn"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 5.33,
+      "state": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 5
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 4,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": true,
+        "jam": false
+      }
+    },
+    {
+      "name": "2 racked",
+      "state": {
+        "clip": false,
+        "ammo": 3,
+        "chamber": true,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 5,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 224,
+        "itemId": 569249893,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 5,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 3
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "clips": [
+    {
+      "t": 8.06,
+      "step": "fixture",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 8.7,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 9.75,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 10.64,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 11.76,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 12.83,
+      "step": "fixture",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 13.3,
+      "step": "fixture",
+      "clip": "loadend",
+      "speed": 1.5,
+      "plays": 1
+    },
+    {
+      "t": 13.99,
+      "step": "fixture",
+      "clip": "rack",
+      "speed": 0.75,
+      "plays": 1
+    },
+    {
+      "t": 15.64,
+      "step": "1 rounds loaded",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 19.41,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 22.23,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 25.13,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 28.02,
+      "step": "2 racked",
+      "clip": "fire",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 33.32,
+      "step": "3 dry click",
+      "clip": "loadstart",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 34.02,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 34.96,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 36.0,
+      "step": "3 dry click",
+      "clip": "load",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 36.5,
+      "step": "3 dry click",
+      "clip": "loadend",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 37.7,
+      "step": "5 inspect",
+      "clip": "inspect",
+      "speed": 1,
+      "plays": 1
+    },
+    {
+      "t": 39.28,
+      "step": "5 inspect",
+      "clip": "draw",
+      "speed": 1,
+      "plays": 1
+    }
+  ],
+  "pictures": [],
+  "cleanupErrors": []
+}

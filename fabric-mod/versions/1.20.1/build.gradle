@@ -1,0 +1,84 @@
+plugins {
+	// 1.20.1 is obfuscated: the remapping Loom plugin (same Loom jar as the root's), with Mojang's mappings.
+	id 'net.fabricmc.fabric-loom-remap'
+}
+
+// The same mod for Minecraft 1.20.1 (for mods that stop at 1.20.1). Plan and status: HANDOFF.md, journal
+// "2026-10-17 21:40 ... 1.20.1 back-port". Compiles a preprocessed copy of ../../src/main/java (../../gradle/preprocess.gradle).
+// Flags are "this version or older": MC_26_1 is set too, so plain //#if MC_26_1 blocks (26.1.2 code: GLFW, blaze3d
+// packages, mc.screen ...) are already on here; 1.20.1-only code is an //#if MC_1_20 branch before them.
+// shared-excludes.txt: shared files not built for 1.20.1 yet. renames.txt: plain renames (Identifier => ResourceLocation).
+
+ext.preprocessFlags = ['MC_26_1', 'MC_1_20']
+apply from: rootProject.file('gradle/preprocess.gradle')
+
+loom {
+	accessWidenerPath = file("src/main/resources/pzcraft120.accesswidener")
+	runs {
+		client {
+			programArgs '--username', 'PzCraftSteve'
+		}
+		// runMixinAudit: start the client (window hidden), apply every mod's mixins at once, log, quit (PzCraftClient).
+		mixinAudit {
+			inherit client
+			configName = 'Mixin audit (1.20.1)'
+			property 'pzcraft.mixinAudit', 'true'
+			property 'pzcraft.mixinAuditExit', 'true'
+		}
+	}
+	mods {
+		"project-zombcraft" {
+			sourceSet sourceSets.main
+		}
+	}
+}
+
+repositories { maven { url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' } }
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	mappings loom.officialMojangMappings()
+	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+	modImplementation "software.bernie.geckolib:geckolib-fabric-1.20.1:4.8.4"
+	// 26.x ships org.jspecify (@Nullable) with Minecraft; 1.20.1 does not.
+	compileOnly "org.jspecify:jspecify:1.0.0"
+}
+
+def apacheLicense = findProperty('releaseLicense') == 'apache'
+
+base.archivesName = rootProject.name
+version = "${rootProject.version}+mc${project.minecraft_version}"
+
+processResources {
+	// Overrides (this folder) come first; the shared copy of the same path is dropped.
+	duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+	def modVersion = version
+	def license = apacheLicense ? 'Apache-2.0' : 'All-Rights-Reserved'
+	def mcDep = project.minecraft_dependency
+	inputs.property "version", modVersion
+	inputs.property "license", license
+	inputs.property "minecraft", mcDep
+	filesMatching("fabric.mod.json") {
+		expand "version": modVersion, "license": license, "minecraft": mcDep
+	}
+}
+
+jar {
+	metaInf {
+		if (apacheLicense) from rootProject.file('../LICENSE'), rootProject.file('../NOTICE')
+		else from(rootProject.file('../LICENSE-ARR')) { rename { 'LICENSE' } }
+	}
+}
+
+// Java 17, what Minecraft 1.20.1 ships with (the owner's Prism instance runs on it). Shared files that use Java 21
+// APIs (List.getFirst/getLast, ...) need a //#if MC_1_20 line before they leave shared-excludes.txt.
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 17
+	it.options.compilerArgs += ['-Xmaxerrs', '5000']
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_17
+	targetCompatibility = JavaVersion.VERSION_17
+}

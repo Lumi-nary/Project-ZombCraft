@@ -1,0 +1,23 @@
+{
+  "verified": true,
+  "checks": {
+    "realHitsRollWear": true,
+    "conditionDecreased": true,
+    "sameItemId": true,
+    "durabilityMatchesPz": true,
+    "mirrorSettled": true,
+    "cleanup": true
+  },
+  "originalScript": "failed due to expecting damage/max instead of remaining condition/max",
+  "conditionAfter": "551789712,9,10,30",
+  "heldAfter": {
+    "item": "1 pz:Base.Hammer c=9 whole",
+    "attackDamage": 1,
+    "attackSpeed": 1.7999999999999998,
+    "serverAttackDamage": 5,
+    "preset": "bettercombat:mace",
+    "treeSpeed": 1,
+    "durability": "9/10"
+  },
+  "swings": 36
+}

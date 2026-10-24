@@ -1,0 +1,22 @@
+{
+  "Base.Revolver": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.HuntingRifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.L94_Rifle": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  },
+  "Base.Pistol2": {
+    "passed": true,
+    "error": null,
+    "cleanupErrors": []
+  }
+}

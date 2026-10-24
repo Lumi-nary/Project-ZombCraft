@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "start": {
+    "food": 14,
+    "armor": 2,
+    "worn": [
+      "0 minecraft:air",
+      "1 pz:Base.Jacket_Police whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "selectedSlot": 0
+  },
+  "food": {
+    "before": 12,
+    "after": 16,
+    "applesBefore": 3,
+    "applesAfter": 2
+  },
+  "remainder": {
+    "item": "Base.PanFriedVegetablesForged",
+    "leaves": "Base.PanForged",
+    "before": 0,
+    "after": 1
+  },
+  "parkedChest": [
+    35,
+    "1 pz:Base.Jacket_Police whole"
+  ],
+  "vest": {
+    "armorBefore": 0,
+    "armorAfter": 8,
+    "worn": [
+      "0 minecraft:air",
+      "1 pz:Base.Vest_BulletPolice whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ]
+  },
+  "shirt": {
+    "armorBefore": 0,
+    "armorAfter": 0,
+    "worn": [
+      "0 minecraft:air",
+      "1 pz:Base.Tshirt_DefaultTEXTURE_TINT whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ]
+  },
+  "end": {
+    "food": 14,
+    "armor": 2,
+    "worn": [
+      "0 minecraft:air",
+      "1 pz:Base.Jacket_Police whole",
+      "0 minecraft:air",
+      "0 minecraft:air"
+    ],
+    "selectedSlot": 7
+  }
+}

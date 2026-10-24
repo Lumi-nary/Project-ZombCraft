@@ -1,0 +1,100 @@
+{
+  "gun": "Base.DoubleBarrelShotgun",
+  "catalogue": {
+    "reloadType": "doublebarrelshotgun",
+    "magazine": null,
+    "ammoKey": "Base.ShotgunShells",
+    "maxAmmo": 2,
+    "rackAfterShoot": false,
+    "haveChamber": false,
+    "insertAll": true,
+    "needsClose": true,
+    "manualSpent": false,
+    "recoilDelay": 30,
+    "projectiles": 9,
+    "fireMode": "Single"
+  },
+  "steps": [
+    {
+      "name": "fixture",
+      "held": "1 pz:Base.DoubleBarrelShotgun whole r=0",
+      "state": "false,0,false,0,false,false"
+    },
+    {
+      "name": "1 rounds loaded",
+      "seconds": 3.25,
+      "state": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "roundsLoaded": 2
+    },
+    {
+      "name": "2 one shot",
+      "before": {
+        "clip": false,
+        "ammo": 2,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "after": {
+        "clip": false,
+        "ammo": 1,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 emptied",
+      "shotsFired": 2,
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      }
+    },
+    {
+      "name": "3 dry click",
+      "dry": 1,
+      "last": {
+        "sequence": 19,
+        "itemId": 1641631419,
+        "status": "empty",
+        "ammo": 0,
+        "capacity": 2,
+        "chamber": false,
+        "jammed": false
+      }
+    },
+    {
+      "name": "4 rounds taken out",
+      "state": {
+        "clip": false,
+        "ammo": 0,
+        "chamber": false,
+        "spentCount": 0,
+        "spentChambered": false,
+        "jam": false
+      },
+      "unloaded": 2
+    },
+    {
+      "name": "5 inspect",
+      "clip": "inspectempty",
+      "inspects": 1
+    }
+  ],
+  "passed": true,
+  "cleanupErrors": []
+}

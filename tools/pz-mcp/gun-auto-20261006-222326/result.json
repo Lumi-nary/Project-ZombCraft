@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "steps": [
+    {
+      "name": "start",
+      "mode": "Auto"
+    },
+    {
+      "name": "B pressed",
+      "mode": "Single",
+      "last": "mode Single"
+    },
+    {
+      "name": "held in Auto",
+      "shots": 7
+    },
+    {
+      "name": "held in Single",
+      "shots": 1,
+      "mode": "Single"
+    }
+  ],
+  "cleanupErrors": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "step": 2,
+    "action": "mine",
+    "problem": "mining a block in reach did not reduce the block count (may have aimed at PZ geometry)",
+    "context": "Steve on the ground, health 20/20, outdoors at 12.5h, looking 30 deg down. Ahead: 1 tile solid, 2 tiles open. Crosshair: BLOCK. Holding slot 3: 49 minecraft:oak_planks. 0 zombies within 12 tiles, nearest 40.8 tiles away to the right (171 deg). Third person: False. Last actions: walk_forward, mine (anomaly). Anomalies so far: 0.",
+    "screenshot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\playtest-runs\\20261002-110921\\anomaly-002.png",
+    "triage": "bug",
+    "triageConfidence": 0.825
+  },
+  {
+    "step": 11,
+    "action": "mine",
+    "problem": "mining a block in reach did not reduce the block count (may have aimed at PZ geometry)",
+    "context": "Steve on the ground, health 20/20, outdoors at 12.6h, looking 45 deg down. Ahead: 1 tile open, 2 tiles open. Crosshair: BLOCK. Holding slot 3: 48 minecraft:oak_planks. 0 zombies within 12 tiles, nearest 43.8 tiles away to the right (64 deg). Third person: False. Last actions: place_block, turn_left, walk_forward, walk_forward, mine (anomaly). Anomalies so far: 1.",
+    "screenshot": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\playtest-runs\\20261002-110921\\anomaly-011.png",
+    "triage": "bug",
+    "triageConfidence": 0.857
+  }
+]

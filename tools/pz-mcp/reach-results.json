@@ -1,0 +1,25 @@
+{
+  "moved": "teleported player by 0.0,0.0",
+  "onPillar": {
+    "x": 2156.5,
+    "y": 2,
+    "z": 6107.5,
+    "yaw": -81.82646179199219,
+    "pitch": 6.213873863220215,
+    "onGround": true,
+    "flags": 1
+  },
+  "pillar": {
+    "attacksForwarded": 0,
+    "healthBefore": 20,
+    "lowestHealth": 20,
+    "outOfReach": 0
+  },
+  "ground": {
+    "attacksForwarded": 1,
+    "healthBefore": 20,
+    "lowestHealth": 17
+  },
+  "zombieAfter": "2158.0546875,6107.74267578125,0,false,attack,false",
+  "pass": true
+}

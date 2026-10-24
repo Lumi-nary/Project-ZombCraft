@@ -1,0 +1,28 @@
+{
+  "moved": "teleported player by 1.5,-0.5",
+  "firstPerson": {
+    "entities": {
+      "failed": false,
+      "triangles": 316,
+      "batches": 4,
+      "drawnBatches": 2,
+      "shadowBatches": 4,
+      "textures": 3
+    },
+    "thirdPerson": false
+  },
+  "shotFirstPerson": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-items.png",
+  "third": "third person on",
+  "thirdPerson": {
+    "entities": {
+      "failed": false,
+      "triangles": 316,
+      "batches": 4,
+      "drawnBatches": 4,
+      "shadowBatches": 4,
+      "textures": 3
+    }
+  },
+  "shotThirdPerson": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-steve-third.png",
+  "shotThirdPerson2": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\native-steve-third2.png"
+}

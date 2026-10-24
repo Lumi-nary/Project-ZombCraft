@@ -1,0 +1,26 @@
+plugins {
+	id 'java'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compileOnly files("${pzDir}/ZombieBuddy.jar")
+	compileOnly files("${pzDir}/projectzomboid.jar")
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+}
+
+jar {
+	archiveFileName = 'PzCraftShim.jar'
+	manifest {
+		attributes(
+			'Premain-Class': 'pzcraft.shim.ShimAgent',
+			'Can-Retransform-Classes': 'true'
+		)
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "stage": "particles",
+  "shotWallOnly": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-particles-none.png",
+  "particlesBehind": {
+    "failed": false,
+    "triangles": 678,
+    "batches": 7,
+    "drawnBatches": 3,
+    "shadowBatches": 4,
+    "translucentBatches": 1,
+    "textures": 6,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 0,
+    "frameAgeMs": 13.2409
+  },
+  "shotBehind": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-particles-behind.png",
+  "particlesFront": {
+    "failed": false,
+    "triangles": 660,
+    "batches": 7,
+    "drawnBatches": 3,
+    "shadowBatches": 4,
+    "translucentBatches": 1,
+    "textures": 6,
+    "handBatches": 1,
+    "decals": 0,
+    "flames": 0,
+    "frameAgeMs": 6.4494
+  },
+  "shotFront": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\pz-mcp\\render-particles-front.png",
+  "pass": true
+}

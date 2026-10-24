@@ -1,0 +1,296 @@
+{
+  "passed": true,
+  "weapons": {
+    "Base.Katana": {
+      "got": {
+        "item": "1 pz:Base.Katana whole",
+        "attackDamage": 53.333333333333336,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "10/10",
+        "preset": "bettercombat:katana"
+      },
+      "expectedDamage": 53.333333333333336,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 8.0,
+        "maxDamage": 8.0,
+        "minRange": 0.61,
+        "maxRange": 1.4,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 35.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 8,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 1,
+        "clipSize": 0,
+        "categories": [
+          "longblade"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 3
+      }
+    },
+    "Base.Axe": {
+      "got": {
+        "item": "1 pz:Base.Axe whole",
+        "attackDamage": 9.333333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 6.25,
+        "durability": "13/13",
+        "preset": "bettercombat:heavy_axe"
+      },
+      "expectedDamage": 9.333333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": 6.25,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.8,
+        "maxDamage": 2.0,
+        "minRange": 0.61,
+        "maxRange": 1.2,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 20.0,
+        "knockdown": 2.0,
+        "pushBack": 0.3,
+        "doorDamage": 35,
+        "hitChance": 0,
+        "conditionMax": 13,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 35,
+        "clipSize": 0,
+        "categories": [
+          "axe"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 2
+      }
+    },
+    "Base.Hammer": {
+      "got": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 5,
+        "attackSpeed": 1.7999999999999998,
+        "treeSpeed": 1,
+        "durability": "10/10",
+        "preset": "bettercombat:mace"
+      },
+      "expectedDamage": 5.0,
+      "expectedSpeed": 1.8,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.5,
+        "maxDamage": 1.0,
+        "minRange": 0.61,
+        "maxRange": 1.1,
+        "swingTime": 3.0,
+        "twoHanded": false,
+        "crit": 20.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 9,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 0,
+        "clipSize": 0,
+        "categories": [
+          "smallblunt"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 1
+      }
+    },
+    "Base.BaseballBat": {
+      "got": {
+        "item": "1 pz:Base.BaseballBat whole",
+        "attackDamage": 6.333333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "15/15",
+        "preset": "bettercombat:staff"
+      },
+      "expectedDamage": 6.333333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.8,
+        "maxDamage": 1.1,
+        "minRange": 0.61,
+        "maxRange": 1.25,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 40.0,
+        "knockdown": 2.0,
+        "pushBack": 0.5,
+        "doorDamage": 5,
+        "hitChance": 0,
+        "conditionMax": 15,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 1,
+        "clipSize": 0,
+        "categories": [
+          "blunt"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 2
+      }
+    },
+    "Base.Crowbar": {
+      "got": {
+        "item": "1 pz:Base.Crowbar whole",
+        "attackDamage": 5.833333333333334,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 1,
+        "durability": "15/15",
+        "preset": "bettercombat:staff"
+      },
+      "expectedDamage": 5.833333333333334,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": null,
+      "pz": {
+        "ranged": false,
+        "minDamage": 0.6,
+        "maxDamage": 1.15,
+        "minRange": 0.61,
+        "maxRange": 1.25,
+        "swingTime": 3.0,
+        "twoHanded": true,
+        "crit": 20.0,
+        "knockdown": 0.0,
+        "pushBack": 0.5,
+        "doorDamage": 8,
+        "hitChance": 0,
+        "conditionMax": 15,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 0,
+        "clipSize": 0,
+        "categories": [
+          "blunt"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 3
+      }
+    },
+    "Base.Machete": {
+      "got": {
+        "item": "1 pz:Base.Machete whole",
+        "attackDamage": 16.666666666666668,
+        "attackSpeed": 1.7999999999999998,
+        "treeSpeed": 2.5,
+        "durability": "13/13",
+        "preset": "bettercombat:sword"
+      },
+      "expectedDamage": 16.666666666666668,
+      "expectedSpeed": 1.8,
+      "expectedTreeSpeed": 2.5,
+      "pz": {
+        "ranged": false,
+        "minDamage": 2.0,
+        "maxDamage": 3.0,
+        "minRange": 0.61,
+        "maxRange": 1.23,
+        "swingTime": 4.0,
+        "twoHanded": false,
+        "crit": 20.0,
+        "knockdown": 2.0,
+        "pushBack": 0.3,
+        "doorDamage": 10,
+        "hitChance": 0,
+        "conditionMax": 13,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 10,
+        "clipSize": 0,
+        "categories": [
+          "longblade"
+        ],
+        "swingAnim": "Bat",
+        "maxHitCount": 2
+      }
+    },
+    "Base.Sledgehammer": {
+      "got": {
+        "item": "1 pz:Base.Sledgehammer whole",
+        "attackDamage": 16.666666666666668,
+        "attackSpeed": 1.2000000000000002,
+        "treeSpeed": 2.5,
+        "durability": "10/10",
+        "preset": "bettercombat:hammer"
+      },
+      "expectedDamage": 16.666666666666668,
+      "expectedSpeed": 1.2,
+      "expectedTreeSpeed": 2.5,
+      "pz": {
+        "ranged": false,
+        "minDamage": 2.0,
+        "maxDamage": 3.0,
+        "minRange": 0.7,
+        "maxRange": 1.35,
+        "swingTime": 2.0,
+        "twoHanded": true,
+        "crit": 20.0,
+        "knockdown": 3.0,
+        "pushBack": 1.0,
+        "doorDamage": 40,
+        "hitChance": 0,
+        "conditionMax": 10,
+        "maxAmmo": 0,
+        "soundRadius": 0,
+        "soundVolume": 0,
+        "ammoType": null,
+        "treeDamage": 10,
+        "clipSize": 0,
+        "categories": [
+          "blunt"
+        ],
+        "swingAnim": "Heavy",
+        "maxHitCount": 3
+      }
+    }
+  },
+  "W2": {
+    "spawned": "1.02 2.00",
+    "crosshair": "ENTITY",
+    "healthAfter": 0.8,
+    "loss": 1.2,
+    "expectedLoss": 1.5,
+    "mcAttackDamage": 1
+  },
+  "W3": {
+    "spawned": "3.0",
+    "healths": [
+      1.175,
+      1.175,
+      1.175
+    ],
+    "hurt": 3
+  },
+  "finished": "20261004-122737"
+}

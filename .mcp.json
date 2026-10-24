@@ -1,0 +1,24 @@
+﻿{
+  "mcpServers": {
+    "pz": {
+      "command": "C:\\Users\\Maple\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "args": ["tools/pz-mcp/server.py"]
+    },
+    "blockbench-headless": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "github:jasonjgardner/blockbench-mcp-plugin#v1.9.1", "--root", "tools/blockbench-models"]
+    },
+    "blender-mcp": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["--directory", "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\tools\\blender-mcp", "run", "blender-mcp", "--stdio"],
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "BLENDER_EXECUTABLE": "C:\\Program Files\\Blender Foundation\\Blender 4.5\\blender.exe",
+        "BLENDER_PATH": "C:\\Program Files\\Blender Foundation\\Blender 4.5\\blender.exe"
+      }
+    }
+  }
+}
+

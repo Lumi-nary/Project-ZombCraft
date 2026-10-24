@@ -1,0 +1,410 @@
+{
+  "before": {
+    "uptimeSec": 136,
+    "frames": 6595,
+    "fps": 53.1,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": false,
+    "minecraftGui": {
+      "handled": 0,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "43 minecraft:oak_planks",
+        "60 minecraft:stone",
+        "32 minecraft:glass",
+        "11 minecraft:cooked_beef",
+        "1 minecraft:red_bed",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 minecraft:red_bed",
+        "3 minecraft:rotten_flesh",
+        "1 minecraft:beef",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "combat": {
+        "applied": 4,
+        "heightRejected": 0,
+        "wallRejected": 0,
+        "rangeRejected": 0
+      },
+      "server": {
+        "air": 300,
+        "inWater": false,
+        "eyeY": 1.3318276405334473,
+        "invulnerable": false,
+        "eyesInWater": false,
+        "timeTicks": 20066,
+        "onFire": false,
+        "effects": [],
+        "xyz": [
+          2152.771951333919,
+          0,
+          6108.214173298774
+        ],
+        "entities": [
+          {
+            "id": 53,
+            "uuid": "ac5b8680-d5d2-4f23-bd3f-cacf8b255ed5",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:46:stand",
+            "xyz": [
+              2167.424072265625,
+              0.008775255128608411,
+              6125.4775390625
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "sleeping": false,
+        "probes": {},
+        "proxyCount": 1,
+        "tags": [],
+        "creative": false
+      }
+    },
+    "clock": {
+      "hour": 1.935570478439331,
+      "month": 7,
+      "day": 8,
+      "year": 1993
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": true,
+      "thirdPerson": false,
+      "eye": [
+        0,
+        1.331330418586731,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 5.116,
+      "minecraftPid": 5020
+    },
+    "player": {
+      "x": 2153.09423828125,
+      "y": 6107.9248046875,
+      "z": 0.0005000000237487257,
+      "health": 90.0003662109375,
+      "hunger": 0.008009195327758789,
+      "hasSquare": true,
+      "actionState": "movement",
+      "steveDrives": true,
+      "square": {
+        "solidTrans": false,
+        "minecraftBlock": false,
+        "solid": false
+      }
+    },
+    "steve": {
+      "x": 2153.155515741248,
+      "y": 0,
+      "z": 6107.84914624807,
+      "yaw": 168.2822265625,
+      "pitch": 7.7309064865112305,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 144,
+      "batches": 1,
+      "drawnBatches": 0,
+      "shadowBatches": 1,
+      "textures": 3
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 18,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 4,
+      "pzDamageEvents": 0
+    },
+    "zombies": 1,
+    "blocks": 34,
+    "overlay": {
+      "drawn": true,
+      "frameId": 2973,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 31.705400466918945
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 1236,
+      "atlasRevision": 63880654932300,
+      "meshRevision": 63879984974400,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 6456,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": true,
+      "keys": 1,
+      "yawDeg": 168.2822265625
+    },
+    "overrideActive": false
+  },
+  "pass": false,
+  "error": "{'uptimeSec': 136, 'frames': 6595, 'fps': 53.1, 'gameState': 'IngameState', 'inGame': True, 'paused': False, 'minecraftGui': {'handled': 0, 'screen': '', 'width': 640, 'height': 339, 'carried': '0 minecraft:air', 'inventory': ['1 minecraft:iron_sword', '1 minecraft:iron_pickaxe', '43 minecraft:oak_planks', '60 minecraft:stone', '32 minecraft:glass', '11 minecraft:cooked_beef', '1 minecraft:red_bed', '0 minecraft:air', '0 minecraft:air', '1 minecraft:red_bed', '3 minecraft:rotten_flesh', '1 minecraft:beef', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air', '0 minecraft:air'], 'combat': {'applied': 4, 'heightRejected': 0, 'wallRejected': 0, 'rangeRejected': 0}, 'server': {'air': 300, 'inWater': False, 'eyeY': 1.3318276405334473, 'invulnerable': False, 'eyesInWater': False, 'timeTicks': 20066, 'onFire': False, 'effects': [], 'xyz': [2152.771951333919, 0, 6108.214173298774], 'entities': [{'id': 53, 'uuid': 'ac5b8680-d5d2-4f23-bd3f-cacf8b255ed5', 'type': 'minecraft:zombie', 'name': 'PzCraftProxy:46:stand', 'xyz': [2167.424072265625, 0.008775255128608411, 6125.4775390625], 'tags': [], 'proxy': True, 'width': 0.6, 'height': 1.95, 'vehicle': 0, 'health': 1024, 'maxHealth': 1024, 'target': 0, 'noAi': True, 'navigationDone': True}], 'sleeping': False, 'probes': {}, 'proxyCount': 1, 'tags': [], 'creative': False}}, 'clock': {'hour': 1.935570478439331, 'month': 7, 'day': 8, 'year': 1993}, 'minecraftLights': 0, 'minecraftPassengers': 0, 'viewpoint': {'available': True, 'view3d': True, 'captured': True, 'thirdPerson': False, 'eye': [0, 1.331330418586731, 0], 'steadyEyeHeldFrames': 0}, 'link': {'connected': True, 'ready': True, 'rttMs': 5.116, 'minecraftPid': 5020}, 'player': {'x': 2153.09423828125, 'y': 6107.9248046875, 'z': 0.0005000000237487257, 'health': 90.0003662109375, 'hunger': 0.008009195327758789, 'hasSquare': True, 'actionState': 'movement', 'steveDrives': True, 'square': {'solidTrans': False, 'minecraftBlock': False, 'solid': False}}, 'steve': {'x': 2153.155515741248, 'y': 0, 'z': 6107.84914624807, 'yaw': 168.2822265625, 'pitch': 7.7309064865112305, 'onGround': True, 'flags': 1}, 'nativeEntities': {'failed': False, 'triangles': 144, 'batches': 1, 'drawnBatches': 0, 'shadowBatches': 1, 'textures': 3}, 'health': {'minecraftOwnsHealth': True, 'steveHealth': 18, 'steveMax': 20, 'zombieAttacksForwarded': 4, 'pzDamageEvents': 0}, 'zombies': 1, 'blocks': 34, 'overlay': {'drawn': True, 'frameId': 2973, 'texW': 1280, 'texH': 678, 'disabled': False, 'warpEnabled': True, 'shader': True, 'warpApplied': True, 'warpYawDeg': 0, 'warpPitchDeg': 0, 'frameAgeMs': 31.705400466918945}, 'nativeBlocks': {'enabled': True, 'failed': False, 'active': True, 'vertices': 1236, 'atlasRevision': 63880654932300, 'meshRevision': 63879984974400, 'failures': 0, 'sunShadows': True, 'shadowDraws': 6456, 'shadowFailures': 0}, 'vehicles': 1, 'input': {'view3d': True, 'captured': True, 'live': True, 'keys': 1, 'yawDeg': 168.2822265625}, 'overrideActive': False}",
+  "after": {
+    "uptimeSec": 136,
+    "frames": 6596,
+    "fps": 53.1,
+    "gameState": "IngameState",
+    "inGame": true,
+    "paused": true,
+    "minecraftGui": {
+      "handled": 0,
+      "screen": "",
+      "width": 640,
+      "height": 339,
+      "carried": "0 minecraft:air",
+      "inventory": [
+        "1 minecraft:iron_sword",
+        "1 minecraft:iron_pickaxe",
+        "43 minecraft:oak_planks",
+        "60 minecraft:stone",
+        "32 minecraft:glass",
+        "11 minecraft:cooked_beef",
+        "1 minecraft:red_bed",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "1 minecraft:red_bed",
+        "3 minecraft:rotten_flesh",
+        "1 minecraft:beef",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air",
+        "0 minecraft:air"
+      ],
+      "combat": {
+        "applied": 4,
+        "heightRejected": 0,
+        "wallRejected": 0,
+        "rangeRejected": 0
+      },
+      "server": {
+        "air": 300,
+        "inWater": false,
+        "eyeY": 1.3328214883804321,
+        "invulnerable": false,
+        "eyesInWater": false,
+        "timeTicks": 20068,
+        "onFire": false,
+        "effects": [],
+        "xyz": [
+          2153.211572686041,
+          0,
+          6107.779875706377
+        ],
+        "entities": [
+          {
+            "id": 53,
+            "uuid": "ac5b8680-d5d2-4f23-bd3f-cacf8b255ed5",
+            "type": "minecraft:zombie",
+            "name": "PzCraftProxy:46:stand",
+            "xyz": [
+              2167.424072265625,
+              0.008775255128608411,
+              6125.4775390625
+            ],
+            "tags": [],
+            "proxy": true,
+            "width": 0.6,
+            "height": 1.95,
+            "vehicle": 0,
+            "health": 1024,
+            "maxHealth": 1024,
+            "target": 0,
+            "noAi": true,
+            "navigationDone": true
+          }
+        ],
+        "sleeping": false,
+        "probes": {},
+        "proxyCount": 1,
+        "tags": [],
+        "creative": false
+      }
+    },
+    "clock": {
+      "hour": 1.9356889724731445,
+      "month": 7,
+      "day": 8,
+      "year": 1993
+    },
+    "minecraftLights": 0,
+    "minecraftPassengers": 0,
+    "viewpoint": {
+      "available": true,
+      "view3d": true,
+      "captured": false,
+      "thirdPerson": false,
+      "eye": [
+        0,
+        1.329588770866394,
+        0
+      ],
+      "steadyEyeHeldFrames": 0
+    },
+    "link": {
+      "connected": true,
+      "ready": true,
+      "rttMs": 5.116,
+      "minecraftPid": 5020
+    },
+    "player": {
+      "x": 2153.155517578125,
+      "y": 6107.84912109375,
+      "z": 0.0005000000237487257,
+      "health": 89.99998474121094,
+      "hunger": 0.008013256825506687,
+      "hasSquare": true,
+      "actionState": "movement",
+      "steveDrives": true,
+      "square": {
+        "solidTrans": false,
+        "minecraftBlock": false,
+        "solid": false
+      }
+    },
+    "steve": {
+      "x": 2153.1875501677996,
+      "y": 0,
+      "z": 6107.809560749998,
+      "yaw": 168.2822265625,
+      "pitch": 7.7309064865112305,
+      "onGround": true,
+      "flags": 1
+    },
+    "nativeEntities": {
+      "failed": false,
+      "triangles": 144,
+      "batches": 1,
+      "drawnBatches": 0,
+      "shadowBatches": 1,
+      "textures": 3
+    },
+    "health": {
+      "minecraftOwnsHealth": true,
+      "steveHealth": 18,
+      "steveMax": 20,
+      "zombieAttacksForwarded": 4,
+      "pzDamageEvents": 0
+    },
+    "zombies": 1,
+    "blocks": 34,
+    "overlay": {
+      "drawn": true,
+      "frameId": 2975,
+      "texW": 1280,
+      "texH": 678,
+      "disabled": false,
+      "warpEnabled": true,
+      "shader": true,
+      "warpApplied": true,
+      "warpYawDeg": 0,
+      "warpPitchDeg": 0,
+      "frameAgeMs": 26.26919937133789
+    },
+    "nativeBlocks": {
+      "enabled": true,
+      "failed": false,
+      "active": true,
+      "vertices": 1236,
+      "atlasRevision": 63880654932300,
+      "meshRevision": 63879984974400,
+      "failures": 0,
+      "sunShadows": true,
+      "shadowDraws": 6458,
+      "shadowFailures": 0
+    },
+    "vehicles": 1,
+    "input": {
+      "view3d": true,
+      "captured": true,
+      "live": false,
+      "keys": 0,
+      "yawDeg": 168.2822265625
+    },
+    "overrideActive": false
+  }
+}

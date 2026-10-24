@@ -1,0 +1,68 @@
+<h1>Project ZombCraft</h1>
+<p>Play Project Zomboid as Minecraft's Steve. Project ZombCraft connects <strong>Project Zomboid Build 42</strong> with a real <strong>Minecraft: Java Edition</strong> running beside it. Project Zomboid stays the world and the zombies; Minecraft brings Steve, his movement, blocks, inventory, survival and HUD.</p>
+<p><strong>This is the Minecraft half (Project-ZombCraft for Fabric).</strong> You also need the Project Zomboid half from the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3822072774">Steam Workshop</a>.</p>
+<p><strong>Two Minecraft versions</strong> (download the file for yours; the Project Zomboid mod is the same for both):</p>
+<table>
+<thead>
+<tr>
+<th>Minecraft</th>
+<th>File</th>
+<th>What it is</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>26.3</strong></td>
+<td><code>Project-ZombCraft-Fabric-&lt;version&gt;+mc26.3.jar</code></td>
+<td><strong>Vanilla Minecraft.</strong> The main version: the full game.</td>
+</tr>
+<tr>
+<td><strong>1.20.1</strong></td>
+<td><code>Project-ZombCraft-Fabric-&lt;version&gt;+mc1.20.1.jar</code></td>
+<td><strong>Supports other Fabric mods, but buggy.</strong> Tested with Create (Fabric) 6.0.8 and Viltrumite.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Single player only for now.</strong> Multiplayer is in development.</p>
+<h2>You need</h2>
+<ul>
+<li>Project Zomboid Build 42 (42.21 or later) on <strong>Windows</strong>, with <strong>ZombieBuddy</strong>, <strong>Project Viewpoint</strong> and <strong>Project ZombCraft</strong> from the Steam Workshop</li>
+<li>Minecraft: Java Edition in <strong>Prism Launcher</strong>, one of:</li>
+<li><strong>26.3</strong> with Fabric Loader <strong>0.19.5</strong>, Fabric API, GeckoLib <strong>5.5.7</strong>, this mod's <strong>+mc26.3</strong> file, and Java <strong>25</strong>. Better Combat is optional, for its melee animations.</li>
+<li><strong>1.20.1</strong> with Fabric Loader <strong>0.16</strong> or later, Fabric API for 1.20.1, GeckoLib <strong>4.8.4</strong> for 1.20.1, this mod's <strong>+mc1.20.1</strong> file, and Java <strong>17</strong>. Add the other Fabric 1.20.1 mods you want (Better Combat is not supported on 1.20.1).</li>
+</ul>
+<h2>Install</h2>
+<ol>
+<li>In Prism Launcher, create a Minecraft 26.3 or 1.20.1 instance <strong>with Fabric</strong>: in the <em>New Instance</em> dialog pick the version and, under <em>Mod loader</em>, select <strong>Fabric</strong>. The instance's <em>Version</em> tab must list <strong>Fabric Loader</strong> next to Minecraft. Without it Minecraft starts as plain vanilla and ignores every mod.</li>
+<li>Add Fabric API, GeckoLib (for that Minecraft version) and this mod's file for that version to the instance (Prism's <em>Mods → Download mods</em>, or put the jars in its <code>mods</code> folder).</li>
+<li>Subscribe to Project ZombCraft, ZombieBuddy and Project Viewpoint on the Steam Workshop and enable all three in Project Zomboid's <em>Mods</em> menu. ZombieBuddy needs a one-time setup: follow its Workshop page.</li>
+</ol>
+<h2>How to play</h2>
+<ol>
+<li>Start Project Zomboid. Its main menu lists your Minecraft instances that have this mod: press <strong>Play</strong> and it starts
+   yours (Prism Launcher, MultiMC and PolyMC). Project Zomboid never starts Minecraft by itself. With CurseForge, the
+   Modrinth App or Mojang's launcher, start the instance yourself and Project Zomboid waits for it.</li>
+<li>While Minecraft loads, Project Zomboid shows its loading screen. Minecraft runs in its own window; leave it running.</li>
+<li>Start a new game. Before character creation, choose <strong>Steve</strong> (Minecraft's character: no character creation, Minecraft's
+   inventory and rules, Minecraft's starter kit) or <strong>Zomboid survivor</strong> (Project Zomboid's own character, played in first
+   person; it never becomes Steve). A character keeps its choice: to change it, start a new character.</li>
+<li>You start in first person. As Steve, Minecraft's HUD is there as soon as Minecraft has opened the save's world.</li>
+</ol>
+<p>The first time, ZombieBuddy asks you to approve Project-ZombCraft's Java code: approve it.</p>
+<p>Each Project Zomboid save has its own Minecraft world, so Steve's inventory and your blocks stay with that save. Pausing Project Zomboid pauses Minecraft too. Minecraft closes itself, saving its world, a few seconds after Project Zomboid exits.</p>
+<h2>Troubleshooting</h2>
+<ul>
+<li><strong>Minecraft opens its normal title screen and nothing happens.</strong> The mod isn't loaded: check that the instance's <em>Version</em> tab lists Fabric Loader.</li>
+<li><strong>Project Zomboid shows no Steve.</strong> Check that ZombieBuddy, Project Viewpoint and Project ZombCraft are all enabled, that you approved Project-ZombCraft in ZombieBuddy's prompt, and that the box at the top of the screen doesn't say something is missing.</li>
+<li><strong>1.20.1 with other mods: something looks wrong or breaks.</strong> Try without the other mods first; if it works then, please report which mod.</li>
+<li><strong>Minecraft crashed or closed.</strong> Start it again from the same Prism instance, wait for it to load, then press O again in Project Zomboid. If that doesn't reconnect, load the save again.</li>
+</ul>
+<p>Bug reports: <a href="https://github.com/Lumi-nary/Project-ZombCraft/issues">GitHub issues</a>.</p>
+<h2>Credits</h2>
+<p>Made by Lumi-nary. Built on ZombieBuddy, Project Viewpoint, Fabric and GeckoLib. Not affiliated with The Indie Stone, Mojang, ZombieBuddy, Project Viewpoint.</p>
+<p>All rights reserved: please don't re-upload or redistribute this mod or any part of it. Videos, streams and modpacks that download it from this page are welcome. Versions up to 0.13.1 were published as open source under the MIT License.</p>
+<h2>Notes</h2>
+<ul>
+<li>Parts of the code, the 3D gun models and the page texts were written with AI coding assistants, directed, reviewed and play-tested by the author.</li>
+<li>The mod connects to Project Zomboid running on the same PC through a shared-memory file in the temp folder, and reads/writes its exported data in <code>~/.pzcraft</code>. No network use beyond Minecraft's own.</li>
+</ul>

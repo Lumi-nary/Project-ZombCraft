@@ -1,0 +1,1215 @@
+{
+  "passed": false,
+  "samples": [
+    {
+      "swing": 1,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 1
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 88,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 2,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 2
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 89,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 3,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 3
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 89,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 4,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 4
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 89,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 5,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 5
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 90,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 6,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 6
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 90,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 7,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 7
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 90,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 8,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 8
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 91,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 9,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 9
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 91,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 10,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 10
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 91,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 11,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 11
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 92,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 12,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 12
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 92,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 13,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 13
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 92,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 14,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 14
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 92,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 15,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 15
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 93,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 16,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 16
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 93,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 17,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 17
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 93,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 18,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 18
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 94,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 19,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 19
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 94,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 20,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 20
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 94,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 21,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 21
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 95,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 22,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 22
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 95,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 23,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 23
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 95,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 24,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 24
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 96,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 25,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 25
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 96,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 26,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 26
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 96,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 27,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 27
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 96,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 28,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 28
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 97,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 29,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 29
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 97,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 30,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 30
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 97,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 31,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 31
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 98,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 32,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 32
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 98,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 33,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 33
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 98,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 34,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 34
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 99,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 35,
+      "pzItem": "551789712,10,10,30",
+      "pzWeapons": {
+        "worn": 0,
+        "wearRolls": 35
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "10/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 99,
+        "txSent": 5,
+        "txAcked": 5,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 92056966146101: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    },
+    {
+      "swing": 36,
+      "pzItem": "551789712,9,10,30",
+      "pzWeapons": {
+        "worn": 1,
+        "wearRolls": 36
+      },
+      "held": {
+        "item": "1 pz:Base.Hammer c=9 whole",
+        "attackDamage": 1,
+        "attackSpeed": 1.7999999999999998,
+        "serverAttackDamage": 5,
+        "preset": "bettercombat:mace",
+        "treeSpeed": 1,
+        "durability": "9/10"
+      },
+      "mirror": {
+        "active": true,
+        "status": "in step",
+        "ledgerKinds": 7,
+        "pending": 0,
+        "states": 100,
+        "txSent": 6,
+        "txAcked": 6,
+        "created": 5,
+        "removed": 4,
+        "updated": 0,
+        "unmirrorable": 0,
+        "failures": 0,
+        "last": "sent transaction 266706592841453: 0 added, 0 removed, 1 changed"
+      },
+      "targetHealth": "98.5"
+    }
+  ],
+  "started": "20261004-130108",
+  "savedBefore": [
+    "PZ saved",
+    "Minecraft saved"
+  ],
+  "backup": "C:\\Users\\Maple\\Desktop\\Pz x Minecraft\\.pzcraft-backups\\before-codex-weapon-check-20261004-130108",
+  "pzItemBefore": "551789712,10,10,30",
+  "heldBefore": {
+    "item": "1 pz:Base.Hammer whole",
+    "attackDamage": 1,
+    "attackSpeed": 1.7999999999999998,
+    "serverAttackDamage": 5,
+    "preset": "bettercombat:mace",
+    "treeSpeed": 1,
+    "durability": "10/10"
+  },
+  "error": "PzError('timed out after 15s waiting for condition bar from PZ')",
+  "cleanupErrors": [],
+  "inventoryPreserved": true,
+  "slotRestored": true,
+  "positionPreserved": true,
+  "paused": true
+}

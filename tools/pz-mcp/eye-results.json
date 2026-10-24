@@ -1,0 +1,16 @@
+{
+  "steady": {
+    "standingEye": 1.619999885559082,
+    "statesSeen": [
+      "sitonground",
+      "sitonground-sitting"
+    ],
+    "seatedSamples": 26,
+    "maxEyeChange": 0.0
+  },
+  "follow": {
+    "lowestEye": 0.691
+  },
+  "pass": true,
+  "afterState": "idle"
+}

@@ -1,0 +1,2 @@
+﻿Base.IDcard id=1391882765 cond=10
+Base.KeyRing id=747819955 cond=10 contains[Base.Key1#1669406903]

@@ -1,0 +1,22 @@
+{
+  "moved": "teleported player by -56.5,48.5",
+  "ringTiles": 16,
+  "ringTilesSolidInPz": 16,
+  "closedRing": {
+    "samplesOnBlockTiles": 0,
+    "samplesInside": 0,
+    "closestChebyshev": 5.55,
+    "attacksLanded": 0
+  },
+  "withGap": {
+    "gap": [
+      10721,
+      9832
+    ],
+    "samplesOnBlockTiles": 0,
+    "samplesInside": 23,
+    "enteredThroughGap": true,
+    "closestChebyshev": 0.03
+  },
+  "pass": true
+}

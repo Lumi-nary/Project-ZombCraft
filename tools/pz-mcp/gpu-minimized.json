@@ -1,0 +1,5402 @@
+[
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.674
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.351
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:47.8158493+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.624
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.943
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:48.8722673+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.512
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.314
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:49.8983465+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.748
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.545
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:50.9248004+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.666
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.843
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:51.9426998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.434
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.849
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:52.9561666+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.721
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.701
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:53.9694652+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.597
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.87
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:54.9825966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.563
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.365
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:55.9960871+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.713
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.113
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:57.0050677+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.652
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.097
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:58.0229726+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.503
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.409
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:37:59.0473130+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.581
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.372
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:00.0626875+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.49
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.501
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:01.0753787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.654
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.234
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:02.0860150+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.543
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.627
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:03.0985410+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.609
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.757
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:04.1105350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.478
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.672
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:05.1197350+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.629
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.162
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:06.1352966+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.495
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.961
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:07.1489237+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.702
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.177
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:08.1599998+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.633
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.782
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:09.1816531+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.467
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.481
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:10.2028788+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.669
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 93.82
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:11.2142930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.459
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.517
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:12.2288887+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.652
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.017
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:13.2386930+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.607
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.14
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:14.2630475+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.456
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.118
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:15.2836058+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.672
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.309
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:16.2927720+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 4.484
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_6392_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_0_engtype_3d",
+    "percent": 94.061
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_10_engtype_timer 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_11_engtype_videodecode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_12_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_13_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_14_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_15_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_16_engtype_videoencode",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_17_engtype_security 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_1_engtype_high priority 3d",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_2_engtype_high priority compute",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_3_engtype_true audio 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_4_engtype_true audio 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_5_engtype_compute 3",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_6_engtype_compute 0",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_7_engtype_compute 1",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_8_engtype_copy",
+    "percent": 0.0
+  },
+  {
+    "time": "2026-10-02T20:38:17.3152787+08:00",
+    "engine": "pid_7512_luid_0x00000000_0x00014baa_phys_0_eng_9_engtype_copy",
+    "percent": 0.0
+  }
+]
