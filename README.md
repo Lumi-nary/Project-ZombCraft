@@ -1,5 +1,7 @@
 # Project-ZombCraft (PZ x Minecraft)
 
+> **This project is discontinued.** The last release is v0.17.0. For a more complete project of this kind, see https://www.youtube.com/watch?v=uLQqniyj14g
+
 **Codex / Claude: read [HANDOFF.md](HANDOFF.md) first.** It is the shared current plan, progress log, evidence ledger and resume point. The older plan/log filenames redirect there; use this README for launch and controls.
 
 Project Zomboid (B42.21) is the main game, drawn in 3D by the **Viewpoint** mod. A hidden, real **Minecraft 26.3**
