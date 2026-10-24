@@ -1,6 +1,6 @@
 # Project-ZombCraft (PZ x Minecraft)
 
-> **This project is discontinued.** The last release is v0.17.0. For a more complete project of this kind, see https://www.youtube.com/watch?v=uLQqniyj14g
+> **This project is discontinued.** The last release is v0.17.0. For a more complete project of this kind, see https://steamcommunity.com/sharedfiles/filedetails/?id=3818476863
 
 **Codex / Claude: read [HANDOFF.md](HANDOFF.md) first.** It is the shared current plan, progress log, evidence ledger and resume point. The older plan/log filenames redirect there; use this README for launch and controls.
 
